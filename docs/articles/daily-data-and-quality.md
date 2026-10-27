@@ -1,0 +1,193 @@
+# Raw daily data, CSV files and validation codes
+
+``` r
+
+library(meteogal2fdata)
+```
+
+## Daily observations and validation codes
+
+The MeteoGalicia daily JSON service returns, for each measurement, the
+value (`valor`), its unit (`unidade`) and a validation code
+(`lnCodigoValidacion`). The code belongs to an individual measurement,
+not to the complete station-day: temperature and precipitation recorded
+on the same day can therefore have different validation codes.
+
+``` r
+
+meteogal_qc_codes()
+#>   code        description default usable
+#> 1    0      Not validated   FALSE   TRUE
+#> 2    1     Valid original    TRUE   TRUE
+#> 3    2            Suspect   FALSE   TRUE
+#> 4    3          Erroneous   FALSE  FALSE
+#> 5    5 Valid interpolated    TRUE   TRUE
+#> 6    9       Not recorded   FALSE  FALSE
+```
+
+The package uses English variable names and keeps each code in a
+separate `qc_<variable>` column. For example, daily mean temperature is
+stored as `temp_mean` and its validation code as `qc_temp_mean`.
+
+The original MeteoGalicia parameter identifiers can still be supplied to
+`vars` when necessary, but the standard output names are intentionally
+kept simple and consistent across the package.
+
+## Download raw data: nothing is filtered
+
+[`meteogal2download()`](https://moviedo5.github.io/meteogal2fdata/reference/meteogal2download.md)
+stores the values and validation codes as delivered by MeteoGalicia. The
+download stage does not decide which observations should be used
+statistically. Files are written by station and year, either as RDS or
+as UTF-8 CSV.
+
+The following example uses two deliberately contrasting stations:
+Coruña-Torre de Hércules (`10157`), on the Atlantic coast, and Ourense
+(`10148`), inland.
+
+``` r
+
+log <- meteogal2download(
+  start_date = "2023-01-01",
+  end_date = "2024-12-31",
+  station_ids = c("10157", "10148"),
+  vars = c("temp_mean", "prec"),
+  format = "csv",
+  out_dir = "meteogal_daily"
+)
+log
+
+raw <- read.csv(
+  file.path("meteogal_daily", "10157", "10157_2024.csv"),
+  colClasses = c(station_id = "character"),
+  encoding = "UTF-8"
+)
+head(raw[, c("fecha", "temp_mean", "qc_temp_mean", "prec", "qc_prec")])
+```
+
+### Provenance
+
+The file `out_dir/_meteogal_manifest.csv` records how station-year files
+were obtained. A new row is added whenever a file is written.
+
+``` r
+
+read.csv(file.path("meteogal_daily", "_meteogal_manifest.csv"))
+```
+
+| column | content |
+|----|----|
+| `file`, `station_id`, `year`, `format` | file written |
+| `n_rows`, `first_date`, `last_date` | temporal coverage |
+| `id_param`, `variables` | requested and stored parameters |
+| `qc_codes` | whether validation-code columns are present |
+| `quality_filter` | always records that downloaded values are unfiltered |
+| `downloaded_utc`, `source`, `package_version` | provenance |
+
+RDS files also keep provenance in `attr(x, "meteogal_meta")` and units
+in `attr(x, "units")`.
+
+## Choose the quality criterion when reading
+
+Downloaded files can be read repeatedly using different validation
+criteria, without downloading the observations again.
+
+``` r
+
+valid <- meteogal2df(data_dir = "meteogal_daily")
+original <- meteogal2df(data_dir = "meteogal_daily", quality = 1)
+recent <- meteogal2df(data_dir = "meteogal_daily", quality = c(0, 1, 5))
+all_usable <- meteogal2df(data_dir = "meteogal_daily", quality = NULL)
+```
+
+The default is `quality = c(1, 5)`: valid original observations and
+values interpolated by MeteoGalicia. Values with other codes become `NA`
+in the returned measurement column, while their validation codes remain
+available. Codes 3 (erroneous) and 9 (not recorded), and the sentinel
+value `-9999`, are always treated as missing.
+
+A small artificial example illustrates only the filtering mechanics; it
+is not MeteoGalicia data:
+
+``` r
+
+toy <- data.frame(
+  fecha = as.Date("2024-01-01") + 0:5,
+  station_id = "toy",
+  temp_mean = c(10.1, 10.4, 35.0, 9.8, 9.9, -9999),
+  qc_temp_mean = c(1L, 5L, 2L, 0L, 3L, 9L)
+)
+f <- tempfile(fileext = ".csv")
+write.csv(toy, f, row.names = FALSE)
+meteogal2df(data_dir = f)
+#> [MeteoGalicia] quality = c(1, 5): values set to NA: 1 with code 0 (Not validated); 1 with code 2 (Suspect); 1 with code 3 (Erroneous); 1 with code 9 (Not recorded). Codes are kept in the qc_ columns; see meteogal_qc_codes().
+#>        fecha station_id temp_mean qc_temp_mean
+#> 1 2024-01-01        toy      10.1            1
+#> 2 2024-01-02        toy      10.4            5
+#> 3 2024-01-03        toy        NA            2
+#> 4 2024-01-04        toy        NA            0
+#> 5 2024-01-05        toy        NA            3
+#> 6 2024-01-06        toy        NA            9
+meteogal2df(data_dir = f, quality = c(0, 1, 2, 5))
+#> [MeteoGalicia] quality = c(0, 1, 2, 5): values set to NA: 1 with code 3 (Erroneous); 1 with code 9 (Not recorded). Codes are kept in the qc_ columns; see meteogal_qc_codes().
+#>        fecha station_id temp_mean qc_temp_mean
+#> 1 2024-01-01        toy      10.1            1
+#> 2 2024-01-02        toy      10.4            5
+#> 3 2024-01-03        toy      35.0            2
+#> 4 2024-01-04        toy       9.8            0
+#> 5 2024-01-05        toy        NA            3
+#> 6 2024-01-06        toy        NA            9
+```
+
+## Missing data
+
+The package does not impute, interpolate or smooth observations:
+
+- station-days absent from the service response are absent from the
+  daily data frame;
+- missing observations, `-9999`, codes 3 and 9, and values rejected by
+  `quality` are represented as `NA`;
+- functional objects use a 365-day grid, and missing days remain `NA`;
+- values with code 5 are values already interpolated by MeteoGalicia,
+  not by `meteogal2fdata`.
+
+## Bundled real example
+
+`data-raw/build-example.R` creates a two-station example for 2023-2024
+using Coruña-Torre de Hércules and Ourense. The example contains the raw
+values and validation codes returned by the service.
+
+``` r
+
+f <- system.file("extdata", "meteogal_example.csv", package = "meteogal2fdata")
+if (nzchar(f)) {
+  ex <- meteogal2df(data_dir = f, quality = NULL)
+  print(unique(ex[, c("station_id", "station_name")]))
+  print(table(ex$station_id, ex$qc_temp_mean, useNA = "ifany"))
+} else {
+  f <- system.file("extdata", "meteogal_small.csv", package = "meteogal2fdata")
+  ex <- meteogal2df(data_dir = f)
+  ex[, c("fecha", "station_id", "temp_mean", "prec")]
+}
+#>     station_id             station_name
+#> 1        10148                  Ourense
+#> 732      10157 Coruña-Torre de Hércules
+#>        
+#>           1
+#>   10148 731
+#>   10157 731
+```
+
+## Sources
+
+- Daily JSON service, parameters and validation codes:
+  <https://www.meteogalicia.gal/datosred/infoweb/meteo/docs/rss/JSON_EstacionsDiarios_es.pdf>
+- Historical hourly JSON service (same validation codes):
+  <https://www.meteogalicia.gal/datosred/infoweb/meteo/docs/rss/JSON_EstacionHorariosHistoricos_es.pdf>
+- Current station state (`-9999` denotes no data):
+  <https://www.meteogalicia.gal/datosred/infoweb/meteo/docs/rss/JSON_estado_actual_es.pdf>
+- Historical data web form:
+  <https://www.meteogalicia.gal/datosred/infoweb/meteo/docs/informes/datos_es.pdf>
+- Legal notice: <https://www.meteogalicia.gal/aviso-legal>
+
+Data source: MeteoGalicia, Xunta de Galicia.

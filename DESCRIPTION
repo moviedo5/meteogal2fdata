@@ -16,7 +16,9 @@ Description: Downloads daily meteorological observations from the
     station-year combinations on a common 365-day grid; missing values are
     preserved, never imputed, and the daily validation codes and dates of each
     curve are kept in the 'ldata' metadata.
-URL: https://github.com/moviedo5/meteogal2fdata
+URL: https://moviedo5.github.io/meteogal2fdata/,
+    https://github.com/moviedo5/meteogal2fdata,
+    https://manueloviedo.shinyapps.io/meteogal2shiny/
 BugReports: https://github.com/moviedo5/meteogal2fdata/issues
 License: GPL-3
 Encoding: UTF-8

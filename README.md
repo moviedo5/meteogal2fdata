@@ -11,6 +11,15 @@ objects are the intermediate representation, measurements are not imputed,
 and quality filtering is separated from downloading so that the same raw files
 can be reused with different validation criteria.
 
+**Interactive app:** [meteogal2shiny](https://manueloviedo.shinyapps.io/meteogal2shiny/)
+(station map, download, validation codes and functional data, no installation
+needed) · **Website:** <https://moviedo5.github.io/meteogal2fdata/>
+
+```r
+# install.packages("remotes")
+remotes::install_github("moviedo5/meteogal2fdata", build_vignettes = TRUE)
+```
+
 **Data source:** MeteoGalicia, Xunta de Galicia. Data may be reused according
 to the [MeteoGalicia legal notice](https://www.meteogalicia.gal/aviso-legal),
 with MeteoGalicia cited as the source.
@@ -160,6 +169,9 @@ No observations in these files are simulated.
   functional data.
 
 ## Shiny application
+
+The application is online at
+<https://manueloviedo.shinyapps.io/meteogal2shiny/>.
 
 The interactive application **meteogal2shiny** (station map, download,
 validation codes and functional data) is kept in a separate folder,

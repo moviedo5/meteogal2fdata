@@ -42,7 +42,9 @@ Documentation used:
 \seealso{
 Useful links:
 \itemize{
+  \item \url{https://moviedo5.github.io/meteogal2fdata/}
   \item \url{https://github.com/moviedo5/meteogal2fdata}
+  \item \url{https://manueloviedo.shinyapps.io/meteogal2shiny/}
   \item Report bugs at \url{https://github.com/moviedo5/meteogal2fdata/issues}
 }
 
