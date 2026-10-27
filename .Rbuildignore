@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^dev$
+^data-raw$
+^\.Rhistory$
+^vignettes/.*\.html$
+^\.positai$
+^\.claude$
+^LICENSE\.md$
+^docs$

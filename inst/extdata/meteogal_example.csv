@@ -1,0 +1,1463 @@
+"fecha","station_id","station_name","municipality","province","altitude","lon","lat","timestamp","service","temp_mean","temp_min","temp_max","hum_mean","prec","qc_temp_mean","qc_temp_min","qc_temp_max","qc_hum_mean","qc_prec"
+2023-01-01,"10148","Ourense","OURENSE","Ourense",,,,2023-01-01,"meteogalicia",11.17,8.6,13.63,99,48.8,1,1,1,1,1
+2023-01-02,"10148","Ourense","OURENSE","Ourense",,,,2023-01-02,"meteogalicia",7.27,3.83,14.04,95,0,1,1,1,1,1
+2023-01-03,"10148","Ourense","OURENSE","Ourense",,,,2023-01-03,"meteogalicia",4.87,2.6,10.31,96,0,1,1,1,1,1
+2023-01-04,"10148","Ourense","OURENSE","Ourense",,,,2023-01-04,"meteogalicia",5.21,2.84,12.65,95,0,1,1,1,1,1
+2023-01-05,"10148","Ourense","OURENSE","Ourense",,,,2023-01-05,"meteogalicia",4.42,3.07,8.72,98,0,1,1,1,1,1
+2023-01-06,"10148","Ourense","OURENSE","Ourense",,,,2023-01-06,"meteogalicia",5.68,1.94,11.05,86,0,1,1,1,1,1
+2023-01-07,"10148","Ourense","OURENSE","Ourense",,,,2023-01-07,"meteogalicia",12.15,9.81,15.05,79,17.2,1,1,1,1,1
+2023-01-08,"10148","Ourense","OURENSE","Ourense",,,,2023-01-08,"meteogalicia",11.79,9.45,16.18,92,18.8,1,1,1,1,1
+2023-01-09,"10148","Ourense","OURENSE","Ourense",,,,2023-01-09,"meteogalicia",8.33,4.68,14.58,91,0,1,1,1,1,1
+2023-01-10,"10148","Ourense","OURENSE","Ourense",,,,2023-01-10,"meteogalicia",10.16,4.44,15.39,88,0.6,1,1,1,1,1
+2023-01-11,"10148","Ourense","OURENSE","Ourense",,,,2023-01-11,"meteogalicia",9.9,3.76,17.05,89,11,1,1,1,1,1
+2023-01-12,"10148","Ourense","OURENSE","Ourense",,,,2023-01-12,"meteogalicia",5.73,2.97,8.68,97,0,1,1,1,1,1
+2023-01-13,"10148","Ourense","OURENSE","Ourense",,,,2023-01-13,"meteogalicia",11.93,8.09,18.88,84,0,1,1,1,1,1
+2023-01-14,"10148","Ourense","OURENSE","Ourense",,,,2023-01-14,"meteogalicia",13.33,8.96,17.71,79,1,1,1,1,1,1
+2023-01-15,"10148","Ourense","OURENSE","Ourense",,,,2023-01-15,"meteogalicia",8.56,4.58,13.31,80,9,1,1,1,1,1
+2023-01-16,"10148","Ourense","OURENSE","Ourense",,,,2023-01-16,"meteogalicia",12.14,9.51,13.43,83,12.2,1,1,1,1,1
+2023-01-17,"10148","Ourense","OURENSE","Ourense",,,,2023-01-17,"meteogalicia",7.74,4.08,12.96,75,9,1,1,1,1,1
+2023-01-18,"10148","Ourense","OURENSE","Ourense",,,,2023-01-18,"meteogalicia",4.72,2.56,9.35,90,7.4,1,1,1,1,1
+2023-01-19,"10148","Ourense","OURENSE","Ourense",,,,2023-01-19,"meteogalicia",6.11,2.13,11.4,100,8.4,1,1,1,1,1
+2023-01-20,"10148","Ourense","OURENSE","Ourense",,,,2023-01-20,"meteogalicia",11.71,9.61,15.17,95,1,1,1,1,1,1
+2023-01-21,"10148","Ourense","OURENSE","Ourense",,,,2023-01-21,"meteogalicia",10.38,3.17,16.15,84,0,1,1,1,1,1
+2023-01-22,"10148","Ourense","OURENSE","Ourense",,,,2023-01-22,"meteogalicia",3.58,-0.65,9.79,86,0,1,1,1,1,1
+2023-01-23,"10148","Ourense","OURENSE","Ourense",,,,2023-01-23,"meteogalicia",3.52,-1.78,13.11,76,0,1,1,1,1,1
+2023-01-24,"10148","Ourense","OURENSE","Ourense",,,,2023-01-24,"meteogalicia",4.17,-2.13,12.76,78,0,1,1,1,1,1
+2023-01-25,"10148","Ourense","OURENSE","Ourense",,,,2023-01-25,"meteogalicia",3.71,-2.2,12.41,82,0,1,1,1,1,1
+2023-01-26,"10148","Ourense","OURENSE","Ourense",,,,2023-01-26,"meteogalicia",4.08,-0.38,11.6,93,2.4,1,1,1,1,1
+2023-01-27,"10148","Ourense","OURENSE","Ourense",,,,2023-01-27,"meteogalicia",5.74,2.01,11.88,80,0,1,1,1,1,1
+2023-01-28,"10148","Ourense","OURENSE","Ourense",,,,2023-01-28,"meteogalicia",4.88,-1.12,12.98,76,0,1,1,1,1,1
+2023-01-29,"10148","Ourense","OURENSE","Ourense",,,,2023-01-29,"meteogalicia",3.92,-2.39,13.07,76,0,1,1,1,1,1
+2023-01-30,"10148","Ourense","OURENSE","Ourense",,,,2023-01-30,"meteogalicia",2.97,-2.66,14.94,80,0,1,1,1,1,1
+2023-01-31,"10148","Ourense","OURENSE","Ourense",,,,2023-01-31,"meteogalicia",2.77,-3.56,14.68,83,0,1,1,1,1,1
+2023-02-01,"10148","Ourense","OURENSE","Ourense",,,,2023-02-01,"meteogalicia",3.64,-2.53,14.34,83,0,1,1,1,1,1
+2023-02-02,"10148","Ourense","OURENSE","Ourense",,,,2023-02-02,"meteogalicia",4.72,-1.67,17.9,81,0,1,1,1,1,1
+2023-02-03,"10148","Ourense","OURENSE","Ourense",,,,2023-02-03,"meteogalicia",3.93,-2.88,17.47,82,0,1,1,1,1,1
+2023-02-04,"10148","Ourense","OURENSE","Ourense",,,,2023-02-04,"meteogalicia",5,-3.29,19.36,78,0,1,1,1,1,1
+2023-02-05,"10148","Ourense","OURENSE","Ourense",,,,2023-02-05,"meteogalicia",5.96,-0.41,15.69,79,0,1,1,1,1,1
+2023-02-06,"10148","Ourense","OURENSE","Ourense",,,,2023-02-06,"meteogalicia",5.29,-1.83,16.05,78,0,1,1,1,1,1
+2023-02-07,"10148","Ourense","OURENSE","Ourense",,,,2023-02-07,"meteogalicia",4.59,-2.8,15.12,72,0,1,1,1,1,1
+2023-02-08,"10148","Ourense","OURENSE","Ourense",,,,2023-02-08,"meteogalicia",7.9,1.61,16.38,63,0,1,1,1,1,1
+2023-02-09,"10148","Ourense","OURENSE","Ourense",,,,2023-02-09,"meteogalicia",5.74,-1.78,17,72,0,1,1,1,1,1
+2023-02-10,"10148","Ourense","OURENSE","Ourense",,,,2023-02-10,"meteogalicia",5.25,-2.69,17.36,71,0,1,1,1,1,1
+2023-02-11,"10148","Ourense","OURENSE","Ourense",,,,2023-02-11,"meteogalicia",4.92,-4.13,18.15,66,0,1,1,1,1,1
+2023-02-12,"10148","Ourense","OURENSE","Ourense",,,,2023-02-12,"meteogalicia",6.09,-2.44,16.8,63,0,1,1,1,1,1
+2023-02-13,"10148","Ourense","OURENSE","Ourense",,,,2023-02-13,"meteogalicia",10.28,6.14,17.99,58,0,1,1,1,1,1
+2023-02-14,"10148","Ourense","OURENSE","Ourense",,,,2023-02-14,"meteogalicia",9.63,3.1,19.18,66,0,1,1,1,1,1
+2023-02-15,"10148","Ourense","OURENSE","Ourense",,,,2023-02-15,"meteogalicia",9.84,2.18,23.14,71,0,1,1,1,1,1
+2023-02-16,"10148","Ourense","OURENSE","Ourense",,,,2023-02-16,"meteogalicia",9.11,1.09,21.81,75,0,1,1,1,1,1
+2023-02-17,"10148","Ourense","OURENSE","Ourense",,,,2023-02-17,"meteogalicia",10.06,1.5,25.15,73,0,1,1,1,1,1
+2023-02-18,"10148","Ourense","OURENSE","Ourense",,,,2023-02-18,"meteogalicia",9.53,-0.22,24.83,67,0,1,1,1,1,1
+2023-02-19,"10148","Ourense","OURENSE","Ourense",,,,2023-02-19,"meteogalicia",12.43,6.07,22.07,62,0,1,1,1,1,1
+2023-02-20,"10148","Ourense","OURENSE","Ourense",,,,2023-02-20,"meteogalicia",9.89,4.35,18.45,84,0.6,1,1,1,1,1
+2023-02-21,"10148","Ourense","OURENSE","Ourense",,,,2023-02-21,"meteogalicia",11.6,8.45,16.9,89,5,1,1,1,1,1
+2023-02-22,"10148","Ourense","OURENSE","Ourense",,,,2023-02-22,"meteogalicia",9.39,6.21,15.21,92,5.8,1,1,1,1,1
+2023-02-23,"10148","Ourense","OURENSE","Ourense",,,,2023-02-23,"meteogalicia",5.84,2.13,11.59,76,0.4,1,1,1,1,1
+2023-02-24,"10148","Ourense","OURENSE","Ourense",,,,2023-02-24,"meteogalicia",5.72,1.31,11.91,75,0,1,1,1,1,1
+2023-02-25,"10148","Ourense","OURENSE","Ourense",,,,2023-02-25,"meteogalicia",4.82,1.94,9.93,92,9.2,1,1,1,1,1
+2023-02-26,"10148","Ourense","OURENSE","Ourense",,,,2023-02-26,"meteogalicia",6.24,2.35,13.86,76,0,1,1,1,1,1
+2023-02-27,"10148","Ourense","OURENSE","Ourense",,,,2023-02-27,"meteogalicia",4.78,-2.26,12.88,61,0,1,1,1,1,1
+2023-02-28,"10148","Ourense","OURENSE","Ourense",,,,2023-02-28,"meteogalicia",4.2,-3.56,12.68,57,0,1,1,1,1,1
+2023-03-01,"10148","Ourense","OURENSE","Ourense",,,,2023-03-01,"meteogalicia",2.66,-3.24,11.08,79,0.8,1,1,1,1,1
+2023-03-02,"10148","Ourense","OURENSE","Ourense",,,,2023-03-02,"meteogalicia",3.85,-3.4,16.17,73,0,1,1,1,1,1
+2023-03-03,"10148","Ourense","OURENSE","Ourense",,,,2023-03-03,"meteogalicia",6.13,-3.56,18.47,67,0,1,1,1,1,1
+2023-03-04,"10148","Ourense","OURENSE","Ourense",,,,2023-03-04,"meteogalicia",7.44,-1.95,20.76,64,0,1,1,1,1,1
+2023-03-05,"10148","Ourense","OURENSE","Ourense",,,,2023-03-05,"meteogalicia",5.53,-0.42,10.62,86,2.2,1,1,1,1,1
+2023-03-06,"10148","Ourense","OURENSE","Ourense",,,,2023-03-06,"meteogalicia",10.77,7.26,16.54,92,2.8,1,1,1,1,1
+2023-03-07,"10148","Ourense","OURENSE","Ourense",,,,2023-03-07,"meteogalicia",13.47,10.68,16.29,72,0,1,1,1,1,1
+2023-03-08,"10148","Ourense","OURENSE","Ourense",,,,2023-03-08,"meteogalicia",14.93,9.98,19.35,78,8.8,1,1,1,1,1
+2023-03-09,"10148","Ourense","OURENSE","Ourense",,,,2023-03-09,"meteogalicia",13.52,9.34,17.78,77,3.6,1,1,1,1,1
+2023-03-10,"10148","Ourense","OURENSE","Ourense",,,,2023-03-10,"meteogalicia",15.88,11.89,21.08,69,0.4,1,1,1,1,1
+2023-03-11,"10148","Ourense","OURENSE","Ourense",,,,2023-03-11,"meteogalicia",16.33,14.91,17.81,73,0,1,1,1,1,1
+2023-03-12,"10148","Ourense","OURENSE","Ourense",,,,2023-03-12,"meteogalicia",16.16,10.8,22.46,69,0,1,1,1,1,1
+2023-03-13,"10148","Ourense","OURENSE","Ourense",,,,2023-03-13,"meteogalicia",12.98,9.38,17.39,72,4.2,1,1,1,1,1
+2023-03-14,"10148","Ourense","OURENSE","Ourense",,,,2023-03-14,"meteogalicia",10.86,5.42,17.99,79,0,1,1,1,1,1
+2023-03-15,"10148","Ourense","OURENSE","Ourense",,,,2023-03-15,"meteogalicia",12.33,3.16,25.25,71,0,1,1,1,1,1
+2023-03-16,"10148","Ourense","OURENSE","Ourense",,,,2023-03-16,"meteogalicia",11.65,4.37,22.21,79,3.6,1,1,1,1,1
+2023-03-17,"10148","Ourense","OURENSE","Ourense",,,,2023-03-17,"meteogalicia",11.46,8.42,15.55,82,7.6,1,1,1,1,1
+2023-03-18,"10148","Ourense","OURENSE","Ourense",,,,2023-03-18,"meteogalicia",13.29,8.41,19.97,74,1,1,1,1,1,1
+2023-03-19,"10148","Ourense","OURENSE","Ourense",,,,2023-03-19,"meteogalicia",12.25,5.98,21.99,75,0,1,1,1,1,1
+2023-03-20,"10148","Ourense","OURENSE","Ourense",,,,2023-03-20,"meteogalicia",12.07,3.38,23.98,73,0,1,1,1,1,1
+2023-03-21,"10148","Ourense","OURENSE","Ourense",,,,2023-03-21,"meteogalicia",13.98,8.98,22.52,69,0,1,1,1,1,1
+2023-03-22,"10148","Ourense","OURENSE","Ourense",,,,2023-03-22,"meteogalicia",12.75,7.69,18.06,72,0,1,1,1,1,1
+2023-03-23,"10148","Ourense","OURENSE","Ourense",,,,2023-03-23,"meteogalicia",15.22,13.31,18.48,67,1.2,1,1,1,1,1
+2023-03-24,"10148","Ourense","OURENSE","Ourense",,,,2023-03-24,"meteogalicia",13.33,5.44,18.62,69,5.2,1,1,1,1,1
+2023-03-25,"10148","Ourense","OURENSE","Ourense",,,,2023-03-25,"meteogalicia",9.86,1.74,16.86,80,0,1,1,1,1,1
+2023-03-26,"10148","Ourense","OURENSE","Ourense",,,,2023-03-26,"meteogalicia",12.81,5.99,19.72,63,0,1,1,1,1,1
+2023-03-27,"10148","Ourense","OURENSE","Ourense",,,,2023-03-27,"meteogalicia",11.93,1.58,25.92,64,0,1,1,1,1,1
+2023-03-28,"10148","Ourense","OURENSE","Ourense",,,,2023-03-28,"meteogalicia",14.74,6.14,25.96,60,0,1,1,1,1,1
+2023-03-29,"10148","Ourense","OURENSE","Ourense",,,,2023-03-29,"meteogalicia",16.71,8.75,26.22,58,0,1,1,1,1,1
+2023-03-30,"10148","Ourense","OURENSE","Ourense",,,,2023-03-30,"meteogalicia",16.91,11.97,21.24,58,0,1,1,1,1,1
+2023-03-31,"10148","Ourense","OURENSE","Ourense",,,,2023-03-31,"meteogalicia",15.32,11.1,18.9,61,0,1,1,1,1,1
+2023-04-01,"10148","Ourense","OURENSE","Ourense",,,,2023-04-01,"meteogalicia",13.37,6.67,19.71,67,0,1,1,1,1,1
+2023-04-02,"10148","Ourense","OURENSE","Ourense",,,,2023-04-02,"meteogalicia",10.63,0.49,22.12,60,0,1,1,1,1,1
+2023-04-03,"10148","Ourense","OURENSE","Ourense",,,,2023-04-03,"meteogalicia",9.74,2.55,16.47,73,0.4,1,1,1,1,1
+2023-04-04,"10148","Ourense","OURENSE","Ourense",,,,2023-04-04,"meteogalicia",13.79,5.07,24.93,61,0,1,1,1,1,1
+2023-04-05,"10148","Ourense","OURENSE","Ourense",,,,2023-04-05,"meteogalicia",13.57,1.98,26.08,55,0,1,1,1,1,1
+2023-04-06,"10148","Ourense","OURENSE","Ourense",,,,2023-04-06,"meteogalicia",14.96,3.57,28.75,49,0,1,1,1,1,1
+2023-04-07,"10148","Ourense","OURENSE","Ourense",,,,2023-04-07,"meteogalicia",15.19,3.68,29.26,54,0,1,1,1,1,1
+2023-04-08,"10148","Ourense","OURENSE","Ourense",,,,2023-04-08,"meteogalicia",15.91,4.11,30.47,56,0,1,1,1,1,1
+2023-04-09,"10148","Ourense","OURENSE","Ourense",,,,2023-04-09,"meteogalicia",15.53,5.93,27.67,59,0,1,1,1,1,1
+2023-04-10,"10148","Ourense","OURENSE","Ourense",,,,2023-04-10,"meteogalicia",14.82,6.43,24.09,69,0,1,1,1,1,1
+2023-04-11,"10148","Ourense","OURENSE","Ourense",,,,2023-04-11,"meteogalicia",15.7,11.02,23.26,65,0,1,1,1,1,1
+2023-04-12,"10148","Ourense","OURENSE","Ourense",,,,2023-04-12,"meteogalicia",12.02,4.03,16.86,65,3,1,1,1,1,1
+2023-04-13,"10148","Ourense","OURENSE","Ourense",,,,2023-04-13,"meteogalicia",9.46,2.23,15.34,79,0.6,1,1,1,1,1
+2023-04-14,"10148","Ourense","OURENSE","Ourense",,,,2023-04-14,"meteogalicia",14.67,8.15,21.15,68,2,1,1,1,1,1
+2023-04-15,"10148","Ourense","OURENSE","Ourense",,,,2023-04-15,"meteogalicia",14.13,5.63,24.3,72,0,1,1,1,1,1
+2023-04-16,"10148","Ourense","OURENSE","Ourense",,,,2023-04-16,"meteogalicia",17.23,5.51,30.72,62,0,1,1,1,1,1
+2023-04-17,"10148","Ourense","OURENSE","Ourense",,,,2023-04-17,"meteogalicia",17.93,7.54,30.66,55,0,1,1,1,1,1
+2023-04-18,"10148","Ourense","OURENSE","Ourense",,,,2023-04-18,"meteogalicia",17.79,6.81,29.65,48,0,1,1,1,1,1
+2023-04-19,"10148","Ourense","OURENSE","Ourense",,,,2023-04-19,"meteogalicia",16.63,6.45,29.04,55,0,1,1,1,1,1
+2023-04-20,"10148","Ourense","OURENSE","Ourense",,,,2023-04-20,"meteogalicia",15.19,5.68,26.33,63,0,1,1,1,1,1
+2023-04-21,"10148","Ourense","OURENSE","Ourense",,,,2023-04-21,"meteogalicia",11.43,6.69,18.62,92,11,1,1,1,1,1
+2023-04-22,"10148","Ourense","OURENSE","Ourense",,,,2023-04-22,"meteogalicia",13.93,7.67,20.55,71,0.4,1,1,1,1,1
+2023-04-23,"10148","Ourense","OURENSE","Ourense",,,,2023-04-23,"meteogalicia",15.66,13.02,19.12,83,3.4,1,1,1,1,1
+2023-04-24,"10148","Ourense","OURENSE","Ourense",,,,2023-04-24,"meteogalicia",16.06,11.45,21.94,82,0,1,1,1,1,1
+2023-04-25,"10148","Ourense","OURENSE","Ourense",,,,2023-04-25,"meteogalicia",17.15,10.3,24.87,74,0,1,1,1,1,1
+2023-04-26,"10148","Ourense","OURENSE","Ourense",,,,2023-04-26,"meteogalicia",19.77,13.36,28.45,70,0,1,1,1,1,1
+2023-04-27,"10148","Ourense","OURENSE","Ourense",,,,2023-04-27,"meteogalicia",20.31,12.38,31.73,63,0,1,1,1,1,1
+2023-04-28,"10148","Ourense","OURENSE","Ourense",,,,2023-04-28,"meteogalicia",19.85,11.32,29.51,62,0,1,1,1,1,1
+2023-04-29,"10148","Ourense","OURENSE","Ourense",,,,2023-04-29,"meteogalicia",18.83,11.45,26.62,69,0,1,1,1,1,1
+2023-04-30,"10148","Ourense","OURENSE","Ourense",,,,2023-04-30,"meteogalicia",18.26,10.63,27.34,65,0,1,1,1,1,1
+2023-05-01,"10148","Ourense","OURENSE","Ourense",,,,2023-05-01,"meteogalicia",19.05,8.22,29.81,62,0,1,1,1,1,1
+2023-05-02,"10148","Ourense","OURENSE","Ourense",,,,2023-05-02,"meteogalicia",21.77,11.16,32.69,57,0,1,1,1,1,1
+2023-05-03,"10148","Ourense","OURENSE","Ourense",,,,2023-05-03,"meteogalicia",18.6,12.31,27.08,69,3.8,1,1,1,1,1
+2023-05-04,"10148","Ourense","OURENSE","Ourense",,,,2023-05-04,"meteogalicia",16.69,11.79,22.3,72,0,1,1,1,1,1
+2023-05-05,"10148","Ourense","OURENSE","Ourense",,,,2023-05-05,"meteogalicia",17.2,9.04,24.56,65,0,1,1,1,1,1
+2023-05-06,"10148","Ourense","OURENSE","Ourense",,,,2023-05-06,"meteogalicia",17.88,12.82,25.42,71,14.8,1,1,1,1,1
+2023-05-07,"10148","Ourense","OURENSE","Ourense",,,,2023-05-07,"meteogalicia",18.26,11.23,27.8,66,0,1,1,1,1,1
+2023-05-08,"10148","Ourense","OURENSE","Ourense",,,,2023-05-08,"meteogalicia",18.77,10.22,27.64,69,0,1,1,1,1,1
+2023-05-09,"10148","Ourense","OURENSE","Ourense",,,,2023-05-09,"meteogalicia",19.29,11.53,25.57,63,1.4,1,1,1,1,1
+2023-05-10,"10148","Ourense","OURENSE","Ourense",,,,2023-05-10,"meteogalicia",13.72,5.91,20.94,65,0,1,1,1,1,1
+2023-05-11,"10148","Ourense","OURENSE","Ourense",,,,2023-05-11,"meteogalicia",14.11,5.93,21.63,62,0,1,1,1,1,1
+2023-05-12,"10148","Ourense","OURENSE","Ourense",,,,2023-05-12,"meteogalicia",13.22,7.88,19.84,66,0,1,1,1,1,1
+2023-05-13,"10148","Ourense","OURENSE","Ourense",,,,2023-05-13,"meteogalicia",13.87,5.92,21.7,67,0,1,1,1,1,1
+2023-05-14,"10148","Ourense","OURENSE","Ourense",,,,2023-05-14,"meteogalicia",16.98,8.21,25.89,60,0,1,1,1,1,1
+2023-05-15,"10148","Ourense","OURENSE","Ourense",,,,2023-05-15,"meteogalicia",16.89,11.32,24.86,60,0,1,1,1,1,1
+2023-05-16,"10148","Ourense","OURENSE","Ourense",,,,2023-05-16,"meteogalicia",15.38,7.19,24.13,61,0,1,1,1,1,1
+2023-05-17,"10148","Ourense","OURENSE","Ourense",,,,2023-05-17,"meteogalicia",17.21,8.7,28.18,51,0,1,1,1,1,1
+2023-05-18,"10148","Ourense","OURENSE","Ourense",,,,2023-05-18,"meteogalicia",15.75,6.28,25.56,49,0,1,1,1,1,1
+2023-05-19,"10148","Ourense","OURENSE","Ourense",,,,2023-05-19,"meteogalicia",16.1,8.49,23.44,50,0,1,1,1,1,1
+2023-05-20,"10148","Ourense","OURENSE","Ourense",,,,2023-05-20,"meteogalicia",16.12,10.1,24.06,52,0.8,1,1,1,1,1
+2023-05-21,"10148","Ourense","OURENSE","Ourense",,,,2023-05-21,"meteogalicia",16.35,6.79,25.63,58,0,1,1,1,1,1
+2023-05-22,"10148","Ourense","OURENSE","Ourense",,,,2023-05-22,"meteogalicia",18.53,10.62,28.24,59,0,1,1,1,1,1
+2023-05-23,"10148","Ourense","OURENSE","Ourense",,,,2023-05-23,"meteogalicia",20.03,11.35,29.75,59,0,1,1,1,1,1
+2023-05-24,"10148","Ourense","OURENSE","Ourense",,,,2023-05-24,"meteogalicia",20.32,14.07,29.61,58,0,1,1,1,1,1
+2023-05-25,"10148","Ourense","OURENSE","Ourense",,,,2023-05-25,"meteogalicia",19.76,12.2,29.76,55,0,1,1,1,1,1
+2023-05-26,"10148","Ourense","OURENSE","Ourense",,,,2023-05-26,"meteogalicia",17.08,11.09,26.19,61,1.4,1,1,1,1,1
+2023-05-27,"10148","Ourense","OURENSE","Ourense",,,,2023-05-27,"meteogalicia",18.7,12.17,25.66,73,13.2,1,1,1,1,1
+2023-05-28,"10148","Ourense","OURENSE","Ourense",,,,2023-05-28,"meteogalicia",17.92,14.31,26.86,88,21.2,1,1,1,1,1
+2023-05-29,"10148","Ourense","OURENSE","Ourense",,,,2023-05-29,"meteogalicia",17.54,14.42,25.47,88,41.2,1,1,1,1,1
+2023-05-30,"10148","Ourense","OURENSE","Ourense",,,,2023-05-30,"meteogalicia",17.88,14.51,23.2,85,0,1,1,1,1,1
+2023-05-31,"10148","Ourense","OURENSE","Ourense",,,,2023-05-31,"meteogalicia",18.75,15.38,25.66,83,2.4,1,1,1,1,1
+2023-06-01,"10148","Ourense","OURENSE","Ourense",,,,2023-06-01,"meteogalicia",18.87,13.4,29.75,81,3.6,1,1,1,1,1
+2023-06-02,"10148","Ourense","OURENSE","Ourense",,,,2023-06-02,"meteogalicia",18.84,12.04,27.08,75,2.2,1,1,1,1,1
+2023-06-03,"10148","Ourense","OURENSE","Ourense",,,,2023-06-03,"meteogalicia",19.02,14.96,28.79,78,0,1,1,1,1,1
+2023-06-04,"10148","Ourense","OURENSE","Ourense",,,,2023-06-04,"meteogalicia",18.69,13.7,27.46,80,0,1,1,1,1,1
+2023-06-05,"10148","Ourense","OURENSE","Ourense",,,,2023-06-05,"meteogalicia",20.15,14.13,29.58,75,0,1,1,1,1,1
+2023-06-06,"10148","Ourense","OURENSE","Ourense",,,,2023-06-06,"meteogalicia",21.5,13.81,31.79,75,8,1,1,1,1,1
+2023-06-07,"10148","Ourense","OURENSE","Ourense",,,,2023-06-07,"meteogalicia",19.64,17.41,23.96,92,11.2,1,1,1,1,1
+2023-06-08,"10148","Ourense","OURENSE","Ourense",,,,2023-06-08,"meteogalicia",19.77,16.28,26.65,84,28.2,1,1,1,1,1
+2023-06-09,"10148","Ourense","OURENSE","Ourense",,,,2023-06-09,"meteogalicia",19.4,16.47,23.42,82,15.6,1,1,1,1,1
+2023-06-10,"10148","Ourense","OURENSE","Ourense",,,,2023-06-10,"meteogalicia",19.23,15.19,24.59,78,1.2,1,1,1,1,1
+2023-06-11,"10148","Ourense","OURENSE","Ourense",,,,2023-06-11,"meteogalicia",19.28,13.5,26.49,73,0,1,1,1,1,1
+2023-06-12,"10148","Ourense","OURENSE","Ourense",,,,2023-06-12,"meteogalicia",17.56,14.11,26.24,88,18.2,1,1,1,1,1
+2023-06-13,"10148","Ourense","OURENSE","Ourense",,,,2023-06-13,"meteogalicia",19.61,14.86,25.67,78,3.8,1,1,1,1,1
+2023-06-14,"10148","Ourense","OURENSE","Ourense",,,,2023-06-14,"meteogalicia",21.6,14.33,29.32,71,0,1,1,1,1,1
+2023-06-15,"10148","Ourense","OURENSE","Ourense",,,,2023-06-15,"meteogalicia",23.17,13.73,33.7,66,0,1,1,1,1,1
+2023-06-16,"10148","Ourense","OURENSE","Ourense",,,,2023-06-16,"meteogalicia",24.07,16.9,32.63,67,0,1,1,1,1,1
+2023-06-17,"10148","Ourense","OURENSE","Ourense",,,,2023-06-17,"meteogalicia",21.69,15.09,30.09,69,0,1,1,1,1,1
+2023-06-18,"10148","Ourense","OURENSE","Ourense",,,,2023-06-18,"meteogalicia",21.06,15.6,26.56,68,0,1,1,1,1,1
+2023-06-19,"10148","Ourense","OURENSE","Ourense",,,,2023-06-19,"meteogalicia",19.02,16.6,23.75,87,10.6,1,1,1,1,1
+2023-06-20,"10148","Ourense","OURENSE","Ourense",,,,2023-06-20,"meteogalicia",19.98,15.33,25.65,68,0,1,1,1,1,1
+2023-06-21,"10148","Ourense","OURENSE","Ourense",,,,2023-06-21,"meteogalicia",19.12,13.97,26.84,77,1,1,1,1,1,1
+2023-06-22,"10148","Ourense","OURENSE","Ourense",,,,2023-06-22,"meteogalicia",21.88,15.15,30.52,70,0,1,1,1,1,1
+2023-06-23,"10148","Ourense","OURENSE","Ourense",,,,2023-06-23,"meteogalicia",24.3,14.01,34.75,67,0,1,1,1,1,1
+2023-06-24,"10148","Ourense","OURENSE","Ourense",,,,2023-06-24,"meteogalicia",27.12,17.25,37.09,64,0,1,1,1,1,1
+2023-06-25,"10148","Ourense","OURENSE","Ourense",,,,2023-06-25,"meteogalicia",25.29,18.43,33.67,66,0,1,1,1,1,1
+2023-06-26,"10148","Ourense","OURENSE","Ourense",,,,2023-06-26,"meteogalicia",23.09,17.23,30.21,65,0,1,1,1,1,1
+2023-06-27,"10148","Ourense","OURENSE","Ourense",,,,2023-06-27,"meteogalicia",23.89,17.59,33.12,64,0,1,1,1,1,1
+2023-06-28,"10148","Ourense","OURENSE","Ourense",,,,2023-06-28,"meteogalicia",23.06,16.66,31.43,62,0,1,1,1,1,1
+2023-06-29,"10148","Ourense","OURENSE","Ourense",,,,2023-06-29,"meteogalicia",19.86,15.35,26.04,63,0,1,1,1,1,1
+2023-06-30,"10148","Ourense","OURENSE","Ourense",,,,2023-06-30,"meteogalicia",20.63,11.38,29.36,57,0,1,1,1,1,1
+2023-07-01,"10148","Ourense","OURENSE","Ourense",,,,2023-07-01,"meteogalicia",23.19,13.7,32.57,57,0,1,1,1,1,1
+2023-07-02,"10148","Ourense","OURENSE","Ourense",,,,2023-07-02,"meteogalicia",24.22,17.01,34.01,62,0,1,1,1,1,1
+2023-07-03,"10148","Ourense","OURENSE","Ourense",,,,2023-07-03,"meteogalicia",23.89,17.33,32.35,61,0,1,1,1,1,1
+2023-07-04,"10148","Ourense","OURENSE","Ourense",,,,2023-07-04,"meteogalicia",23.13,17.87,29.33,59,0,1,1,1,1,1
+2023-07-05,"10148","Ourense","OURENSE","Ourense",,,,2023-07-05,"meteogalicia",21.95,14.79,29.69,67,0,1,1,1,1,1
+2023-07-06,"10148","Ourense","OURENSE","Ourense",,,,2023-07-06,"meteogalicia",22.42,14.77,31.53,63,0,1,1,1,1,1
+2023-07-07,"10148","Ourense","OURENSE","Ourense",,,,2023-07-07,"meteogalicia",21.45,12.83,29.76,61,0,1,1,1,1,1
+2023-07-08,"10148","Ourense","OURENSE","Ourense",,,,2023-07-08,"meteogalicia",20.76,14.48,26.86,72,5.6,1,1,1,1,1
+2023-07-09,"10148","Ourense","OURENSE","Ourense",,,,2023-07-09,"meteogalicia",19.69,11.55,27.86,66,0,1,1,1,1,1
+2023-07-10,"10148","Ourense","OURENSE","Ourense",,,,2023-07-10,"meteogalicia",22.69,12.15,34.1,60,0,1,1,1,1,1
+2023-07-11,"10148","Ourense","OURENSE","Ourense",,,,2023-07-11,"meteogalicia",22.41,15.47,30.96,63,0,1,1,1,1,1
+2023-07-12,"10148","Ourense","OURENSE","Ourense",,,,2023-07-12,"meteogalicia",22.74,16.38,30.21,61,0,1,1,1,1,1
+2023-07-13,"10148","Ourense","OURENSE","Ourense",,,,2023-07-13,"meteogalicia",22.68,12.85,33.27,57,0,1,1,1,1,1
+2023-07-14,"10148","Ourense","OURENSE","Ourense",,,,2023-07-14,"meteogalicia",21.13,12.74,28.52,66,0,1,1,1,1,1
+2023-07-15,"10148","Ourense","OURENSE","Ourense",,,,2023-07-15,"meteogalicia",20.32,15.26,25.7,57,0,1,1,1,1,1
+2023-07-16,"10148","Ourense","OURENSE","Ourense",,,,2023-07-16,"meteogalicia",19.08,9.96,27.76,59,0,1,1,1,1,1
+2023-07-17,"10148","Ourense","OURENSE","Ourense",,,,2023-07-17,"meteogalicia",22.68,11.47,34.99,57,0,1,1,1,1,1
+2023-07-18,"10148","Ourense","OURENSE","Ourense",,,,2023-07-18,"meteogalicia",24.06,14.38,35.3,61,0,1,1,1,1,1
+2023-07-19,"10148","Ourense","OURENSE","Ourense",,,,2023-07-19,"meteogalicia",23.78,17.67,33.38,58,0,1,1,1,1,1
+2023-07-20,"10148","Ourense","OURENSE","Ourense",,,,2023-07-20,"meteogalicia",22.27,16.56,30.41,60,0,1,1,1,1,1
+2023-07-21,"10148","Ourense","OURENSE","Ourense",,,,2023-07-21,"meteogalicia",22.15,14.49,30.06,58,0,1,1,1,1,1
+2023-07-22,"10148","Ourense","OURENSE","Ourense",,,,2023-07-22,"meteogalicia",22.78,15.09,32.36,59,0,1,1,1,1,1
+2023-07-23,"10148","Ourense","OURENSE","Ourense",,,,2023-07-23,"meteogalicia",20.69,15.51,27.57,65,0,1,1,1,1,1
+2023-07-24,"10148","Ourense","OURENSE","Ourense",,,,2023-07-24,"meteogalicia",20.22,17.15,25.54,66,0.8,1,1,1,1,1
+2023-07-25,"10148","Ourense","OURENSE","Ourense",,,,2023-07-25,"meteogalicia",20.15,11.83,28.37,59,0,1,1,1,1,1
+2023-07-26,"10148","Ourense","OURENSE","Ourense",,,,2023-07-26,"meteogalicia",23.57,13.82,34.9,55,0,1,1,1,1,1
+2023-07-27,"10148","Ourense","OURENSE","Ourense",,,,2023-07-27,"meteogalicia",22.26,17.46,30.18,66,0,1,1,1,1,1
+2023-07-28,"10148","Ourense","OURENSE","Ourense",,,,2023-07-28,"meteogalicia",23.22,17.75,29.52,64,0,1,1,1,1,1
+2023-07-29,"10148","Ourense","OURENSE","Ourense",,,,2023-07-29,"meteogalicia",24.42,19.16,30.99,63,0,1,1,1,1,1
+2023-07-30,"10148","Ourense","OURENSE","Ourense",,,,2023-07-30,"meteogalicia",23.08,13.89,33.16,60,0,1,1,1,1,1
+2023-07-31,"10148","Ourense","OURENSE","Ourense",,,,2023-07-31,"meteogalicia",22.53,13.96,32.56,61,0,1,1,1,1,1
+2023-08-01,"10148","Ourense","OURENSE","Ourense",,,,2023-08-01,"meteogalicia",23.63,18.32,30.66,63,0,1,1,1,1,1
+2023-08-02,"10148","Ourense","OURENSE","Ourense",,,,2023-08-02,"meteogalicia",22.53,16.8,28.63,63,0,1,1,1,1,1
+2023-08-03,"10148","Ourense","OURENSE","Ourense",,,,2023-08-03,"meteogalicia",19.79,13.89,27.21,56,0,1,1,1,1,1
+2023-08-04,"10148","Ourense","OURENSE","Ourense",,,,2023-08-04,"meteogalicia",19.77,10.37,28.84,58,0,1,1,1,1,1
+2023-08-05,"10148","Ourense","OURENSE","Ourense",,,,2023-08-05,"meteogalicia",22.45,11.28,34.03,56,0,1,1,1,1,1
+2023-08-06,"10148","Ourense","OURENSE","Ourense",,,,2023-08-06,"meteogalicia",23.67,17.73,33.86,53,0,1,1,1,1,1
+2023-08-07,"10148","Ourense","OURENSE","Ourense",,,,2023-08-07,"meteogalicia",24.81,12.9,37.86,49,0,1,1,1,1,1
+2023-08-08,"10148","Ourense","OURENSE","Ourense",,,,2023-08-08,"meteogalicia",28.29,15.71,42.45,48,0,1,1,1,1,1
+2023-08-09,"10148","Ourense","OURENSE","Ourense",,,,2023-08-09,"meteogalicia",25.31,18.74,33.93,60,0,1,1,1,1,1
+2023-08-10,"10148","Ourense","OURENSE","Ourense",,,,2023-08-10,"meteogalicia",24.26,14.61,34.61,61,0,1,1,1,1,1
+2023-08-11,"10148","Ourense","OURENSE","Ourense",,,,2023-08-11,"meteogalicia",25.18,16.28,34.42,65,0,1,1,1,1,1
+2023-08-12,"10148","Ourense","OURENSE","Ourense",,,,2023-08-12,"meteogalicia",25.09,19.05,33.07,55,0,1,1,1,1,1
+2023-08-13,"10148","Ourense","OURENSE","Ourense",,,,2023-08-13,"meteogalicia",22.76,14.79,33.51,57,0,1,1,1,1,1
+2023-08-14,"10148","Ourense","OURENSE","Ourense",,,,2023-08-14,"meteogalicia",22.43,14.29,31.9,63,0,1,1,1,1,1
+2023-08-15,"10148","Ourense","OURENSE","Ourense",,,,2023-08-15,"meteogalicia",23.22,16.23,32.22,60,0,1,1,1,1,1
+2023-08-16,"10148","Ourense","OURENSE","Ourense",,,,2023-08-16,"meteogalicia",24.19,17.46,33.51,56,0,1,1,1,1,1
+2023-08-17,"10148","Ourense","OURENSE","Ourense",,,,2023-08-17,"meteogalicia",22.65,14.95,31.48,63,0,1,1,1,1,1
+2023-08-18,"10148","Ourense","OURENSE","Ourense",,,,2023-08-18,"meteogalicia",24.54,18.38,31.13,60,0,1,1,1,1,1
+2023-08-19,"10148","Ourense","OURENSE","Ourense",,,,2023-08-19,"meteogalicia",23.06,20.06,27.49,86,6,1,1,1,1,1
+2023-08-20,"10148","Ourense","OURENSE","Ourense",,,,2023-08-20,"meteogalicia",25.95,20.69,34.62,64,0,1,1,1,1,1
+2023-08-21,"10148","Ourense","OURENSE","Ourense",,,,2023-08-21,"meteogalicia",27.06,19.74,37.67,60,0,1,1,1,1,1
+2023-08-22,"10148","Ourense","OURENSE","Ourense",,,,2023-08-22,"meteogalicia",29.55,19.25,41.8,59,0,1,1,1,1,1
+2023-08-23,"10148","Ourense","OURENSE","Ourense",,,,2023-08-23,"meteogalicia",31,21.26,41.95,51,0,1,1,1,1,1
+2023-08-24,"10148","Ourense","OURENSE","Ourense",,,,2023-08-24,"meteogalicia",26.23,19.49,36.19,58,0,1,1,1,1,1
+2023-08-25,"10148","Ourense","OURENSE","Ourense",,,,2023-08-25,"meteogalicia",22.27,18.15,30.31,64,0,1,1,1,1,1
+2023-08-26,"10148","Ourense","OURENSE","Ourense",,,,2023-08-26,"meteogalicia",19.48,13.53,25.87,57,0,1,1,1,1,1
+2023-08-27,"10148","Ourense","OURENSE","Ourense",,,,2023-08-27,"meteogalicia",17.99,10.33,26.58,63,0,1,1,1,1,1
+2023-08-28,"10148","Ourense","OURENSE","Ourense",,,,2023-08-28,"meteogalicia",20.24,14.64,28.52,62,0,1,1,1,1,1
+2023-08-29,"10148","Ourense","OURENSE","Ourense",,,,2023-08-29,"meteogalicia",20.26,13.39,29.01,66,0,1,1,1,1,1
+2023-08-30,"10148","Ourense","OURENSE","Ourense",,,,2023-08-30,"meteogalicia",21.13,14.52,29.99,61,0,1,1,1,1,1
+2023-08-31,"10148","Ourense","OURENSE","Ourense",,,,2023-08-31,"meteogalicia",21.79,12.8,32.98,63,0,1,1,1,1,1
+2023-09-01,"10148","Ourense","OURENSE","Ourense",,,,2023-09-01,"meteogalicia",20.7,16.52,27.12,68,0,1,1,1,1,1
+2023-09-02,"10148","Ourense","OURENSE","Ourense",,,,2023-09-02,"meteogalicia",17.58,14.3,22.13,88,11.2,1,1,1,1,1
+2023-09-03,"10148","Ourense","OURENSE","Ourense",,,,2023-09-03,"meteogalicia",18.64,12.64,28.64,87,3.6,1,1,1,1,1
+2023-09-04,"10148","Ourense","OURENSE","Ourense",,,,2023-09-04,"meteogalicia",21.27,16.74,27.2,70,1,1,1,1,1,1
+2023-09-05,"10148","Ourense","OURENSE","Ourense",,,,2023-09-05,"meteogalicia",21.31,17.7,25.76,74,1.4,1,1,1,1,1
+2023-09-06,"10148","Ourense","OURENSE","Ourense",,,,2023-09-06,"meteogalicia",22.97,15.5,31.52,68,0,1,1,1,1,1
+2023-09-07,"10148","Ourense","OURENSE","Ourense",,,,2023-09-07,"meteogalicia",23.02,16.57,32.04,69,0.4,1,1,1,1,1
+2023-09-08,"10148","Ourense","OURENSE","Ourense",,,,2023-09-08,"meteogalicia",22.33,14.95,31.73,72,0,1,1,1,1,1
+2023-09-09,"10148","Ourense","OURENSE","Ourense",,,,2023-09-09,"meteogalicia",18.58,16.21,22.84,97,51.8,1,1,1,1,1
+2023-09-10,"10148","Ourense","OURENSE","Ourense",,,,2023-09-10,"meteogalicia",18.51,15.02,25.65,94,18.6,1,1,1,1,1
+2023-09-11,"10148","Ourense","OURENSE","Ourense",,,,2023-09-11,"meteogalicia",19.81,17.04,26.99,88,11.6,1,1,1,1,1
+2023-09-12,"10148","Ourense","OURENSE","Ourense",,,,2023-09-12,"meteogalicia",21.06,16.93,28.64,75,0,1,1,1,1,1
+2023-09-13,"10148","Ourense","OURENSE","Ourense",,,,2023-09-13,"meteogalicia",21.34,15.15,30,72,0,1,1,1,1,1
+2023-09-14,"10148","Ourense","OURENSE","Ourense",,,,2023-09-14,"meteogalicia",22.26,15.5,32.72,72,0,1,1,1,1,1
+2023-09-15,"10148","Ourense","OURENSE","Ourense",,,,2023-09-15,"meteogalicia",19.93,15.39,28.46,83,0,1,1,1,1,1
+2023-09-16,"10148","Ourense","OURENSE","Ourense",,,,2023-09-16,"meteogalicia",19.05,15.01,22.75,76,0.4,1,1,1,1,1
+2023-09-17,"10148","Ourense","OURENSE","Ourense",,,,2023-09-17,"meteogalicia",18.14,14.01,20.71,69,2.6,1,1,1,1,1
+2023-09-18,"10148","Ourense","OURENSE","Ourense",,,,2023-09-18,"meteogalicia",18.53,14.73,24.76,73,0.6,1,1,1,1,1
+2023-09-19,"10148","Ourense","OURENSE","Ourense",,,,2023-09-19,"meteogalicia",18.47,13.73,26.43,76,0,1,1,1,1,1
+2023-09-20,"10148","Ourense","OURENSE","Ourense",,,,2023-09-20,"meteogalicia",17.58,11.81,24.13,75,0,1,1,1,1,1
+2023-09-21,"10148","Ourense","OURENSE","Ourense",,,,2023-09-21,"meteogalicia",16.91,12.51,21.24,77,9.6,1,1,1,1,1
+2023-09-22,"10148","Ourense","OURENSE","Ourense",,,,2023-09-22,"meteogalicia",15.28,9.9,22.77,77,0,1,1,1,1,1
+2023-09-23,"10148","Ourense","OURENSE","Ourense",,,,2023-09-23,"meteogalicia",15.17,8.38,25.86,79,0,1,1,1,1,1
+2023-09-24,"10148","Ourense","OURENSE","Ourense",,,,2023-09-24,"meteogalicia",17.36,9.65,29.39,75,0,1,1,1,1,1
+2023-09-25,"10148","Ourense","OURENSE","Ourense",,,,2023-09-25,"meteogalicia",18.05,9.41,29.64,74,0,1,1,1,1,1
+2023-09-26,"10148","Ourense","OURENSE","Ourense",,,,2023-09-26,"meteogalicia",19.79,12.95,29.09,78,0,1,1,1,1,1
+2023-09-27,"10148","Ourense","OURENSE","Ourense",,,,2023-09-27,"meteogalicia",19.33,13.57,27.74,78,0,1,1,1,1,1
+2023-09-28,"10148","Ourense","OURENSE","Ourense",,,,2023-09-28,"meteogalicia",19.73,12.69,28.85,79,0,1,1,1,1,1
+2023-09-29,"10148","Ourense","OURENSE","Ourense",,,,2023-09-29,"meteogalicia",20.85,15.5,32.93,79,0,1,1,1,1,1
+2023-09-30,"10148","Ourense","OURENSE","Ourense",,,,2023-09-30,"meteogalicia",21.56,12.14,36.08,73,0,1,1,1,1,1
+2023-10-01,"10148","Ourense","OURENSE","Ourense",,,,2023-10-01,"meteogalicia",22.16,13.79,35,73,0,1,1,1,1,1
+2023-10-02,"10148","Ourense","OURENSE","Ourense",,,,2023-10-02,"meteogalicia",20.05,14.29,28.41,79,0,1,1,1,1,1
+2023-10-03,"10148","Ourense","OURENSE","Ourense",,,,2023-10-03,"meteogalicia",18.97,13.9,26.43,79,0,1,1,1,1,1
+2023-10-04,"10148","Ourense","OURENSE","Ourense",,,,2023-10-04,"meteogalicia",19.69,13.03,30.9,77,0,1,1,1,1,1
+2023-10-05,"10148","Ourense","OURENSE","Ourense",,,,2023-10-05,"meteogalicia",19.14,13.1,30.54,79,0,1,1,1,1,1
+2023-10-06,"10148","Ourense","OURENSE","Ourense",,,,2023-10-06,"meteogalicia",19.54,12.48,33.54,80,0,1,1,1,1,1
+2023-10-07,"10148","Ourense","OURENSE","Ourense",,,,2023-10-07,"meteogalicia",20.19,11.28,35.82,71,0,1,1,1,1,1
+2023-10-08,"10148","Ourense","OURENSE","Ourense",,,,2023-10-08,"meteogalicia",19.81,10.51,34.84,70,0,1,1,1,1,1
+2023-10-09,"10148","Ourense","OURENSE","Ourense",,,,2023-10-09,"meteogalicia",20.06,11.44,34.37,75,0,1,1,1,1,1
+2023-10-10,"10148","Ourense","OURENSE","Ourense",,,,2023-10-10,"meteogalicia",19.53,10.99,33.94,75,0,1,1,1,1,1
+2023-10-11,"10148","Ourense","OURENSE","Ourense",,,,2023-10-11,"meteogalicia",19.65,10.9,31.75,72,0,1,1,1,1,1
+2023-10-12,"10148","Ourense","OURENSE","Ourense",,,,2023-10-12,"meteogalicia",19.43,12.69,30.01,73,0,1,1,1,1,1
+2023-10-13,"10148","Ourense","OURENSE","Ourense",,,,2023-10-13,"meteogalicia",17.62,14.99,21.91,83,18.2,1,1,1,1,1
+2023-10-14,"10148","Ourense","OURENSE","Ourense",,,,2023-10-14,"meteogalicia",18.09,13.53,26.52,83,0,1,1,1,1,1
+2023-10-15,"10148","Ourense","OURENSE","Ourense",,,,2023-10-15,"meteogalicia",15.63,12.85,19.11,99,3,1,1,1,1,1
+2023-10-16,"10148","Ourense","OURENSE","Ourense",,,,2023-10-16,"meteogalicia",17.88,15.19,21.3,90,1.6,1,1,1,1,1
+2023-10-17,"10148","Ourense","OURENSE","Ourense",,,,2023-10-17,"meteogalicia",21.04,19.35,22.82,75,6.4,1,1,1,1,1
+2023-10-18,"10148","Ourense","OURENSE","Ourense",,,,2023-10-18,"meteogalicia",17.9,14.36,21.26,82,13.4,1,1,1,1,1
+2023-10-19,"10148","Ourense","OURENSE","Ourense",,,,2023-10-19,"meteogalicia",14.94,13.06,19.38,94,36.4,1,1,1,1,1
+2023-10-20,"10148","Ourense","OURENSE","Ourense",,,,2023-10-20,"meteogalicia",13.76,9.25,17.13,77,6,1,1,1,1,1
+2023-10-21,"10148","Ourense","OURENSE","Ourense",,,,2023-10-21,"meteogalicia",11.57,8.18,17.41,92,0.4,1,1,1,1,1
+2023-10-22,"10148","Ourense","OURENSE","Ourense",,,,2023-10-22,"meteogalicia",13.7,9.77,20.2,88,0.6,1,1,1,1,1
+2023-10-23,"10148","Ourense","OURENSE","Ourense",,,,2023-10-23,"meteogalicia",12.79,8.36,18.15,90,3.2,1,1,1,1,1
+2023-10-24,"10148","Ourense","OURENSE","Ourense",,,,2023-10-24,"meteogalicia",13.7,8.11,18.85,94,12,1,1,1,1,1
+2023-10-25,"10148","Ourense","OURENSE","Ourense",,,,2023-10-25,"meteogalicia",17.87,14.71,20.51,87,22.6,1,1,1,1,1
+2023-10-26,"10148","Ourense","OURENSE","Ourense",,,,2023-10-26,"meteogalicia",15.83,12.59,19.24,90,52.8,1,1,1,1,1
+2023-10-27,"10148","Ourense","OURENSE","Ourense",,,,2023-10-27,"meteogalicia",14.26,12.03,17,80,12.2,1,1,1,1,1
+2023-10-28,"10148","Ourense","OURENSE","Ourense",,,,2023-10-28,"meteogalicia",15.71,12.68,19.17,83,24,1,1,1,1,1
+2023-10-29,"10148","Ourense","OURENSE","Ourense",,,,2023-10-29,"meteogalicia",13.88,10.36,18.58,81,5.6,1,1,1,1,1
+2023-10-30,"10148","Ourense","OURENSE","Ourense",,,,2023-10-30,"meteogalicia",11.55,8.5,16.55,92,6,1,1,1,1,1
+2023-10-31,"10148","Ourense","OURENSE","Ourense",,,,2023-10-31,"meteogalicia",13.46,8.89,17.98,84,2.6,1,1,1,1,1
+2023-11-01,"10148","Ourense","OURENSE","Ourense",,,,2023-11-01,"meteogalicia",15.34,11.93,17.64,78,16.6,1,1,1,1,1
+2023-11-02,"10148","Ourense","OURENSE","Ourense",,,,2023-11-02,"meteogalicia",11.36,7.9,17.62,78,28.8,1,1,1,1,1
+2023-11-03,"10148","Ourense","OURENSE","Ourense",,,,2023-11-03,"meteogalicia",12.69,10.26,15.84,80,4.2,1,1,1,1,1
+2023-11-04,"10148","Ourense","OURENSE","Ourense",,,,2023-11-04,"meteogalicia",14.42,10.53,17.63,78,24,1,1,1,1,1
+2023-11-05,"10148","Ourense","OURENSE","Ourense",,,,2023-11-05,"meteogalicia",11.15,8.97,14.21,88,24,1,1,1,1,1
+2023-11-06,"10148","Ourense","OURENSE","Ourense",,,,2023-11-06,"meteogalicia",8.95,5.9,14.28,90,7.8,1,1,1,1,1
+2023-11-07,"10148","Ourense","OURENSE","Ourense",,,,2023-11-07,"meteogalicia",10.06,5.82,15.81,87,6,1,1,1,1,1
+2023-11-08,"10148","Ourense","OURENSE","Ourense",,,,2023-11-08,"meteogalicia",12.24,9.14,15.64,92,12.8,1,1,1,1,1
+2023-11-09,"10148","Ourense","OURENSE","Ourense",,,,2023-11-09,"meteogalicia",11.76,8.78,17.33,87,0.8,1,1,1,1,1
+2023-11-10,"10148","Ourense","OURENSE","Ourense",,,,2023-11-10,"meteogalicia",12.81,10.83,17.67,97,10.8,1,1,1,1,1
+2023-11-11,"10148","Ourense","OURENSE","Ourense",,,,2023-11-11,"meteogalicia",18.16,16.01,20.37,84,0.8,1,1,1,1,1
+2023-11-12,"10148","Ourense","OURENSE","Ourense",,,,2023-11-12,"meteogalicia",18.79,15.77,22.66,72,0,1,1,1,1,1
+2023-11-13,"10148","Ourense","OURENSE","Ourense",,,,2023-11-13,"meteogalicia",18.75,15.17,20.85,74,0,1,1,1,1,1
+2023-11-14,"10148","Ourense","OURENSE","Ourense",,,,2023-11-14,"meteogalicia",17.54,14.78,19.78,83,7.6,1,1,1,1,1
+2023-11-15,"10148","Ourense","OURENSE","Ourense",,,,2023-11-15,"meteogalicia",16.64,13.74,19.32,91,0,1,1,1,1,1
+2023-11-16,"10148","Ourense","OURENSE","Ourense",,,,2023-11-16,"meteogalicia",16.88,10.96,23.19,86,3.2,1,1,1,1,1
+2023-11-17,"10148","Ourense","OURENSE","Ourense",,,,2023-11-17,"meteogalicia",13.31,10.93,19.73,92,0,1,1,1,1,1
+2023-11-18,"10148","Ourense","OURENSE","Ourense",,,,2023-11-18,"meteogalicia",12.2,9.87,19.12,95,0,1,1,1,1,1
+2023-11-19,"10148","Ourense","OURENSE","Ourense",,,,2023-11-19,"meteogalicia",12.25,10.79,13.58,98,0,1,1,1,1,1
+2023-11-20,"10148","Ourense","OURENSE","Ourense",,,,2023-11-20,"meteogalicia",12.84,6.66,18.63,84,0,1,1,1,1,1
+2023-11-21,"10148","Ourense","OURENSE","Ourense",,,,2023-11-21,"meteogalicia",8.87,4.63,15.12,83,0,1,1,1,1,1
+2023-11-22,"10148","Ourense","OURENSE","Ourense",,,,2023-11-22,"meteogalicia",10.05,5.67,17.13,82,0,1,1,1,1,1
+2023-11-23,"10148","Ourense","OURENSE","Ourense",,,,2023-11-23,"meteogalicia",8.53,3.06,19.16,83,0,1,1,1,1,1
+2023-11-24,"10148","Ourense","OURENSE","Ourense",,,,2023-11-24,"meteogalicia",7.2,4.07,15.38,90,0,1,1,1,1,1
+2023-11-25,"10148","Ourense","OURENSE","Ourense",,,,2023-11-25,"meteogalicia",6.3,4.37,12.48,95,0,1,1,1,1,1
+2023-11-26,"10148","Ourense","OURENSE","Ourense",,,,2023-11-26,"meteogalicia",6.25,4.05,9.45,96,0,1,1,1,1,1
+2023-11-27,"10148","Ourense","OURENSE","Ourense",,,,2023-11-27,"meteogalicia",11.07,7.03,15.59,92,0.6,1,1,1,1,1
+2023-11-28,"10148","Ourense","OURENSE","Ourense",,,,2023-11-28,"meteogalicia",13.25,12.12,15.34,100,8,1,1,1,1,1
+2023-11-29,"10148","Ourense","OURENSE","Ourense",,,,2023-11-29,"meteogalicia",14.79,12.81,18.53,97,6.6,1,1,1,1,1
+2023-11-30,"10148","Ourense","OURENSE","Ourense",,,,2023-11-30,"meteogalicia",9.49,6.75,14.34,98,18.4,1,1,1,1,1
+2023-12-01,"10148","Ourense","OURENSE","Ourense",,,,2023-12-01,"meteogalicia",8.16,5.95,14.47,92,1,1,1,1,1,1
+2023-12-02,"10148","Ourense","OURENSE","Ourense",,,,2023-12-02,"meteogalicia",6.72,5,11.6,96,0,1,1,1,1,1
+2023-12-03,"10148","Ourense","OURENSE","Ourense",,,,2023-12-03,"meteogalicia",7.92,4.59,12.44,89,13.2,1,1,1,1,1
+2023-12-04,"10148","Ourense","OURENSE","Ourense",,,,2023-12-04,"meteogalicia",9.59,3.34,13.15,90,4,1,1,1,1,1
+2023-12-05,"10148","Ourense","OURENSE","Ourense",,,,2023-12-05,"meteogalicia",4.66,2.28,7.87,96,0,1,1,1,1,1
+2023-12-06,"10148","Ourense","OURENSE","Ourense",,,,2023-12-06,"meteogalicia",4.5,1.92,9.3,95,0.8,1,1,1,1,1
+2023-12-07,"10148","Ourense","OURENSE","Ourense",,,,2023-12-07,"meteogalicia",11.04,8.96,15.28,93,31.2,1,1,1,1,1
+2023-12-08,"10148","Ourense","OURENSE","Ourense",,,,2023-12-08,"meteogalicia",9.73,5.41,15.28,92,3.4,1,1,1,1,1
+2023-12-09,"10148","Ourense","OURENSE","Ourense",,,,2023-12-09,"meteogalicia",15.66,10.7,18.36,89,0.8,1,1,1,1,1
+2023-12-10,"10148","Ourense","OURENSE","Ourense",,,,2023-12-10,"meteogalicia",16.72,15.02,18.75,84,0.4,1,1,1,1,1
+2023-12-11,"10148","Ourense","OURENSE","Ourense",,,,2023-12-11,"meteogalicia",16.16,13.74,18.78,79,0,1,1,1,1,1
+2023-12-12,"10148","Ourense","OURENSE","Ourense",,,,2023-12-12,"meteogalicia",13.44,10.65,16.77,90,18.4,1,1,1,1,1
+2023-12-13,"10148","Ourense","OURENSE","Ourense",,,,2023-12-13,"meteogalicia",9.01,6.33,14.39,90,0.8,1,1,1,1,1
+2023-12-14,"10148","Ourense","OURENSE","Ourense",,,,2023-12-14,"meteogalicia",7.9,3.55,15.5,91,0,1,1,1,1,1
+2023-12-15,"10148","Ourense","OURENSE","Ourense",,,,2023-12-15,"meteogalicia",6.33,2.84,13.77,92,0,1,1,1,1,1
+2023-12-16,"10148","Ourense","OURENSE","Ourense",,,,2023-12-16,"meteogalicia",4.69,1.84,10.32,96,0,1,1,1,1,1
+2023-12-17,"10148","Ourense","OURENSE","Ourense",,,,2023-12-17,"meteogalicia",3.11,1.52,8.38,97,0,1,1,1,1,1
+2023-12-18,"10148","Ourense","OURENSE","Ourense",,,,2023-12-18,"meteogalicia",1.56,-0.04,6.74,95,0,1,1,1,1,1
+2023-12-19,"10148","Ourense","OURENSE","Ourense",,,,2023-12-19,"meteogalicia",1.04,-1.42,3.63,96,1.6,1,1,1,1,1
+2023-12-20,"10148","Ourense","OURENSE","Ourense",,,,2023-12-20,"meteogalicia",7.13,3.63,13.41,87,0.8,1,1,1,1,1
+2023-12-21,"10148","Ourense","OURENSE","Ourense",,,,2023-12-21,"meteogalicia",7.54,4.34,13.15,93,0,1,1,1,1,1
+2023-12-22,"10148","Ourense","OURENSE","Ourense",,,,2023-12-22,"meteogalicia",6.18,2.85,14.73,93,0,1,1,1,1,1
+2023-12-23,"10148","Ourense","OURENSE","Ourense",,,,2023-12-23,"meteogalicia",5.49,1.11,12.78,89,0,1,1,1,1,1
+2023-12-24,"10148","Ourense","OURENSE","Ourense",,,,2023-12-24,"meteogalicia",3.79,0.77,11.32,92,0,1,1,1,1,1
+2023-12-25,"10148","Ourense","OURENSE","Ourense",,,,2023-12-25,"meteogalicia",2.53,0.52,8.59,97,0,1,1,1,1,1
+2023-12-26,"10148","Ourense","OURENSE","Ourense",,,,2023-12-26,"meteogalicia",5.26,1.41,14.46,84,0,1,1,1,1,1
+2023-12-27,"10148","Ourense","OURENSE","Ourense",,,,2023-12-27,"meteogalicia",8.39,0.9,12.9,75,0,1,1,1,1,1
+2023-12-28,"10148","Ourense","OURENSE","Ourense",,,,2023-12-28,"meteogalicia",11.09,9.4,12.61,94,12.6,1,1,1,1,1
+2023-12-29,"10148","Ourense","OURENSE","Ourense",,,,2023-12-29,"meteogalicia",10.92,8.76,14.01,99,2.6,1,1,1,1,1
+2023-12-30,"10148","Ourense","OURENSE","Ourense",,,,2023-12-30,"meteogalicia",10.02,7.44,14.56,88,0.4,1,1,1,1,1
+2023-12-31,"10148","Ourense","OURENSE","Ourense",,,,2023-12-31,"meteogalicia",9.07,5.47,13.21,86,4.2,1,1,1,1,1
+2024-01-01,"10148","Ourense","OURENSE","Ourense",,,,2024-01-01,"meteogalicia",8.19,4.29,12.82,84,0,1,1,1,1,1
+2024-01-02,"10148","Ourense","OURENSE","Ourense",,,,2024-01-02,"meteogalicia",13.92,11.5,16.72,81,15.2,1,1,1,1,1
+2024-01-03,"10148","Ourense","OURENSE","Ourense",,,,2024-01-03,"meteogalicia",12.45,9.23,14.43,82,0,1,1,1,1,1
+2024-01-04,"10148","Ourense","OURENSE","Ourense",,,,2024-01-04,"meteogalicia",10.29,6.25,14.85,84,5,1,1,1,1,1
+2024-01-05,"10148","Ourense","OURENSE","Ourense",,,,2024-01-05,"meteogalicia",6.59,4.99,10.26,97,5.8,1,1,1,1,1
+2024-01-06,"10148","Ourense","OURENSE","Ourense",,,,2024-01-06,"meteogalicia",5.57,4.29,8.97,98,0,1,1,1,1,1
+2024-01-07,"10148","Ourense","OURENSE","Ourense",,,,2024-01-07,"meteogalicia",4.45,2.05,7.13,95,0,1,1,1,1,1
+2024-01-08,"10148","Ourense","OURENSE","Ourense",,,,2024-01-08,"meteogalicia",3.88,1.62,5.31,93,1,1,1,1,1,1
+2024-01-09,"10148","Ourense","OURENSE","Ourense",,,,2024-01-09,"meteogalicia",6.42,3.64,9.03,97,1,1,1,1,1,1
+2024-01-10,"10148","Ourense","OURENSE","Ourense",,,,2024-01-10,"meteogalicia",7.28,4.03,9.75,100,10.8,1,1,1,1,1
+2024-01-11,"10148","Ourense","OURENSE","Ourense",,,,2024-01-11,"meteogalicia",5.07,2.34,10.96,84,0,1,1,1,1,1
+2024-01-12,"10148","Ourense","OURENSE","Ourense",,,,2024-01-12,"meteogalicia",4.16,-1.42,12.3,78,0,1,1,1,1,1
+2024-01-13,"10148","Ourense","OURENSE","Ourense",,,,2024-01-13,"meteogalicia",9.87,5.96,13.13,76,4.8,1,1,1,1,1
+2024-01-14,"10148","Ourense","OURENSE","Ourense",,,,2024-01-14,"meteogalicia",11.37,9.53,14.15,100,13,1,1,1,1,1
+2024-01-15,"10148","Ourense","OURENSE","Ourense",,,,2024-01-15,"meteogalicia",13.42,9.4,18.27,97,3.6,1,1,1,1,1
+2024-01-16,"10148","Ourense","OURENSE","Ourense",,,,2024-01-16,"meteogalicia",12.37,8.92,17.45,91,8,1,1,1,1,1
+2024-01-17,"10148","Ourense","OURENSE","Ourense",,,,2024-01-17,"meteogalicia",13.67,11.38,15.58,81,11.8,1,1,1,1,1
+2024-01-18,"10148","Ourense","OURENSE","Ourense",,,,2024-01-18,"meteogalicia",11.53,7.5,14.24,84,2.4,1,1,1,1,1
+2024-01-19,"10148","Ourense","OURENSE","Ourense",,,,2024-01-19,"meteogalicia",7.71,1.36,14.6,75,0,1,1,1,1,1
+2024-01-20,"10148","Ourense","OURENSE","Ourense",,,,2024-01-20,"meteogalicia",3.36,-2.22,14.65,84,0,1,1,1,1,1
+2024-01-21,"10148","Ourense","OURENSE","Ourense",,,,2024-01-21,"meteogalicia",8.51,1.79,14.94,79,0,1,1,1,1,1
+2024-01-22,"10148","Ourense","OURENSE","Ourense",,,,2024-01-22,"meteogalicia",13.27,10.89,15.01,83,0,1,1,1,1,1
+2024-01-23,"10148","Ourense","OURENSE","Ourense",,,,2024-01-23,"meteogalicia",14.26,9.03,18.33,87,0,1,1,1,1,1
+2024-01-24,"10148","Ourense","OURENSE","Ourense",,,,2024-01-24,"meteogalicia",10.53,5.25,20.48,91,0,1,1,1,1,1
+2024-01-25,"10148","Ourense","OURENSE","Ourense",,,,2024-01-25,"meteogalicia",8.75,5.24,19,93,0,1,1,1,1,1
+2024-01-26,"10148","Ourense","OURENSE","Ourense",,,,2024-01-26,"meteogalicia",7.8,4.41,15.94,92,0,1,1,1,1,1
+2024-01-27,"10148","Ourense","OURENSE","Ourense",,,,2024-01-27,"meteogalicia",8.2,3.12,18.89,89,0,1,1,1,1,1
+2024-01-28,"10148","Ourense","OURENSE","Ourense",,,,2024-01-28,"meteogalicia",10.02,4.17,21.1,81,0,1,1,1,1,1
+2024-01-29,"10148","Ourense","OURENSE","Ourense",,,,2024-01-29,"meteogalicia",10.7,4.8,21.46,82,0,1,1,1,1,1
+2024-01-30,"10148","Ourense","OURENSE","Ourense",,,,2024-01-30,"meteogalicia",9.53,4.15,20.31,87,0,1,1,1,1,1
+2024-01-31,"10148","Ourense","OURENSE","Ourense",,,,2024-01-31,"meteogalicia",8.99,2.99,20.34,87,0,1,1,1,1,1
+2024-02-01,"10148","Ourense","OURENSE","Ourense",,,,2024-02-01,"meteogalicia",8.22,2.79,18.63,89,0,1,1,1,1,1
+2024-02-02,"10148","Ourense","OURENSE","Ourense",,,,2024-02-02,"meteogalicia",9.29,4.01,19.83,85,0,1,1,1,1,1
+2024-02-03,"10148","Ourense","OURENSE","Ourense",,,,2024-02-03,"meteogalicia",9.26,3.75,21.4,85,0,1,1,1,1,1
+2024-02-04,"10148","Ourense","OURENSE","Ourense",,,,2024-02-04,"meteogalicia",8.9,3.06,20.19,87,0,1,1,1,1,1
+2024-02-05,"10148","Ourense","OURENSE","Ourense",,,,2024-02-05,"meteogalicia",8.88,3.7,19.57,88,0,1,1,1,1,1
+2024-02-06,"10148","Ourense","OURENSE","Ourense",,,,2024-02-06,"meteogalicia",8.95,4.91,17.63,88,0,1,1,1,1,1
+2024-02-07,"10148","Ourense","OURENSE","Ourense",,,,2024-02-07,"meteogalicia",12.23,6.12,19.04,78,0,1,1,1,1,1
+2024-02-08,"10148","Ourense","OURENSE","Ourense",,,,2024-02-08,"meteogalicia",14.15,11.64,16.21,68,6.2,1,1,1,1,1
+2024-02-09,"10148","Ourense","OURENSE","Ourense",,,,2024-02-09,"meteogalicia",10.69,8.63,12.56,96,20,1,1,1,1,1
+2024-02-10,"10148","Ourense","OURENSE","Ourense",,,,2024-02-10,"meteogalicia",7.15,4.68,11.26,88,9.8,1,1,1,1,1
+2024-02-11,"10148","Ourense","OURENSE","Ourense",,,,2024-02-11,"meteogalicia",8.43,4.35,13.98,88,3.8,1,1,1,1,1
+2024-02-12,"10148","Ourense","OURENSE","Ourense",,,,2024-02-12,"meteogalicia",13.36,10.02,17.74,78,0.6,1,1,1,1,1
+2024-02-13,"10148","Ourense","OURENSE","Ourense",,,,2024-02-13,"meteogalicia",13.47,9.23,21.99,85,0.4,1,1,1,1,1
+2024-02-14,"10148","Ourense","OURENSE","Ourense",,,,2024-02-14,"meteogalicia",16.01,9.44,22.82,77,0,1,1,1,1,1
+2024-02-15,"10148","Ourense","OURENSE","Ourense",,,,2024-02-15,"meteogalicia",14.38,9.78,18.5,79,2.6,1,1,1,1,1
+2024-02-16,"10148","Ourense","OURENSE","Ourense",,,,2024-02-16,"meteogalicia",11.88,7.07,19.44,85,0.8,1,1,1,1,1
+2024-02-17,"10148","Ourense","OURENSE","Ourense",,,,2024-02-17,"meteogalicia",10.38,5.11,21.53,84,0,1,1,1,1,1
+2024-02-18,"10148","Ourense","OURENSE","Ourense",,,,2024-02-18,"meteogalicia",11.98,5.13,23.95,84,0,1,1,1,1,1
+2024-02-19,"10148","Ourense","OURENSE","Ourense",,,,2024-02-19,"meteogalicia",14.73,9.36,22.94,80,0,1,1,1,1,1
+2024-02-20,"10148","Ourense","OURENSE","Ourense",,,,2024-02-20,"meteogalicia",11.32,5.59,22.33,85,0,1,1,1,1,1
+2024-02-21,"10148","Ourense","OURENSE","Ourense",,,,2024-02-21,"meteogalicia",11.14,5.68,17.53,79,0,1,1,1,1,1
+2024-02-22,"10148","Ourense","OURENSE","Ourense",,,,2024-02-22,"meteogalicia",12.47,6.06,16.4,69,3,1,1,1,1,1
+2024-02-23,"10148","Ourense","OURENSE","Ourense",,,,2024-02-23,"meteogalicia",7.34,5.69,10.7,83,18.2,1,1,1,1,1
+2024-02-24,"10148","Ourense","OURENSE","Ourense",,,,2024-02-24,"meteogalicia",8.66,4.19,12.97,83,5,1,1,1,1,1
+2024-02-25,"10148","Ourense","OURENSE","Ourense",,,,2024-02-25,"meteogalicia",12.88,9.26,14.48,81,23.6,1,1,1,1,1
+2024-02-26,"10148","Ourense","OURENSE","Ourense",,,,2024-02-26,"meteogalicia",8.72,5.23,13.33,68,1.2,1,1,1,1,1
+2024-02-27,"10148","Ourense","OURENSE","Ourense",,,,2024-02-27,"meteogalicia",8.73,5.15,14.44,66,0,1,1,1,1,1
+2024-02-28,"10148","Ourense","OURENSE","Ourense",,,,2024-02-28,"meteogalicia",9.94,4.64,17.73,76,0,1,1,1,1,1
+2024-02-29,"10148","Ourense","OURENSE","Ourense",,,,2024-02-29,"meteogalicia",9.33,3.28,13.41,80,3.8,1,1,1,1,1
+2024-03-01,"10148","Ourense","OURENSE","Ourense",,,,2024-03-01,"meteogalicia",8.17,2.88,12.34,92,10.2,1,1,1,1,1
+2024-03-02,"10148","Ourense","OURENSE","Ourense",,,,2024-03-02,"meteogalicia",7.8,2.11,11.07,85,25,1,1,1,1,1
+2024-03-03,"10148","Ourense","OURENSE","Ourense",,,,2024-03-03,"meteogalicia",7.36,2.55,12.87,88,2.2,1,1,1,1,1
+2024-03-04,"10148","Ourense","OURENSE","Ourense",,,,2024-03-04,"meteogalicia",10.22,7.23,14.98,81,9.6,1,1,1,1,1
+2024-03-05,"10148","Ourense","OURENSE","Ourense",,,,2024-03-05,"meteogalicia",8.3,4.55,15.36,84,0.4,1,1,1,1,1
+2024-03-06,"10148","Ourense","OURENSE","Ourense",,,,2024-03-06,"meteogalicia",8.71,2.35,17,75,0,1,1,1,1,1
+2024-03-07,"10148","Ourense","OURENSE","Ourense",,,,2024-03-07,"meteogalicia",10.29,5.27,12.51,64,0,1,1,1,1,1
+2024-03-08,"10148","Ourense","OURENSE","Ourense",,,,2024-03-08,"meteogalicia",8.52,4.78,12.58,75,22.6,1,1,1,1,1
+2024-03-09,"10148","Ourense","OURENSE","Ourense",,,,2024-03-09,"meteogalicia",7.35,3.93,11.66,79,17.2,1,1,1,1,1
+2024-03-10,"10148","Ourense","OURENSE","Ourense",,,,2024-03-10,"meteogalicia",9.47,6.61,14.62,85,8.4,1,1,1,1,1
+2024-03-11,"10148","Ourense","OURENSE","Ourense",,,,2024-03-11,"meteogalicia",9.4,4.52,14.77,83,0,1,1,1,1,1
+2024-03-12,"10148","Ourense","OURENSE","Ourense",,,,2024-03-12,"meteogalicia",12.07,5.74,21.55,73,0,1,1,1,1,1
+2024-03-13,"10148","Ourense","OURENSE","Ourense",,,,2024-03-13,"meteogalicia",12.42,3.47,24.62,72,0,1,1,1,1,1
+2024-03-14,"10148","Ourense","OURENSE","Ourense",,,,2024-03-14,"meteogalicia",12.26,5.94,19.31,86,2.8,1,1,1,1,1
+2024-03-15,"10148","Ourense","OURENSE","Ourense",,,,2024-03-15,"meteogalicia",13.43,8.56,21.63,82,0,1,1,1,1,1
+2024-03-16,"10148","Ourense","OURENSE","Ourense",,,,2024-03-16,"meteogalicia",12.87,7.33,20.28,86,0,1,1,1,1,1
+2024-03-17,"10148","Ourense","OURENSE","Ourense",,,,2024-03-17,"meteogalicia",15.56,9.67,22.1,82,0,1,1,1,1,1
+2024-03-18,"10148","Ourense","OURENSE","Ourense",,,,2024-03-18,"meteogalicia",15.73,9.25,26.21,77,0,1,1,1,1,1
+2024-03-19,"10148","Ourense","OURENSE","Ourense",,,,2024-03-19,"meteogalicia",14.49,8.49,22.56,76,0,1,1,1,1,1
+2024-03-20,"10148","Ourense","OURENSE","Ourense",,,,2024-03-20,"meteogalicia",12.44,5.83,22.4,74,0,1,1,1,1,1
+2024-03-21,"10148","Ourense","OURENSE","Ourense",,,,2024-03-21,"meteogalicia",16.83,8.05,27.96,66,0,1,1,1,1,1
+2024-03-22,"10148","Ourense","OURENSE","Ourense",,,,2024-03-22,"meteogalicia",16.79,8.35,29.39,70,0,1,1,1,1,1
+2024-03-23,"10148","Ourense","OURENSE","Ourense",,,,2024-03-23,"meteogalicia",15.81,9.37,23.66,61,0,1,1,1,1,1
+2024-03-24,"10148","Ourense","OURENSE","Ourense",,,,2024-03-24,"meteogalicia",13.46,5.12,24.07,63,0,1,1,1,1,1
+2024-03-25,"10148","Ourense","OURENSE","Ourense",,,,2024-03-25,"meteogalicia",8.24,3.32,13.74,80,1.8,1,1,1,1,1
+2024-03-26,"10148","Ourense","OURENSE","Ourense",,,,2024-03-26,"meteogalicia",6.19,2.34,9.71,84,2.4,1,1,1,1,1
+2024-03-27,"10148","Ourense","OURENSE","Ourense",,,,2024-03-27,"meteogalicia",8.89,6.39,11.92,77,27.6,1,1,1,1,1
+2024-03-28,"10148","Ourense","OURENSE","Ourense",,,,2024-03-28,"meteogalicia",8.02,5.83,10.21,86,20,1,1,1,1,1
+2024-03-29,"10148","Ourense","OURENSE","Ourense",,,,2024-03-29,"meteogalicia",8.38,5.04,13.44,87,6.4,1,1,1,1,1
+2024-03-30,"10148","Ourense","OURENSE","Ourense",,,,2024-03-30,"meteogalicia",7.5,4.4,10.47,93,6.6,1,1,1,1,1
+2024-03-31,"10148","Ourense","OURENSE","Ourense",,,,2024-03-31,"meteogalicia",8.33,4.36,14.7,82,5.6,1,1,1,1,1
+2024-04-01,"10148","Ourense","OURENSE","Ourense",,,,2024-04-01,"meteogalicia",9.82,6.63,15.02,74,7,1,1,1,1,1
+2024-04-02,"10148","Ourense","OURENSE","Ourense",,,,2024-04-02,"meteogalicia",12.69,9.22,16.32,74,7.2,1,1,1,1,1
+2024-04-03,"10148","Ourense","OURENSE","Ourense",,,,2024-04-03,"meteogalicia",14.45,9.58,19.7,71,0,1,1,1,1,1
+2024-04-04,"10148","Ourense","OURENSE","Ourense",,,,2024-04-04,"meteogalicia",16.88,8.93,23.04,51,0,1,1,1,1,1
+2024-04-05,"10148","Ourense","OURENSE","Ourense",,,,2024-04-05,"meteogalicia",20.66,15.66,26.4,41,0,1,1,1,1,1
+2024-04-06,"10148","Ourense","OURENSE","Ourense",,,,2024-04-06,"meteogalicia",15.62,11.59,21.04,72,7,1,1,1,1,1
+2024-04-07,"10148","Ourense","OURENSE","Ourense",,,,2024-04-07,"meteogalicia",13.9,8.15,22.24,72,0,1,1,1,1,1
+2024-04-08,"10148","Ourense","OURENSE","Ourense",,,,2024-04-08,"meteogalicia",10.53,4.85,14.13,79,16.2,1,1,1,1,1
+2024-04-09,"10148","Ourense","OURENSE","Ourense",,,,2024-04-09,"meteogalicia",10.04,3.73,19.22,76,0,1,1,1,1,1
+2024-04-10,"10148","Ourense","OURENSE","Ourense",,,,2024-04-10,"meteogalicia",13.93,4.56,25.91,72,0,1,1,1,1,1
+2024-04-11,"10148","Ourense","OURENSE","Ourense",,,,2024-04-11,"meteogalicia",17.9,7.31,31.74,71,0,1,1,1,1,1
+2024-04-12,"10148","Ourense","OURENSE","Ourense",,,,2024-04-12,"meteogalicia",20.16,9.51,33.87,69,0,1,1,1,1,1
+2024-04-13,"10148","Ourense","OURENSE","Ourense",,,,2024-04-13,"meteogalicia",20.84,10.97,32.78,69,0,1,1,1,1,1
+2024-04-14,"10148","Ourense","OURENSE","Ourense",,,,2024-04-14,"meteogalicia",20.33,11.86,32.27,66,0,1,1,1,1,1
+2024-04-15,"10148","Ourense","OURENSE","Ourense",,,,2024-04-15,"meteogalicia",17.03,11.47,25.09,60,0,1,1,1,1,1
+2024-04-16,"10148","Ourense","OURENSE","Ourense",,,,2024-04-16,"meteogalicia",14.26,7.84,22,60,0,1,1,1,1,1
+2024-04-17,"10148","Ourense","OURENSE","Ourense",,,,2024-04-17,"meteogalicia",14.13,5.49,24.2,61,0,1,1,1,1,1
+2024-04-18,"10148","Ourense","OURENSE","Ourense",,,,2024-04-18,"meteogalicia",15.61,7.53,26.44,58,0,1,1,1,1,1
+2024-04-19,"10148","Ourense","OURENSE","Ourense",,,,2024-04-19,"meteogalicia",17.31,6.39,29.48,59,0,1,1,1,1,1
+2024-04-20,"10148","Ourense","OURENSE","Ourense",,,,2024-04-20,"meteogalicia",17.57,7.89,29.53,58,0,1,1,1,1,1
+2024-04-21,"10148","Ourense","OURENSE","Ourense",,,,2024-04-21,"meteogalicia",16.72,7.46,28.17,59,0,1,1,1,1,1
+2024-04-22,"10148","Ourense","OURENSE","Ourense",,,,2024-04-22,"meteogalicia",14.6,6.6,24.84,50,0,1,1,1,1,1
+2024-04-23,"10148","Ourense","OURENSE","Ourense",,,,2024-04-23,"meteogalicia",12.76,4.09,21.33,52,0,1,1,1,1,1
+2024-04-24,"10148","Ourense","OURENSE","Ourense",,,,2024-04-24,"meteogalicia",13.2,4.64,22.04,59,0,1,1,1,1,1
+2024-04-25,"10148","Ourense","OURENSE","Ourense",,,,2024-04-25,"meteogalicia",12.74,8.11,18.89,68,1,1,1,1,1,1
+2024-04-26,"10148","Ourense","OURENSE","Ourense",,,,2024-04-26,"meteogalicia",11.23,8.01,16.36,87,15.2,1,1,1,1,1
+2024-04-27,"10148","Ourense","OURENSE","Ourense",,,,2024-04-27,"meteogalicia",8.86,6.77,15.56,87,5.6,1,1,1,1,1
+2024-04-28,"10148","Ourense","OURENSE","Ourense",,,,2024-04-28,"meteogalicia",10.57,6.52,16.71,77,1.4,1,1,1,1,1
+2024-04-29,"10148","Ourense","OURENSE","Ourense",,,,2024-04-29,"meteogalicia",11.2,2.74,21.04,67,0,1,1,1,1,1
+2024-04-30,"10148","Ourense","OURENSE","Ourense",,,,2024-04-30,"meteogalicia",11.37,7.16,16.68,81,7.4,1,1,1,1,1
+2024-05-01,"10148","Ourense","OURENSE","Ourense",,,,2024-05-01,"meteogalicia",9.02,5.8,14.38,83,4.2,1,1,1,1,1
+2024-05-02,"10148","Ourense","OURENSE","Ourense",,,,2024-05-02,"meteogalicia",10.24,5.57,16.41,79,4.6,1,1,1,1,1
+2024-05-03,"10148","Ourense","OURENSE","Ourense",,,,2024-05-03,"meteogalicia",12.06,7.77,15.94,90,3,1,1,1,1,1
+2024-05-04,"10148","Ourense","OURENSE","Ourense",,,,2024-05-04,"meteogalicia",15.82,12.57,21.04,79,4.4,1,1,1,1,1
+2024-05-05,"10148","Ourense","OURENSE","Ourense",,,,2024-05-05,"meteogalicia",14.53,10.1,20.74,90,21,1,1,1,1,1
+2024-05-06,"10148","Ourense","OURENSE","Ourense",,,,2024-05-06,"meteogalicia",12.18,6.62,19.41,79,0,1,1,1,1,1
+2024-05-07,"10148","Ourense","OURENSE","Ourense",,,,2024-05-07,"meteogalicia",14.96,6.18,25.44,69,0,1,1,1,1,1
+2024-05-08,"10148","Ourense","OURENSE","Ourense",,,,2024-05-08,"meteogalicia",18.64,8.78,29.75,63,0,1,1,1,1,1
+2024-05-09,"10148","Ourense","OURENSE","Ourense",,,,2024-05-09,"meteogalicia",18.49,8.97,29.51,68,0,1,1,1,1,1
+2024-05-10,"10148","Ourense","OURENSE","Ourense",,,,2024-05-10,"meteogalicia",19.1,9.43,31.67,66,2.6,1,1,1,1,1
+2024-05-11,"10148","Ourense","OURENSE","Ourense",,,,2024-05-11,"meteogalicia",19.73,12.75,28.62,67,0.8,1,1,1,1,1
+2024-05-12,"10148","Ourense","OURENSE","Ourense",,,,2024-05-12,"meteogalicia",16.15,8.72,24.88,72,0,1,1,1,1,1
+2024-05-13,"10148","Ourense","OURENSE","Ourense",,,,2024-05-13,"meteogalicia",14.74,11.28,17.42,80,3,1,1,1,1,1
+2024-05-14,"10148","Ourense","OURENSE","Ourense",,,,2024-05-14,"meteogalicia",13.09,10.75,17.03,73,1.2,1,1,1,1,1
+2024-05-15,"10148","Ourense","OURENSE","Ourense",,,,2024-05-15,"meteogalicia",11.28,7.99,15.58,82,6.8,1,1,1,1,1
+2024-05-16,"10148","Ourense","OURENSE","Ourense",,,,2024-05-16,"meteogalicia",12.28,9.51,16.05,82,7.4,1,1,1,1,1
+2024-05-17,"10148","Ourense","OURENSE","Ourense",,,,2024-05-17,"meteogalicia",12.84,9.66,16.86,88,1.6,1,1,1,1,1
+2024-05-18,"10148","Ourense","OURENSE","Ourense",,,,2024-05-18,"meteogalicia",13.39,10,18.54,89,5.8,1,1,1,1,1
+2024-05-19,"10148","Ourense","OURENSE","Ourense",,,,2024-05-19,"meteogalicia",12.71,8.85,18.75,87,4.6,1,1,1,1,1
+2024-05-20,"10148","Ourense","OURENSE","Ourense",,,,2024-05-20,"meteogalicia",13.53,8.74,19.88,81,1.4,1,1,1,1,1
+2024-05-21,"10148","Ourense","OURENSE","Ourense",,,,2024-05-21,"meteogalicia",14.37,10.61,19.48,77,1.2,1,1,1,1,1
+2024-05-22,"10148","Ourense","OURENSE","Ourense",,,,2024-05-22,"meteogalicia",14.73,9.06,20.21,70,0,1,1,1,1,1
+2024-05-23,"10148","Ourense","OURENSE","Ourense",,,,2024-05-23,"meteogalicia",14.23,5.3,23.38,69,0,1,1,1,1,1
+2024-05-24,"10148","Ourense","OURENSE","Ourense",,,,2024-05-24,"meteogalicia",17.48,7.93,28.62,64,0,1,1,1,1,1
+2024-05-25,"10148","Ourense","OURENSE","Ourense",,,,2024-05-25,"meteogalicia",16.41,9.03,24.55,76,1.8,1,1,1,1,1
+2024-05-26,"10148","Ourense","OURENSE","Ourense",,,,2024-05-26,"meteogalicia",17.33,11.2,25.53,67,0,1,1,1,1,1
+2024-05-27,"10148","Ourense","OURENSE","Ourense",,,,2024-05-27,"meteogalicia",16.84,7.94,26.78,64,0,1,1,1,1,1
+2024-05-28,"10148","Ourense","OURENSE","Ourense",,,,2024-05-28,"meteogalicia",19.7,9.15,31.46,62,0,1,1,1,1,1
+2024-05-29,"10148","Ourense","OURENSE","Ourense",,,,2024-05-29,"meteogalicia",20.73,9.61,31.22,61,0,1,1,1,1,1
+2024-05-30,"10148","Ourense","OURENSE","Ourense",,,,2024-05-30,"meteogalicia",20.57,13.8,29.47,67,0,1,1,1,1,1
+2024-05-31,"10148","Ourense","OURENSE","Ourense",,,,2024-05-31,"meteogalicia",18.55,10.22,29.07,58,0,1,1,1,1,1
+2024-06-01,"10148","Ourense","OURENSE","Ourense",,,,2024-06-01,"meteogalicia",19.45,11.58,30.06,54,0,1,1,1,1,1
+2024-06-02,"10148","Ourense","OURENSE","Ourense",,,,2024-06-02,"meteogalicia",19.8,9.86,30.7,59,0,1,1,1,1,1
+2024-06-03,"10148","Ourense","OURENSE","Ourense",,,,2024-06-03,"meteogalicia",22.22,13.01,32.55,55,0,1,1,1,1,1
+2024-06-04,"10148","Ourense","OURENSE","Ourense",,,,2024-06-04,"meteogalicia",22.45,13.03,32.51,61,0,1,1,1,1,1
+2024-06-05,"10148","Ourense","OURENSE","Ourense",,,,2024-06-05,"meteogalicia",21.16,12.35,30.02,67,0,1,1,1,1,1
+2024-06-06,"10148","Ourense","OURENSE","Ourense",,,,2024-06-06,"meteogalicia",22.75,17.98,31.62,61,0,1,1,1,1,1
+2024-06-07,"10148","Ourense","OURENSE","Ourense",,,,2024-06-07,"meteogalicia",22.16,16.84,34.68,71,1.8,1,1,1,1,1
+2024-06-08,"10148","Ourense","OURENSE","Ourense",,,,2024-06-08,"meteogalicia",18.64,15.83,23.06,80,2,1,1,1,1,1
+2024-06-09,"10148","Ourense","OURENSE","Ourense",,,,2024-06-09,"meteogalicia",17.78,13.82,23.36,66,0,1,1,1,1,1
+2024-06-10,"10148","Ourense","OURENSE","Ourense",,,,2024-06-10,"meteogalicia",18.63,11.91,27.08,56,0,1,1,1,1,1
+2024-06-11,"10148","Ourense","OURENSE","Ourense",,,,2024-06-11,"meteogalicia",17.04,8.71,26.07,62,0,1,1,1,1,1
+2024-06-12,"10148","Ourense","OURENSE","Ourense",,,,2024-06-12,"meteogalicia",18,11.74,26.44,56,0,1,1,1,1,1
+2024-06-13,"10148","Ourense","OURENSE","Ourense",,,,2024-06-13,"meteogalicia",17.26,8.77,26.94,66,0.4,1,1,1,1,1
+2024-06-14,"10148","Ourense","OURENSE","Ourense",,,,2024-06-14,"meteogalicia",18.81,11.78,22.92,61,0,1,1,1,1,1
+2024-06-15,"10148","Ourense","OURENSE","Ourense",,,,2024-06-15,"meteogalicia",16.76,10.37,23.85,59,0,1,1,1,1,1
+2024-06-16,"10148","Ourense","OURENSE","Ourense",,,,2024-06-16,"meteogalicia",17.93,14.16,22.01,68,0,1,1,1,1,1
+2024-06-17,"10148","Ourense","OURENSE","Ourense",,,,2024-06-17,"meteogalicia",17.84,16.23,21.16,85,12,1,1,1,1,1
+2024-06-18,"10148","Ourense","OURENSE","Ourense",,,,2024-06-18,"meteogalicia",17.7,12.45,23.86,79,6.2,1,1,1,1,1
+2024-06-19,"10148","Ourense","OURENSE","Ourense",,,,2024-06-19,"meteogalicia",16.08,10.9,23.34,79,4.2,1,1,1,1,1
+2024-06-20,"10148","Ourense","OURENSE","Ourense",,,,2024-06-20,"meteogalicia",16.75,11.42,21.24,74,2.2,1,1,1,1,1
+2024-06-21,"10148","Ourense","OURENSE","Ourense",,,,2024-06-21,"meteogalicia",17.51,9.95,27.37,68,0,1,1,1,1,1
+2024-06-22,"10148","Ourense","OURENSE","Ourense",,,,2024-06-22,"meteogalicia",19.33,11.92,26.67,66,0,1,1,1,1,1
+2024-06-23,"10148","Ourense","OURENSE","Ourense",,,,2024-06-23,"meteogalicia",22.73,13.97,31.69,68,0,1,1,1,1,1
+2024-06-24,"10148","Ourense","OURENSE","Ourense",,,,2024-06-24,"meteogalicia",25.64,16.19,35.72,63,0,1,1,1,1,1
+2024-06-25,"10148","Ourense","OURENSE","Ourense",,,,2024-06-25,"meteogalicia",23.29,17.72,30.68,71,0,1,1,1,1,1
+2024-06-26,"10148","Ourense","OURENSE","Ourense",,,,2024-06-26,"meteogalicia",23.47,17.99,32.56,73,2.2,1,1,1,1,1
+2024-06-27,"10148","Ourense","OURENSE","Ourense",,,,2024-06-27,"meteogalicia",23.49,19.42,32.94,67,0,1,1,1,1,1
+2024-06-28,"10148","Ourense","OURENSE","Ourense",,,,2024-06-28,"meteogalicia",22.48,18.78,29.37,65,0,1,1,1,1,1
+2024-06-29,"10148","Ourense","OURENSE","Ourense",,,,2024-06-29,"meteogalicia",21.07,17.16,28.51,62,0,1,1,1,1,1
+2024-06-30,"10148","Ourense","OURENSE","Ourense",,,,2024-06-30,"meteogalicia",20.55,15.49,27.33,72,15.8,1,1,1,1,1
+2024-07-01,"10148","Ourense","OURENSE","Ourense",,,,2024-07-01,"meteogalicia",20.21,13.03,30.23,71,0,1,1,1,1,1
+2024-07-02,"10148","Ourense","OURENSE","Ourense",,,,2024-07-02,"meteogalicia",22.82,15.72,32.3,58,0,1,1,1,1,1
+2024-07-03,"10148","Ourense","OURENSE","Ourense",,,,2024-07-03,"meteogalicia",22,13.95,31.89,58,0,1,1,1,1,1
+2024-07-04,"10148","Ourense","OURENSE","Ourense",,,,2024-07-04,"meteogalicia",24.55,14.68,35.2,54,0,1,1,1,1,1
+2024-07-05,"10148","Ourense","OURENSE","Ourense",,,,2024-07-05,"meteogalicia",23.99,15.27,33.85,62,0,1,1,1,1,1
+2024-07-06,"10148","Ourense","OURENSE","Ourense",,,,2024-07-06,"meteogalicia",18.83,12.74,24.55,63,0,1,1,1,1,1
+2024-07-07,"10148","Ourense","OURENSE","Ourense",,,,2024-07-07,"meteogalicia",18.26,8.47,28.44,58,0,1,1,1,1,1
+2024-07-08,"10148","Ourense","OURENSE","Ourense",,,,2024-07-08,"meteogalicia",20.31,12.98,29.83,61,2,1,1,1,1,1
+2024-07-09,"10148","Ourense","OURENSE","Ourense",,,,2024-07-09,"meteogalicia",19.08,16,23.08,93,7.4,1,1,1,1,1
+2024-07-10,"10148","Ourense","OURENSE","Ourense",,,,2024-07-10,"meteogalicia",23.13,18.36,28.67,75,0,1,1,1,1,1
+2024-07-11,"10148","Ourense","OURENSE","Ourense",,,,2024-07-11,"meteogalicia",23.91,19.7,29.22,59,0,1,1,1,1,1
+2024-07-12,"10148","Ourense","OURENSE","Ourense",,,,2024-07-12,"meteogalicia",21.13,15.67,28.78,56,0,1,1,1,1,1
+2024-07-13,"10148","Ourense","OURENSE","Ourense",,,,2024-07-13,"meteogalicia",20.8,13.44,30.56,54,0,1,1,1,1,1
+2024-07-14,"10148","Ourense","OURENSE","Ourense",,,,2024-07-14,"meteogalicia",21.64,15.99,28.7,57,1.6,1,1,1,1,1
+2024-07-15,"10148","Ourense","OURENSE","Ourense",,,,2024-07-15,"meteogalicia",20.09,13.97,24.93,67,1.8,1,1,1,1,1
+2024-07-16,"10148","Ourense","OURENSE","Ourense",,,,2024-07-16,"meteogalicia",21.35,14.01,30.52,60,0,1,1,1,1,1
+2024-07-17,"10148","Ourense","OURENSE","Ourense",,,,2024-07-17,"meteogalicia",23.26,13.9,33.76,61,0,1,1,1,1,1
+2024-07-18,"10148","Ourense","OURENSE","Ourense",,,,2024-07-18,"meteogalicia",24.21,14.47,35.78,62,0,1,1,1,1,1
+2024-07-19,"10148","Ourense","OURENSE","Ourense",,,,2024-07-19,"meteogalicia",24.54,14.74,34.57,60,0,1,1,1,1,1
+2024-07-20,"10148","Ourense","OURENSE","Ourense",,,,2024-07-20,"meteogalicia",21.46,16.18,26.29,72,0.4,1,1,1,1,1
+2024-07-21,"10148","Ourense","OURENSE","Ourense",,,,2024-07-21,"meteogalicia",19.91,11.07,30.1,61,0,1,1,1,1,1
+2024-07-22,"10148","Ourense","OURENSE","Ourense",,,,2024-07-22,"meteogalicia",25.04,12.54,38.01,51,0,1,1,1,1,1
+2024-07-23,"10148","Ourense","OURENSE","Ourense",,,,2024-07-23,"meteogalicia",28.34,16.73,41.49,52,0,1,1,1,1,1
+2024-07-24,"10148","Ourense","OURENSE","Ourense",,,,2024-07-24,"meteogalicia",26.67,19.01,37.54,62,0,1,1,1,1,1
+2024-07-25,"10148","Ourense","OURENSE","Ourense",,,,2024-07-25,"meteogalicia",25.3,20.69,33.91,60,0,1,1,1,1,1
+2024-07-26,"10148","Ourense","OURENSE","Ourense",,,,2024-07-26,"meteogalicia",26.07,19.93,35.27,56,0,1,1,1,1,1
+2024-07-27,"10148","Ourense","OURENSE","Ourense",,,,2024-07-27,"meteogalicia",25.24,18.55,35.35,58,0,1,1,1,1,1
+2024-07-28,"10148","Ourense","OURENSE","Ourense",,,,2024-07-28,"meteogalicia",28.02,20.17,38.69,57,0,1,1,1,1,1
+2024-07-29,"10148","Ourense","OURENSE","Ourense",,,,2024-07-29,"meteogalicia",26.28,20.7,37.82,67,3.2,1,1,1,1,1
+2024-07-30,"10148","Ourense","OURENSE","Ourense",,,,2024-07-30,"meteogalicia",28.05,20.12,38.26,53,0,1,1,1,1,1
+2024-07-31,"10148","Ourense","OURENSE","Ourense",,,,2024-07-31,"meteogalicia",25.95,16.43,37.04,60,0,1,1,1,1,1
+2024-08-01,"10148","Ourense","OURENSE","Ourense",,,,2024-08-01,"meteogalicia",23.34,19.63,31.51,68,0,1,1,1,1,1
+2024-08-02,"10148","Ourense","OURENSE","Ourense",,,,2024-08-02,"meteogalicia",24.35,19.5,32.3,58,0,1,1,1,1,1
+2024-08-03,"10148","Ourense","OURENSE","Ourense",,,,2024-08-03,"meteogalicia",24.62,16.96,36.04,54,0,1,1,1,1,1
+2024-08-04,"10148","Ourense","OURENSE","Ourense",,,,2024-08-04,"meteogalicia",25.3,14.28,37.55,52,0,1,1,1,1,1
+2024-08-05,"10148","Ourense","OURENSE","Ourense",,,,2024-08-05,"meteogalicia",24.86,16.17,35.3,62,0,1,1,1,1,1
+2024-08-06,"10148","Ourense","OURENSE","Ourense",,,,2024-08-06,"meteogalicia",23.57,15.64,32.22,67,0,1,1,1,1,1
+2024-08-07,"10148","Ourense","OURENSE","Ourense",,,,2024-08-07,"meteogalicia",24.49,19.74,33.96,60,0,1,1,1,1,1
+2024-08-08,"10148","Ourense","OURENSE","Ourense",,,,2024-08-08,"meteogalicia",25.05,19.87,34.89,61,0,1,1,1,1,1
+2024-08-09,"10148","Ourense","OURENSE","Ourense",,,,2024-08-09,"meteogalicia",26.49,18.79,37.15,59,0,1,1,1,1,1
+2024-08-10,"10148","Ourense","OURENSE","Ourense",,,,2024-08-10,"meteogalicia",29.18,19.07,42.59,57,0,1,1,1,1,1
+2024-08-11,"10148","Ourense","OURENSE","Ourense",,,,2024-08-11,"meteogalicia",28.03,20.23,38.26,57,0,1,1,1,1,1
+2024-08-12,"10148","Ourense","OURENSE","Ourense",,,,2024-08-12,"meteogalicia",24.49,20.06,33,59,0,1,1,1,1,1
+2024-08-13,"10148","Ourense","OURENSE","Ourense",,,,2024-08-13,"meteogalicia",22.05,18.67,27.36,63,0,1,1,1,1,1
+2024-08-14,"10148","Ourense","OURENSE","Ourense",,,,2024-08-14,"meteogalicia",22.65,17.44,30.59,56,0,1,1,1,1,1
+2024-08-15,"10148","Ourense","OURENSE","Ourense",,,,2024-08-15,"meteogalicia",23.34,12.52,36.08,51,0,1,1,1,1,1
+2024-08-16,"10148","Ourense","OURENSE","Ourense",,,,2024-08-16,"meteogalicia",25.32,13.76,38.6,46,0,1,1,1,1,1
+2024-08-17,"10148","Ourense","OURENSE","Ourense",,,,2024-08-17,"meteogalicia",25.4,18.21,33.62,58,0,1,1,1,1,1
+2024-08-18,"10148","Ourense","OURENSE","Ourense",,,,2024-08-18,"meteogalicia",25.34,18.21,35.15,61,0,1,1,1,1,1
+2024-08-19,"10148","Ourense","OURENSE","Ourense",,,,2024-08-19,"meteogalicia",25.12,18.87,35.88,52,0,1,1,1,1,1
+2024-08-20,"10148","Ourense","OURENSE","Ourense",,,,2024-08-20,"meteogalicia",22.72,14.12,33.33,61,0,1,1,1,1,1
+2024-08-21,"10148","Ourense","OURENSE","Ourense",,,,2024-08-21,"meteogalicia",25.28,18.28,36.1,55,0,1,1,1,1,1
+2024-08-22,"10148","Ourense","OURENSE","Ourense",,,,2024-08-22,"meteogalicia",22.98,15.1,33.37,64,0,1,1,1,1,1
+2024-08-23,"10148","Ourense","OURENSE","Ourense",,,,2024-08-23,"meteogalicia",25.09,17.36,36.17,56,0,1,1,1,1,1
+2024-08-24,"10148","Ourense","OURENSE","Ourense",,,,2024-08-24,"meteogalicia",20.84,15.71,27.08,70,1,1,1,1,1,1
+2024-08-25,"10148","Ourense","OURENSE","Ourense",,,,2024-08-25,"meteogalicia",19.61,10.66,30.59,61,0,1,1,1,1,1
+2024-08-26,"10148","Ourense","OURENSE","Ourense",,,,2024-08-26,"meteogalicia",22.16,10.94,35.05,57,0,1,1,1,1,1
+2024-08-27,"10148","Ourense","OURENSE","Ourense",,,,2024-08-27,"meteogalicia",23.03,13.7,34.38,57,0,1,1,1,1,1
+2024-08-28,"10148","Ourense","OURENSE","Ourense",,,,2024-08-28,"meteogalicia",22.31,13.69,33.82,62,0,1,1,1,1,1
+2024-08-29,"10148","Ourense","OURENSE","Ourense",,,,2024-08-29,"meteogalicia",23.24,17.69,33.7,61,0,1,1,1,1,1
+2024-08-30,"10148","Ourense","OURENSE","Ourense",,,,2024-08-30,"meteogalicia",23.07,16.15,32.84,65,0,1,1,1,1,1
+2024-08-31,"10148","Ourense","OURENSE","Ourense",,,,2024-08-31,"meteogalicia",22.89,18.91,32.89,71,0.4,1,1,1,1,1
+2024-09-01,"10148","Ourense","OURENSE","Ourense",,,,2024-09-01,"meteogalicia",24.1,19.96,32.38,60,0,1,1,1,1,1
+2024-09-02,"10148","Ourense","OURENSE","Ourense",,,,2024-09-02,"meteogalicia",19.29,15.23,22.34,73,1.2,1,1,1,1,1
+2024-09-03,"10148","Ourense","OURENSE","Ourense",,,,2024-09-03,"meteogalicia",18.82,13.14,26.72,60,0,1,1,1,1,1
+2024-09-04,"10148","Ourense","OURENSE","Ourense",,,,2024-09-04,"meteogalicia",19.16,11.65,29.21,60,0,1,1,1,1,1
+2024-09-05,"10148","Ourense","OURENSE","Ourense",,,,2024-09-05,"meteogalicia",16.61,11.61,23.51,62,0,1,1,1,1,1
+2024-09-06,"10148","Ourense","OURENSE","Ourense",,,,2024-09-06,"meteogalicia",14.32,9.51,18.45,74,3.8,1,1,1,1,1
+2024-09-07,"10148","Ourense","OURENSE","Ourense",,,,2024-09-07,"meteogalicia",17.59,13.67,24.98,72,7,1,1,1,1,1
+2024-09-08,"10148","Ourense","OURENSE","Ourense",,,,2024-09-08,"meteogalicia",17.19,10.87,26.05,72,0,1,1,1,1,1
+2024-09-09,"10148","Ourense","OURENSE","Ourense",,,,2024-09-09,"meteogalicia",17.97,10.92,27.37,74,0,1,1,1,1,1
+2024-09-10,"10148","Ourense","OURENSE","Ourense",,,,2024-09-10,"meteogalicia",19.28,13.41,26.57,65,0,1,1,1,1,1
+2024-09-11,"10148","Ourense","OURENSE","Ourense",,,,2024-09-11,"meteogalicia",17.98,10.83,27.24,67,0,1,1,1,1,1
+2024-09-12,"10148","Ourense","OURENSE","Ourense",,,,2024-09-12,"meteogalicia",18.78,13.46,24.85,73,0,1,1,1,1,1
+2024-09-13,"10148","Ourense","OURENSE","Ourense",,,,2024-09-13,"meteogalicia",18.18,11.65,27.87,60,0,1,1,1,1,1
+2024-09-14,"10148","Ourense","OURENSE","Ourense",,,,2024-09-14,"meteogalicia",18.3,7.56,32.07,55,0,1,1,1,1,1
+2024-09-15,"10148","Ourense","OURENSE","Ourense",,,,2024-09-15,"meteogalicia",19.22,7.74,33.01,58,0,1,1,1,1,1
+2024-09-16,"10148","Ourense","OURENSE","Ourense",,,,2024-09-16,"meteogalicia",20.23,10.07,33.06,58,0,1,1,1,1,1
+2024-09-17,"10148","Ourense","OURENSE","Ourense",,,,2024-09-17,"meteogalicia",19.82,10.69,31.09,57,0,1,1,1,1,1
+2024-09-18,"10148","Ourense","OURENSE","Ourense",,,,2024-09-18,"meteogalicia",20.18,9.79,33.36,58,0,1,1,1,1,1
+2024-09-19,"10148","Ourense","OURENSE","Ourense",,,,2024-09-19,"meteogalicia",18.86,11.55,27.85,69,0,1,1,1,1,1
+2024-09-20,"10148","Ourense","OURENSE","Ourense",,,,2024-09-20,"meteogalicia",17.04,14.12,22.84,93,3.4,1,1,1,1,1
+2024-09-21,"10148","Ourense","OURENSE","Ourense",,,,2024-09-21,"meteogalicia",17.75,14.75,21.78,89,3.2,1,1,1,1,1
+2024-09-22,"10148","Ourense","OURENSE","Ourense",,,,2024-09-22,"meteogalicia",17.93,12.63,25.73,77,0,1,1,1,1,1
+2024-09-23,"10148","Ourense","OURENSE","Ourense",,,,2024-09-23,"meteogalicia",16.07,9.51,24.82,70,0,1,1,1,1,1
+2024-09-24,"10148","Ourense","OURENSE","Ourense",,,,2024-09-24,"meteogalicia",17.92,14.59,23.78,74,1.4,1,1,1,1,1
+2024-09-25,"10148","Ourense","OURENSE","Ourense",,,,2024-09-25,"meteogalicia",19.57,14.83,25.51,86,21.2,1,1,1,1,1
+2024-09-26,"10148","Ourense","OURENSE","Ourense",,,,2024-09-26,"meteogalicia",19.16,14.16,23.02,76,20,1,1,1,1,1
+2024-09-27,"10148","Ourense","OURENSE","Ourense",,,,2024-09-27,"meteogalicia",14.67,8.17,21.35,73,3,1,1,1,1,1
+2024-09-28,"10148","Ourense","OURENSE","Ourense",,,,2024-09-28,"meteogalicia",13.54,6.43,23.36,72,0,1,1,1,1,1
+2024-09-29,"10148","Ourense","OURENSE","Ourense",,,,2024-09-29,"meteogalicia",16.19,8.11,25.22,66,0,1,1,1,1,1
+2024-09-30,"10148","Ourense","OURENSE","Ourense",,,,2024-09-30,"meteogalicia",20.43,16.2,26.82,68,0,1,1,1,1,1
+2024-10-01,"10148","Ourense","OURENSE","Ourense",,,,2024-10-01,"meteogalicia",19.92,17.61,24.72,90,7,1,1,1,1,1
+2024-10-02,"10148","Ourense","OURENSE","Ourense",,,,2024-10-02,"meteogalicia",20.48,19.07,22.37,93,14,1,1,1,1,1
+2024-10-03,"10148","Ourense","OURENSE","Ourense",,,,2024-10-03,"meteogalicia",20.5,17.32,25.51,82,0,1,1,1,1,1
+2024-10-04,"10148","Ourense","OURENSE","Ourense",,,,2024-10-04,"meteogalicia",20.11,16.21,26.97,80,0,1,1,1,1,1
+2024-10-05,"10148","Ourense","OURENSE","Ourense",,,,2024-10-05,"meteogalicia",19.71,17.6,24.32,93,13.8,1,1,1,1,1
+2024-10-06,"10148","Ourense","OURENSE","Ourense",,,,2024-10-06,"meteogalicia",19.22,15.87,22.47,82,2.8,1,1,1,1,1
+2024-10-07,"10148","Ourense","OURENSE","Ourense",,,,2024-10-07,"meteogalicia",16.36,12.47,20.55,80,3.2,1,1,1,1,1
+2024-10-08,"10148","Ourense","OURENSE","Ourense",,,,2024-10-08,"meteogalicia",17.27,15.81,20.4,82,5.8,1,1,1,1,1
+2024-10-09,"10148","Ourense","OURENSE","Ourense",,,,2024-10-09,"meteogalicia",18.23,11.94,22.76,82,17.6,1,1,1,1,1
+2024-10-10,"10148","Ourense","OURENSE","Ourense",,,,2024-10-10,"meteogalicia",13.11,9.21,18.43,90,0,1,1,1,1,1
+2024-10-11,"10148","Ourense","OURENSE","Ourense",,,,2024-10-11,"meteogalicia",14.47,8.69,20.05,88,6.2,1,1,1,1,1
+2024-10-12,"10148","Ourense","OURENSE","Ourense",,,,2024-10-12,"meteogalicia",18.66,14.18,26.54,83,0,1,1,1,1,1
+2024-10-13,"10148","Ourense","OURENSE","Ourense",,,,2024-10-13,"meteogalicia",18.25,12.25,27.22,83,0,1,1,1,1,1
+2024-10-14,"10148","Ourense","OURENSE","Ourense",,,,2024-10-14,"meteogalicia",18.33,14.32,24.89,87,0,1,1,1,1,1
+2024-10-15,"10148","Ourense","OURENSE","Ourense",,,,2024-10-15,"meteogalicia",18.94,15.82,24.5,88,2.4,1,1,1,1,1
+2024-10-16,"10148","Ourense","OURENSE","Ourense",,,,2024-10-16,"meteogalicia",16.86,12.78,20.47,93,11.6,1,1,1,1,1
+2024-10-17,"10148","Ourense","OURENSE","Ourense",,,,2024-10-17,"meteogalicia",14.6,11.67,20.79,80,0,1,1,1,1,1
+2024-10-18,"10148","Ourense","OURENSE","Ourense",,,,2024-10-18,"meteogalicia",15.49,12.23,19.41,87,0.8,1,1,1,1,1
+2024-10-19,"10148","Ourense","OURENSE","Ourense",,,,2024-10-19,"meteogalicia",16.67,15.32,18.63,97,5.6,1,1,1,1,1
+2024-10-20,"10148","Ourense","OURENSE","Ourense",,,,2024-10-20,"meteogalicia",18.42,15.13,22.42,81,0,1,1,1,1,1
+2024-10-21,"10148","Ourense","OURENSE","Ourense",,,,2024-10-21,"meteogalicia",16.27,10.95,21.17,88,0.8,1,1,1,1,1
+2024-10-22,"10148","Ourense","OURENSE","Ourense",,,,2024-10-22,"meteogalicia",14.38,9.52,22.3,83,0,1,1,1,1,1
+2024-10-23,"10148","Ourense","OURENSE","Ourense",,,,2024-10-23,"meteogalicia",15.27,9.03,26.41,83,0,1,1,1,1,1
+2024-10-24,"10148","Ourense","OURENSE","Ourense",,,,2024-10-24,"meteogalicia",14.65,11.15,21.72,89,3,1,1,1,1,1
+2024-10-25,"10148","Ourense","OURENSE","Ourense",,,,2024-10-25,"meteogalicia",11.1,7.34,15.37,87,4.8,1,1,1,1,1
+2024-10-26,"10148","Ourense","OURENSE","Ourense",,,,2024-10-26,"meteogalicia",10.48,7.79,13.17,95,3.6,1,1,1,1,1
+2024-10-27,"10148","Ourense","OURENSE","Ourense",,,,2024-10-27,"meteogalicia",12.93,9.11,18.58,84,0,1,1,1,1,1
+2024-10-28,"10148","Ourense","OURENSE","Ourense",,,,2024-10-28,"meteogalicia",13.47,7.16,22.73,81,0,1,1,1,1,1
+2024-10-29,"10148","Ourense","OURENSE","Ourense",,,,2024-10-29,"meteogalicia",14.64,8.38,23.74,80,0,1,1,1,1,1
+2024-10-30,"10148","Ourense","OURENSE","Ourense",,,,2024-10-30,"meteogalicia",16.81,12.08,23.24,72,0,1,1,1,1,1
+2024-10-31,"10148","Ourense","OURENSE","Ourense",,,,2024-10-31,"meteogalicia",15.46,9.73,24.21,80,0,1,1,1,1,1
+2024-11-01,"10148","Ourense","OURENSE","Ourense",,,,2024-11-01,"meteogalicia",15.71,11.41,25.05,86,0,1,1,1,1,1
+2024-11-02,"10148","Ourense","OURENSE","Ourense",,,,2024-11-02,"meteogalicia",13.68,10.73,22.54,91,0,1,1,1,1,1
+2024-11-03,"10148","Ourense","OURENSE","Ourense",,,,2024-11-03,"meteogalicia",15,9.8,24.91,83,0,1,1,1,1,1
+2024-11-04,"10148","Ourense","OURENSE","Ourense",,,,2024-11-04,"meteogalicia",13.07,8.14,19.93,93,2,1,1,1,1,1
+2024-11-05,"10148","Ourense","OURENSE","Ourense",,,,2024-11-05,"meteogalicia",16.41,12.47,22.27,91,1,1,1,1,1,1
+2024-11-06,"10148","Ourense","OURENSE","Ourense",,,,2024-11-06,"meteogalicia",16.92,11.71,25.7,85,0,1,1,1,1,1
+2024-11-07,"10148","Ourense","OURENSE","Ourense",,,,2024-11-07,"meteogalicia",15.17,10.71,24.88,85,0,1,1,1,1,1
+2024-11-08,"10148","Ourense","OURENSE","Ourense",,,,2024-11-08,"meteogalicia",15.37,11.92,22.03,86,0,1,1,1,1,1
+2024-11-09,"10148","Ourense","OURENSE","Ourense",,,,2024-11-09,"meteogalicia",14.15,9.85,20.54,83,0,1,1,1,1,1
+2024-11-10,"10148","Ourense","OURENSE","Ourense",,,,2024-11-10,"meteogalicia",15.62,12.6,19.29,98,3,1,1,1,1,1
+2024-11-11,"10148","Ourense","OURENSE","Ourense",,,,2024-11-11,"meteogalicia",14.5,9.98,21.15,83,0,1,1,1,1,1
+2024-11-12,"10148","Ourense","OURENSE","Ourense",,,,2024-11-12,"meteogalicia",10.59,5.66,19.38,77,0,1,1,1,1,1
+2024-11-13,"10148","Ourense","OURENSE","Ourense",,,,2024-11-13,"meteogalicia",9.69,3.82,16.32,69,0,1,1,1,1,1
+2024-11-14,"10148","Ourense","OURENSE","Ourense",,,,2024-11-14,"meteogalicia",12.58,7.93,19.09,75,0,1,1,1,1,1
+2024-11-15,"10148","Ourense","OURENSE","Ourense",,,,2024-11-15,"meteogalicia",13.36,11.06,18.5,93,0.8,1,1,1,1,1
+2024-11-16,"10148","Ourense","OURENSE","Ourense",,,,2024-11-16,"meteogalicia",13.37,9.13,19.14,92,0.4,1,1,1,1,1
+2024-11-17,"10148","Ourense","OURENSE","Ourense",,,,2024-11-17,"meteogalicia",12.2,8.74,20.91,90,0,1,1,1,1,1
+2024-11-18,"10148","Ourense","OURENSE","Ourense",,,,2024-11-18,"meteogalicia",12.2,8.85,19.75,90,0,1,1,1,1,1
+2024-11-19,"10148","Ourense","OURENSE","Ourense",,,,2024-11-19,"meteogalicia",11.9,9.74,14.46,89,0,1,1,1,1,1
+2024-11-20,"10148","Ourense","OURENSE","Ourense",,,,2024-11-20,"meteogalicia",13.44,11.19,17.75,86,0.4,1,1,1,1,1
+2024-11-21,"10148","Ourense","OURENSE","Ourense",,,,2024-11-21,"meteogalicia",14.2,10.92,16.45,82,8.2,1,1,1,1,1
+2024-11-22,"10148","Ourense","OURENSE","Ourense",,,,2024-11-22,"meteogalicia",9.1,5.58,14.59,91,0.8,1,1,1,1,1
+2024-11-23,"10148","Ourense","OURENSE","Ourense",,,,2024-11-23,"meteogalicia",15.01,7.74,20.01,71,0,1,1,1,1,1
+2024-11-24,"10148","Ourense","OURENSE","Ourense",,,,2024-11-24,"meteogalicia",18.08,13.59,20.65,58,30.6,1,1,1,1,1
+2024-11-25,"10148","Ourense","OURENSE","Ourense",,,,2024-11-25,"meteogalicia",11.22,8.79,14.84,89,3.4,1,1,1,1,1
+2024-11-26,"10148","Ourense","OURENSE","Ourense",,,,2024-11-26,"meteogalicia",10.86,6.97,14.41,89,0,1,1,1,1,1
+2024-11-27,"10148","Ourense","OURENSE","Ourense",,,,2024-11-27,"meteogalicia",10.05,5.95,19.43,85,0,1,1,1,1,1
+2024-11-28,"10148","Ourense","OURENSE","Ourense",,,,2024-11-28,"meteogalicia",11.16,3.51,19.85,74,0,1,1,1,1,1
+2024-11-29,"10148","Ourense","OURENSE","Ourense",,,,2024-11-29,"meteogalicia",16.13,11.63,20.98,70,0,1,1,1,1,1
+2024-11-30,"10148","Ourense","OURENSE","Ourense",,,,2024-11-30,"meteogalicia",14.21,10.23,19.25,91,1,1,1,1,1,1
+2024-12-01,"10148","Ourense","OURENSE","Ourense",,,,2024-12-01,"meteogalicia",12.29,8.97,16.61,97,0.4,1,1,1,1,1
+2024-12-02,"10148","Ourense","OURENSE","Ourense",,,,2024-12-02,"meteogalicia",12.22,7.7,16.83,91,0.4,1,1,1,1,1
+2024-12-03,"10148","Ourense","OURENSE","Ourense",,,,2024-12-03,"meteogalicia",10.02,6.92,12.68,94,1.2,1,1,1,1,1
+2024-12-04,"10148","Ourense","OURENSE","Ourense",,,,2024-12-04,"meteogalicia",11.91,10.18,16.27,92,0,1,1,1,1,2
+2024-12-05,"10148","Ourense","OURENSE","Ourense",,,,2024-12-05,"meteogalicia",13.26,9.73,16.6,87,0,1,1,1,1,1
+2024-12-06,"10148","Ourense","OURENSE","Ourense",,,,2024-12-06,"meteogalicia",14.64,12.98,16.94,84,0,1,1,1,1,1
+2024-12-07,"10148","Ourense","OURENSE","Ourense",,,,2024-12-07,"meteogalicia",12.3,6.04,14.75,70,0.6,1,1,1,1,1
+2024-12-08,"10148","Ourense","OURENSE","Ourense",,,,2024-12-08,"meteogalicia",7.52,4.34,13.07,79,0,1,1,1,1,1
+2024-12-09,"10148","Ourense","OURENSE","Ourense",,,,2024-12-09,"meteogalicia",6.34,2.33,12.32,84,0,1,1,1,1,1
+2024-12-10,"10148","Ourense","OURENSE","Ourense",,,,2024-12-10,"meteogalicia",4.55,0.72,11.44,90,0,1,1,1,1,1
+2024-12-11,"10148","Ourense","OURENSE","Ourense",,,,2024-12-11,"meteogalicia",3.85,0.31,7.05,93,0,1,1,1,1,1
+2024-12-12,"10148","Ourense","OURENSE","Ourense",,,,2024-12-12,"meteogalicia",6.45,1.71,15,78,0,1,1,1,1,1
+2024-12-13,"10148","Ourense","OURENSE","Ourense",,,,2024-12-13,"meteogalicia",2.52,-1.5,11.02,92,0,1,1,1,1,1
+2024-12-14,"10148","Ourense","OURENSE","Ourense",,,,2024-12-14,"meteogalicia",2.23,-0.88,9.45,94,0,1,1,1,1,1
+2024-12-15,"10148","Ourense","OURENSE","Ourense",,,,2024-12-15,"meteogalicia",2.69,-0.61,11.1,91,0,1,1,1,1,1
+2024-12-16,"10148","Ourense","OURENSE","Ourense",,,,2024-12-16,"meteogalicia",6.28,-0.42,16.19,77,0,1,1,1,1,1
+2024-12-17,"10148","Ourense","OURENSE","Ourense",,,,2024-12-17,"meteogalicia",11.01,4.98,18.66,69,1.6,1,1,1,1,1
+2024-12-18,"10148","Ourense","OURENSE","Ourense",,,,2024-12-18,"meteogalicia",14.56,10.9,18.4,78,13,1,1,1,1,1
+2024-12-19,"10148","Ourense","OURENSE","Ourense",,,,2024-12-19,"meteogalicia",11.21,2.48,15.91,80,1.8,1,1,1,1,1
+2024-12-20,"10148","Ourense","OURENSE","Ourense",,,,2024-12-20,"meteogalicia",4.64,1.89,11.77,93,0,1,1,1,1,1
+2024-12-21,"10148","Ourense","OURENSE","Ourense",,,,2024-12-21,"meteogalicia",6.24,1.49,12.01,90,0,1,1,1,1,1
+2024-12-22,"10148","Ourense","OURENSE","Ourense",,,,2024-12-22,"meteogalicia",9.21,6.34,14.32,95,0,1,1,1,1,1
+2024-12-23,"10148","Ourense","OURENSE","Ourense",,,,2024-12-23,"meteogalicia",8.75,4.15,14.06,83,0,1,1,1,1,1
+2024-12-24,"10148","Ourense","OURENSE","Ourense",,,,2024-12-24,"meteogalicia",5.78,0.66,15.84,89,0,1,1,1,1,1
+2024-12-25,"10148","Ourense","OURENSE","Ourense",,,,2024-12-25,"meteogalicia",6.25,2.23,15.75,91,0,1,1,1,1,1
+2024-12-26,"10148","Ourense","OURENSE","Ourense",,,,2024-12-26,"meteogalicia",4.86,2.67,11.77,97,0,1,1,1,1,1
+2024-12-27,"10148","Ourense","OURENSE","Ourense",,,,2024-12-27,"meteogalicia",4.59,2.42,11.27,97,0,1,1,1,1,1
+2024-12-28,"10148","Ourense","OURENSE","Ourense",,,,2024-12-28,"meteogalicia",4.65,1.16,11.22,96,0,1,1,1,1,1
+2024-12-29,"10148","Ourense","OURENSE","Ourense",,,,2024-12-29,"meteogalicia",7.62,5.02,9.72,78,0,1,1,1,1,1
+2024-12-30,"10148","Ourense","OURENSE","Ourense",,,,2024-12-30,"meteogalicia",3.44,-1.67,12.2,85,0,1,1,1,1,1
+2024-12-31,"10148","Ourense","OURENSE","Ourense",,,,2024-12-31,"meteogalicia",2.85,-1.31,10.92,85,0,1,1,1,1,1
+2023-01-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-01,"meteogalicia",12.01,10.59,14.08,98,22.6,1,1,1,1,1
+2023-01-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-02,"meteogalicia",10.98,9.18,14.79,90,1.1,1,1,1,1,1
+2023-01-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-03,"meteogalicia",12.01,8.68,15.8,86,0,1,1,1,1,1
+2023-01-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-04,"meteogalicia",14.55,12.59,17.33,91,0,1,1,1,1,1
+2023-01-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-05,"meteogalicia",12.99,9.54,15.09,95,0,1,1,1,1,1
+2023-01-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-06,"meteogalicia",13.61,11.86,15.59,79,0,1,1,1,1,1
+2023-01-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-07,"meteogalicia",13.32,11.26,14.85,96,26.2,1,1,1,1,1
+2023-01-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-08,"meteogalicia",12.89,11.61,14.71,95,6.8,1,1,1,1,1
+2023-01-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-09,"meteogalicia",12.61,11.02,14.97,77,0,1,1,1,1,1
+2023-01-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-10,"meteogalicia",14.6,11.73,17.36,93,4.8,1,1,1,1,1
+2023-01-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-11,"meteogalicia",13.4,11.83,15.8,88,0.5,1,1,1,1,1
+2023-01-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-12,"meteogalicia",12.88,10.79,15.22,90,1.7,1,1,1,1,1
+2023-01-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-13,"meteogalicia",14.14,12.45,17.39,97,10.2,1,1,1,1,1
+2023-01-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-14,"meteogalicia",14.75,9.28,17.48,93,9.4,1,1,1,1,1
+2023-01-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-15,"meteogalicia",10.85,8.68,13.06,85,8.9,1,1,1,1,1
+2023-01-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-16,"meteogalicia",13.47,12.81,14.06,100,14.7,1,1,1,1,1
+2023-01-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-17,"meteogalicia",9.98,7.41,13.61,89,9.8,1,1,1,1,1
+2023-01-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-18,"meteogalicia",10.08,7.93,11.11,76,4.9,1,1,1,1,1
+2023-01-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-19,"meteogalicia",11.79,9.41,13.77,96,17.5,1,1,1,1,1
+2023-01-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-20,"meteogalicia",13.39,12.13,14.87,100,1.4,1,1,1,1,1
+2023-01-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-21,"meteogalicia",12.34,8.55,14.14,93,1.4,1,1,1,1,1
+2023-01-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-22,"meteogalicia",8.32,5.69,11.18,80,0,1,1,1,1,1
+2023-01-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-23,"meteogalicia",7.63,4.43,11.52,75,0,1,1,1,1,1
+2023-01-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-24,"meteogalicia",10.07,8.37,10.96,71,0,1,1,1,1,1
+2023-01-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-25,"meteogalicia",10.44,9.2,12,76,0,1,1,1,1,1
+2023-01-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-26,"meteogalicia",10.86,9.97,12.14,86,6.8,1,1,1,1,1
+2023-01-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-27,"meteogalicia",10.1,9.01,11.78,78,0,1,1,1,1,1
+2023-01-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-28,"meteogalicia",8.86,6.81,11.04,79,0,1,1,1,1,1
+2023-01-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-29,"meteogalicia",9.47,8.26,11.4,67,0,1,1,1,1,1
+2023-01-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-30,"meteogalicia",8.14,3.69,12.75,76,0,1,1,1,1,1
+2023-01-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-01-31,"meteogalicia",8.58,4.15,13.58,81,0,1,1,1,1,1
+2023-02-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-01,"meteogalicia",10.39,7.08,14,83,0,1,1,1,1,1
+2023-02-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-02,"meteogalicia",9.8,5.69,14.45,79,0,1,1,1,1,1
+2023-02-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-03,"meteogalicia",9.78,5.72,15.77,83,0,1,1,1,1,1
+2023-02-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-04,"meteogalicia",9.31,4.54,13.79,89,0,1,1,1,1,1
+2023-02-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-05,"meteogalicia",10.3,6.48,14.71,82,0,1,1,1,1,1
+2023-02-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-06,"meteogalicia",10.2,7.51,13.5,68,0,1,1,1,1,1
+2023-02-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-07,"meteogalicia",8.67,5.62,12.89,71,0.4,1,1,1,1,1
+2023-02-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-08,"meteogalicia",10.13,6.29,15.92,68,0,1,1,1,1,1
+2023-02-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-09,"meteogalicia",10.15,6.29,14.23,79,0,1,1,1,1,1
+2023-02-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-10,"meteogalicia",9.71,6.37,13.44,76,0,1,1,1,1,1
+2023-02-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-11,"meteogalicia",9.58,5.31,15.8,63,0,1,1,1,1,1
+2023-02-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-12,"meteogalicia",11.87,6.87,18.53,43,0,1,1,1,1,1
+2023-02-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-13,"meteogalicia",14.81,10.46,19.69,47,0,1,1,1,1,1
+2023-02-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-14,"meteogalicia",15.16,11.54,21.81,53,0,1,1,1,1,1
+2023-02-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-15,"meteogalicia",13.54,10.11,19,72,0,1,1,1,1,1
+2023-02-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-16,"meteogalicia",12.28,9.79,16.47,98,0,1,1,1,1,1
+2023-02-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-17,"meteogalicia",11.56,6.87,16.86,96,0,1,1,1,1,1
+2023-02-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-18,"meteogalicia",12.33,8.78,19.3,93,0,1,1,1,1,1
+2023-02-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-19,"meteogalicia",12.14,8.16,17.21,91,0,1,1,1,1,1
+2023-02-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-20,"meteogalicia",14.14,9.26,20.4,81,0,1,1,1,1,1
+2023-02-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-21,"meteogalicia",13.83,12.03,16.09,93,3.5,1,1,1,1,1
+2023-02-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-22,"meteogalicia",10.87,8.92,12.85,96,4.2,1,1,1,1,1
+2023-02-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-23,"meteogalicia",8.02,5.8,10.78,91,7.6,1,1,1,1,1
+2023-02-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-24,"meteogalicia",6.42,2.56,9.88,100,10.6,1,1,1,1,1
+2023-02-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-25,"meteogalicia",8.71,6.93,11.68,98,1.9,1,1,1,1,1
+2023-02-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-26,"meteogalicia",9.35,6.24,13.43,82,0,1,1,1,1,1
+2023-02-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-27,"meteogalicia",8.41,6.98,10.5,55,0,1,1,1,1,1
+2023-02-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-02-28,"meteogalicia",8.79,7.01,10.36,57,0,1,1,1,1,1
+2023-03-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-01,"meteogalicia",8.04,5.6,10.44,75,2.4,1,1,1,1,1
+2023-03-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-02,"meteogalicia",7.94,2.95,12.9,78,0,1,1,1,1,1
+2023-03-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-03,"meteogalicia",8.76,3.81,12.79,79,0,1,1,1,1,1
+2023-03-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-04,"meteogalicia",10.38,6.14,15.12,77,0,1,1,1,1,1
+2023-03-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-05,"meteogalicia",10.55,5.93,15.43,79,0,1,1,1,1,1
+2023-03-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-06,"meteogalicia",11.44,8.14,15.35,94,0.4,1,1,1,1,1
+2023-03-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-07,"meteogalicia",14.64,11.52,17.76,87,0.7,1,1,1,1,1
+2023-03-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-08,"meteogalicia",16.61,15.18,19.08,91,4,1,1,1,1,1
+2023-03-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-09,"meteogalicia",15.52,13.52,17.9,88,3.9,1,1,1,1,1
+2023-03-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-10,"meteogalicia",16.64,13.39,20.3,89,0,1,1,1,1,1
+2023-03-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-11,"meteogalicia",16.46,15.14,17.25,99,7.8,1,1,1,1,1
+2023-03-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-12,"meteogalicia",17.03,14.7,20.25,84,2.3,1,1,1,1,1
+2023-03-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-13,"meteogalicia",14.86,12.14,16.62,86,0.8,1,1,1,1,1
+2023-03-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-14,"meteogalicia",13.91,11.37,17.19,93,1.1,1,1,1,1,1
+2023-03-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-15,"meteogalicia",13.89,11.69,17.12,94,0,1,1,1,1,1
+2023-03-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-16,"meteogalicia",13.59,11.33,15.56,97,1.1,1,1,1,1,1
+2023-03-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-17,"meteogalicia",13.58,12.02,16.54,91,4.9,1,1,1,1,1
+2023-03-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-18,"meteogalicia",13.26,12.12,15.52,100,6.1,1,1,1,1,1
+2023-03-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-19,"meteogalicia",13.04,11.07,15.94,96,2.8,1,1,1,1,1
+2023-03-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-20,"meteogalicia",13.57,9.55,17.94,92,0,1,1,1,1,1
+2023-03-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-21,"meteogalicia",14.41,12.11,17.36,91,0,1,1,1,1,1
+2023-03-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-22,"meteogalicia",14.96,12.94,17.55,87,0,1,1,1,1,1
+2023-03-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-23,"meteogalicia",15.64,12.33,19.14,98,11.6,1,1,1,1,1
+2023-03-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-24,"meteogalicia",13.98,11.59,17.18,88,0,1,1,1,1,1
+2023-03-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-25,"meteogalicia",13.86,10.99,17.57,91,3.6,1,1,1,1,1
+2023-03-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-26,"meteogalicia",13.43,10.87,16.71,90,0.6,1,1,1,1,1
+2023-03-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-27,"meteogalicia",12.53,7.6,16.58,89,0,1,1,1,1,1
+2023-03-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-28,"meteogalicia",18.49,13.66,23.83,30,0,1,1,1,1,1
+2023-03-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-29,"meteogalicia",19.35,15.54,23.19,49,0,1,1,1,1,1
+2023-03-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-30,"meteogalicia",16.7,14.29,19.83,77,0.6,1,1,1,1,1
+2023-03-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-03-31,"meteogalicia",14.98,13.22,17.51,92,0,1,1,1,1,1
+2023-04-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-01,"meteogalicia",13.39,11.3,16.69,90,2.7,1,1,1,1,1
+2023-04-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-02,"meteogalicia",12.11,8.54,15,84,0,1,1,1,1,1
+2023-04-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-03,"meteogalicia",12.34,8.51,15.77,83,0,1,1,1,1,1
+2023-04-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-04,"meteogalicia",13.51,10.48,17.84,76,0,1,1,1,1,1
+2023-04-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-05,"meteogalicia",12.48,7.65,17.79,85,0,1,1,1,1,1
+2023-04-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-06,"meteogalicia",12.52,9.22,15.19,88,0,1,1,1,1,1
+2023-04-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-07,"meteogalicia",14.76,9.14,22.33,69,0,1,1,1,1,1
+2023-04-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-08,"meteogalicia",14.91,10.32,21.04,73,0,1,1,1,1,1
+2023-04-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-09,"meteogalicia",14.54,11.94,17.83,98,0,1,1,1,1,1
+2023-04-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-10,"meteogalicia",15.87,12.86,20.46,95,0.4,1,1,1,1,1
+2023-04-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-11,"meteogalicia",15.46,10.57,20.57,79,0,1,1,1,1,1
+2023-04-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-12,"meteogalicia",13.02,11.06,15.47,80,7.6,1,1,1,1,1
+2023-04-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-13,"meteogalicia",12.32,9.58,16.18,97,11.7,1,1,1,1,1
+2023-04-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-14,"meteogalicia",14.72,11.91,17.31,99,5,1,1,1,1,1
+2023-04-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-15,"meteogalicia",15.07,12.71,19.2,99,0,1,1,1,1,1
+2023-04-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-16,"meteogalicia",15.05,11.7,18.77,99,0,1,1,1,1,1
+2023-04-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-17,"meteogalicia",17.15,11.92,23.53,77,0,1,1,1,1,1
+2023-04-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-18,"meteogalicia",15.73,11.66,20.55,65,0,1,1,1,1,1
+2023-04-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-19,"meteogalicia",15.26,11.2,20.23,92,0,1,1,1,1,1
+2023-04-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-20,"meteogalicia",15.2,12.64,17.77,86,0,1,1,1,1,1
+2023-04-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-21,"meteogalicia",14.11,11.65,18.67,94,1.7,1,1,1,1,1
+2023-04-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-22,"meteogalicia",15.78,11.95,20.85,85,4.3,1,1,1,1,1
+2023-04-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-23,"meteogalicia",15.57,14.23,18.15,100,2.7,1,1,1,1,1
+2023-04-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-24,"meteogalicia",17.54,15.09,21.11,91,0.6,1,1,1,1,1
+2023-04-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-25,"meteogalicia",18.2,16.24,20.33,91,0,1,1,1,1,1
+2023-04-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-26,"meteogalicia",17.85,16.38,20.97,100,0,1,1,1,1,1
+2023-04-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-27,"meteogalicia",16.99,14.98,20,100,0,1,1,1,1,1
+2023-04-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-28,"meteogalicia",15.91,14.39,18.94,100,0,1,1,1,1,1
+2023-04-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-29,"meteogalicia",16.05,14.09,19.28,100,0,1,1,1,1,1
+2023-04-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-04-30,"meteogalicia",16.16,14.64,18.65,100,0,1,1,1,1,1
+2023-05-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-01,"meteogalicia",16.5,11.86,20.69,98,0,1,1,1,1,1
+2023-05-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-02,"meteogalicia",18.1,14.18,22.08,96,0,1,1,1,1,1
+2023-05-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-03,"meteogalicia",20.72,15.86,27.32,70,1.2,1,1,1,1,1
+2023-05-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-04,"meteogalicia",17.5,15.04,20.84,90,1.2,1,1,1,1,1
+2023-05-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-05,"meteogalicia",18.98,15.22,23.55,73,1.1,1,1,1,1,1
+2023-05-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-06,"meteogalicia",17.48,15.53,21.25,99,2.1,1,1,1,1,1
+2023-05-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-07,"meteogalicia",16.97,14.87,19.87,93,0,1,1,1,1,1
+2023-05-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-08,"meteogalicia",18.53,14.83,22.6,96,0.4,1,1,1,1,1
+2023-05-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-09,"meteogalicia",17.06,14.5,20.42,93,0.4,1,1,1,1,1
+2023-05-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-10,"meteogalicia",15.89,13.5,19.05,83,0,1,1,1,1,1
+2023-05-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-11,"meteogalicia",15.57,13.9,18.44,85,0,1,1,1,1,1
+2023-05-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-12,"meteogalicia",14.68,12.81,16.67,93,0.8,1,1,1,1,1
+2023-05-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-13,"meteogalicia",15.12,12.68,17.44,98,0,1,1,1,1,1
+2023-05-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-14,"meteogalicia",15.7,14.33,18.01,99,0,1,1,1,1,1
+2023-05-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-15,"meteogalicia",15.1,13.49,17.18,92,0,1,1,1,1,1
+2023-05-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-16,"meteogalicia",15.3,13.33,18.46,71,0,1,1,1,1,1
+2023-05-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-17,"meteogalicia",16.46,12.96,21.1,58,0,1,1,1,1,1
+2023-05-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-18,"meteogalicia",15.48,13.01,19.13,81,0,1,1,1,1,1
+2023-05-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-19,"meteogalicia",15.03,13.71,16.37,92,0,1,1,1,1,1
+2023-05-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-20,"meteogalicia",15.05,13.59,17.64,88,0,1,1,1,1,1
+2023-05-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-21,"meteogalicia",15.21,13.1,18.17,95,0,1,1,1,1,1
+2023-05-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-22,"meteogalicia",16.01,14.29,17.93,100,0,1,1,1,1,1
+2023-05-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-23,"meteogalicia",17.24,15.08,20.73,97,0,1,1,1,1,1
+2023-05-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-24,"meteogalicia",17.79,15.13,21.07,89,0,1,1,1,1,1
+2023-05-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-25,"meteogalicia",18.07,14.86,22.62,73,0,1,1,1,1,1
+2023-05-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-26,"meteogalicia",18.63,14.63,22.47,72,0,1,1,1,1,1
+2023-05-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-27,"meteogalicia",19.01,15.86,24.7,90,0,1,1,1,1,1
+2023-05-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-28,"meteogalicia",17.12,14.75,20.53,100,0,1,1,1,1,1
+2023-05-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-29,"meteogalicia",16.75,15.19,20.06,100,0,1,1,1,1,1
+2023-05-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-30,"meteogalicia",17.47,14.77,21.78,99,0,1,1,1,1,1
+2023-05-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-05-31,"meteogalicia",16.95,15.29,20.71,100,0,1,1,1,1,1
+2023-06-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-01,"meteogalicia",17.24,15.34,20.31,99,0,1,1,1,1,1
+2023-06-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-02,"meteogalicia",18.22,14.36,23.28,93,0,1,1,1,1,1
+2023-06-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-03,"meteogalicia",17.73,16.04,21.73,100,0,1,1,1,1,1
+2023-06-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-04,"meteogalicia",18.32,15.82,24.42,98,0,1,1,1,1,1
+2023-06-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-05,"meteogalicia",18.34,15.5,22.13,99,0,1,1,1,1,1
+2023-06-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-06,"meteogalicia",21.38,15.47,25.78,81,0,1,1,1,1,1
+2023-06-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-07,"meteogalicia",19.76,18.2,22.52,98,5,1,1,1,1,5
+2023-06-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-08,"meteogalicia",19.63,17.83,24.55,99,22,1,1,1,1,1
+2023-06-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-09,"meteogalicia",20.95,18.55,25.04,88,0,1,1,1,1,1
+2023-06-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-10,"meteogalicia",19.09,17.18,21.84,98,0.6,1,1,1,1,1
+2023-06-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-11,"meteogalicia",18.84,15.58,22.63,96,0,1,1,1,1,1
+2023-06-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-12,"meteogalicia",18.43,16.91,22.71,97,11.4,1,1,1,1,1
+2023-06-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-13,"meteogalicia",18.92,16.85,21.85,100,0,1,1,1,1,1
+2023-06-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-14,"meteogalicia",18.77,16.41,21.21,98,0,1,1,1,1,1
+2023-06-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-15,"meteogalicia",19.78,16.17,23.57,96,0,1,1,1,1,1
+2023-06-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-16,"meteogalicia",20.92,17.03,24.77,93,0,1,1,1,1,1
+2023-06-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-17,"meteogalicia",20.11,18.06,23.02,98,1.2,1,1,1,1,1
+2023-06-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-18,"meteogalicia",18.68,17.14,21.83,100,30,1,1,1,1,1
+2023-06-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-19,"meteogalicia",18.94,17.07,21.32,100,3.8,1,1,1,1,1
+2023-06-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-20,"meteogalicia",19.2,15.11,22.93,94,0,1,1,1,1,1
+2023-06-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-21,"meteogalicia",19.25,16.54,21.82,100,0,1,1,1,1,1
+2023-06-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-22,"meteogalicia",19.77,16.71,23.07,100,0,1,1,1,1,1
+2023-06-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-23,"meteogalicia",20.6,17.66,24.07,100,0,1,1,1,1,1
+2023-06-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-24,"meteogalicia",22.25,18.81,32.2,95,0,1,1,1,1,1
+2023-06-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-25,"meteogalicia",21.1,17.61,25.56,95,0,1,1,1,1,1
+2023-06-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-26,"meteogalicia",19.85,18.47,21.3,100,0,1,1,1,1,1
+2023-06-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-27,"meteogalicia",20.13,18.34,22.97,96,0,1,1,1,1,1
+2023-06-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-28,"meteogalicia",19.12,17.71,20.93,100,0,1,1,1,1,1
+2023-06-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-29,"meteogalicia",18.35,16.91,20.33,94,2.2,1,1,1,1,1
+2023-06-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-06-30,"meteogalicia",19.98,15.7,24.43,91,0,1,1,1,1,1
+2023-07-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-01,"meteogalicia",19.93,17.77,22.86,98,0.7,1,1,1,1,1
+2023-07-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-02,"meteogalicia",19.18,18,20.7,100,0,1,1,1,1,1
+2023-07-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-03,"meteogalicia",19.81,17.43,22.56,100,0,1,1,1,1,1
+2023-07-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-04,"meteogalicia",20.7,17.84,24.8,96,0,1,1,1,1,1
+2023-07-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-05,"meteogalicia",20.39,17.84,23.6,100,0,1,1,1,1,1
+2023-07-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-06,"meteogalicia",19.94,16.93,23.53,100,0,1,1,1,1,1
+2023-07-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-07,"meteogalicia",21.83,16.73,28.9,82,3.1,1,1,1,1,1
+2023-07-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-08,"meteogalicia",20.26,17.97,23.51,94,0.8,1,1,1,1,1
+2023-07-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-09,"meteogalicia",20.23,17.39,23.78,91,0,1,1,1,1,1
+2023-07-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-10,"meteogalicia",20.71,16.14,25.09,89,0,1,1,1,1,1
+2023-07-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-11,"meteogalicia",21.49,18.78,26.72,95,0.7,1,1,1,1,1
+2023-07-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-12,"meteogalicia",19.42,17.11,23.49,97,2.5,1,1,1,1,1
+2023-07-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-13,"meteogalicia",19.8,15.43,24.73,94,0,1,1,1,1,1
+2023-07-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-14,"meteogalicia",20.69,18.63,27.07,91,0.3,1,1,1,1,1
+2023-07-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-15,"meteogalicia",19.77,16.85,23.29,84,3.1,1,1,1,1,1
+2023-07-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-16,"meteogalicia",19.51,15.42,24.31,78,0,1,1,1,1,1
+2023-07-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-17,"meteogalicia",19.5,14.25,24.05,90,0,1,1,1,1,1
+2023-07-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-18,"meteogalicia",20.46,16.92,23.56,99,0,1,1,1,1,1
+2023-07-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-19,"meteogalicia",19.81,18,21.97,99,0,1,1,1,1,1
+2023-07-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-20,"meteogalicia",20.53,16.4,25.6,95,0,1,1,1,1,1
+2023-07-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-21,"meteogalicia",20.08,16.13,24.18,98,0,1,1,1,1,1
+2023-07-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-22,"meteogalicia",19.72,17.66,22.65,91,0,1,1,1,1,1
+2023-07-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-23,"meteogalicia",20.44,17,25.2,92,1.5,1,1,1,1,1
+2023-07-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-24,"meteogalicia",19.81,17.05,23.58,94,0.6,1,1,1,1,1
+2023-07-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-25,"meteogalicia",20.11,17.71,24.06,87,0,1,1,1,1,1
+2023-07-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-26,"meteogalicia",20.5,16.92,23.69,99,0.5,1,1,1,1,1
+2023-07-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-27,"meteogalicia",21.93,18.92,25.58,89,0,1,1,1,1,1
+2023-07-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-28,"meteogalicia",23.32,20.34,27.66,91,1.3,1,1,1,1,1
+2023-07-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-29,"meteogalicia",20.79,17.88,25.78,98,3.6,1,1,1,1,1
+2023-07-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-30,"meteogalicia",20.12,15.93,24.23,91,0,1,1,1,1,1
+2023-07-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-07-31,"meteogalicia",22.19,17.37,27.8,90,0,1,1,1,1,1
+2023-08-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-01,"meteogalicia",22.88,21.18,26.42,98,1.3,1,1,1,1,1
+2023-08-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-02,"meteogalicia",21.59,19.13,23.97,90,2.3,1,1,1,1,1
+2023-08-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-03,"meteogalicia",20,18.13,22.31,83,0,1,1,1,1,1
+2023-08-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-04,"meteogalicia",19.26,17.63,21.67,80,0,1,1,1,1,1
+2023-08-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-05,"meteogalicia",19.65,14.73,24.11,89,0,1,1,1,1,1
+2023-08-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-06,"meteogalicia",19.49,17.44,22.54,83,0,1,1,1,1,1
+2023-08-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-07,"meteogalicia",21.2,17.82,26.71,80,0,1,1,1,1,1
+2023-08-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-08,"meteogalicia",22.34,17.98,27.15,82,0,1,1,1,1,1
+2023-08-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-09,"meteogalicia",22.04,18.06,26.72,89,0,1,1,1,1,1
+2023-08-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-10,"meteogalicia",23.99,20.26,31.31,82,0,1,1,1,1,1
+2023-08-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-11,"meteogalicia",22.75,18.66,26.11,98,0,1,1,1,1,1
+2023-08-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-12,"meteogalicia",20.92,18.14,25.42,97,0,1,1,1,1,1
+2023-08-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-13,"meteogalicia",19.98,16.95,23.66,95,0,1,1,1,1,1
+2023-08-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-14,"meteogalicia",21.05,17.19,26.09,91,0,1,1,1,1,1
+2023-08-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-15,"meteogalicia",20.76,17.88,24.23,99,0,1,1,1,1,1
+2023-08-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-16,"meteogalicia",20.4,19.12,21.96,100,0,1,1,1,1,1
+2023-08-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-17,"meteogalicia",21.2,17.15,24.2,91,0,1,1,1,1,1
+2023-08-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-18,"meteogalicia",23.2,20.14,28.02,92,0,1,1,1,1,1
+2023-08-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-19,"meteogalicia",21.28,18.78,24.9,100,0,1,1,1,1,1
+2023-08-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-20,"meteogalicia",20.73,18.22,24.31,100,0,1,1,1,1,1
+2023-08-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-21,"meteogalicia",21.04,17.74,25.84,100,0,1,1,1,1,1
+2023-08-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-22,"meteogalicia",22.94,18.64,28.13,93,0,1,1,1,1,1
+2023-08-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-23,"meteogalicia",23.96,21.03,28.06,95,0.5,1,1,1,1,1
+2023-08-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-24,"meteogalicia",21.75,19.2,26.65,95,0,1,1,1,1,1
+2023-08-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-25,"meteogalicia",19.8,17.63,23.11,94,0,1,1,1,1,1
+2023-08-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-26,"meteogalicia",18.87,15.77,23.11,95,3.3,1,1,1,1,1
+2023-08-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-27,"meteogalicia",19.62,17.05,23.24,95,1.3,1,1,1,1,1
+2023-08-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-28,"meteogalicia",19.11,17.72,23.4,100,4.5,1,1,1,1,1
+2023-08-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-29,"meteogalicia",20.24,17.48,24.81,97,0.5,1,1,1,1,1
+2023-08-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-30,"meteogalicia",20.46,17.53,24.26,90,2.9,1,1,1,1,1
+2023-08-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-08-31,"meteogalicia",21.06,18.74,25.67,95,1.2,1,1,1,1,1
+2023-09-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-01,"meteogalicia",19.03,15.95,23.56,98,4,1,1,1,1,1
+2023-09-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-02,"meteogalicia",18.3,15.21,21.22,100,0,1,1,1,1,1
+2023-09-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-03,"meteogalicia",21.75,19.15,25.01,92,0.6,1,1,1,1,1
+2023-09-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-04,"meteogalicia",21.45,19.17,27.68,93,1.3,1,1,1,1,1
+2023-09-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-05,"meteogalicia",22.53,18.65,26.43,83,2.3,1,1,1,1,1
+2023-09-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-06,"meteogalicia",23.03,19.52,30.61,83,0,1,1,1,1,1
+2023-09-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-07,"meteogalicia",23.44,20.13,30.85,79,0,1,1,1,1,1
+2023-09-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-08,"meteogalicia",21.33,18.98,25.23,92,5.4,1,1,1,1,1
+2023-09-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-09,"meteogalicia",20.19,17.55,23.44,99,19.3,1,1,1,1,1
+2023-09-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-10,"meteogalicia",20.46,18.29,25.55,95,0,1,1,1,1,1
+2023-09-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-11,"meteogalicia",20.22,18.16,23.22,100,0,1,1,1,1,1
+2023-09-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-12,"meteogalicia",19.58,17.99,22.59,100,0,1,1,1,1,1
+2023-09-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-13,"meteogalicia",19.34,17.15,21.31,100,0,1,1,1,1,1
+2023-09-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-14,"meteogalicia",20.53,16.77,23.98,98,0,1,1,1,1,1
+2023-09-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-15,"meteogalicia",20.63,18.2,23.75,100,0,1,1,1,1,1
+2023-09-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-16,"meteogalicia",20.25,17.98,27.08,94,9.7,1,1,1,1,1
+2023-09-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-17,"meteogalicia",19.35,16.05,22.89,86,5.8,1,1,1,1,1
+2023-09-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-18,"meteogalicia",19.2,16.63,23.74,100,3.5,1,1,1,1,1
+2023-09-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-19,"meteogalicia",18.55,14.81,23.86,95,0,1,1,1,1,1
+2023-09-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-20,"meteogalicia",20.04,16.86,23.84,90,22.7,1,1,1,1,1
+2023-09-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-21,"meteogalicia",17.76,15.66,20.69,93,1.5,1,1,1,1,1
+2023-09-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-22,"meteogalicia",17.72,15.49,21.15,95,5.5,1,1,1,1,1
+2023-09-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-23,"meteogalicia",18.04,13.74,24,94,0,1,1,1,1,1
+2023-09-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-24,"meteogalicia",20.48,14.62,27.15,79,0,1,1,1,1,1
+2023-09-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-25,"meteogalicia",20.46,18.48,23.61,98,0,1,1,1,1,1
+2023-09-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-26,"meteogalicia",19.29,16.6,22.4,98,0,1,1,1,1,1
+2023-09-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-27,"meteogalicia",20.62,17.27,25.31,91,0,1,1,1,1,1
+2023-09-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-28,"meteogalicia",22.83,20.27,26.67,93,0,1,1,1,1,1
+2023-09-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-29,"meteogalicia",20.08,18.46,23.25,100,0,1,1,1,1,1
+2023-09-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-09-30,"meteogalicia",21.61,17.83,28.29,96,0,1,1,1,1,1
+2023-10-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-01,"meteogalicia",19.75,18.24,22.69,100,0,1,1,1,1,1
+2023-10-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-02,"meteogalicia",21.13,17.82,26.84,91,0,1,1,1,1,1
+2023-10-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-03,"meteogalicia",19.14,18.08,20.23,96,0,1,1,1,1,1
+2023-10-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-04,"meteogalicia",20.18,16.53,24.43,96,0,1,1,1,1,1
+2023-10-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-05,"meteogalicia",18.54,15.92,20.52,100,0,1,1,1,1,1
+2023-10-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-06,"meteogalicia",19.3,15.68,23.5,100,0,1,1,1,1,1
+2023-10-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-07,"meteogalicia",24.56,21.12,33.09,63,0,1,1,1,1,1
+2023-10-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-08,"meteogalicia",21.81,18.93,28.41,77,0,1,1,1,1,1
+2023-10-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-09,"meteogalicia",19.39,16.3,24.14,97,0,1,1,1,1,1
+2023-10-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-10,"meteogalicia",19.33,14.16,24.92,89,0,1,1,1,1,1
+2023-10-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-11,"meteogalicia",23.53,19.06,29.05,56,0,1,1,1,1,1
+2023-10-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-12,"meteogalicia",24.36,19.54,30.03,40,0,1,1,1,1,1
+2023-10-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-13,"meteogalicia",19.88,17,24.28,93,35.3,1,1,1,1,1
+2023-10-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-14,"meteogalicia",17.54,16.04,19.56,99,0.6,1,1,1,1,1
+2023-10-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-15,"meteogalicia",17.12,15.54,19.12,100,3.9,1,1,1,1,1
+2023-10-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-16,"meteogalicia",20.02,18.94,21.77,99,2.8,1,1,1,1,1
+2023-10-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-17,"meteogalicia",22.19,18.36,24.7,82,11.3,1,1,1,1,1
+2023-10-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-18,"meteogalicia",18.25,15.5,21.75,95,16.2,1,1,1,1,1
+2023-10-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-19,"meteogalicia",16.7,14.95,19.3,100,37.4,1,1,1,1,1
+2023-10-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-20,"meteogalicia",15.42,12.64,17.41,96,20,1,1,1,1,1
+2023-10-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-21,"meteogalicia",15.41,12.6,19.2,90,3.7,1,1,1,1,1
+2023-10-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-22,"meteogalicia",14.59,11.87,17.27,99,2.6,1,1,1,1,1
+2023-10-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-23,"meteogalicia",15.21,12.63,18.45,90,6.8,1,1,1,1,1
+2023-10-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-24,"meteogalicia",16.99,13.46,20.75,98,5.4,1,1,1,1,1
+2023-10-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-25,"meteogalicia",18.8,16.51,20.9,100,4.9,1,1,1,1,1
+2023-10-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-26,"meteogalicia",15.92,14.33,18.82,100,42.4,1,1,1,1,1
+2023-10-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-27,"meteogalicia",15.49,12.91,17.48,98,12.8,1,1,1,1,1
+2023-10-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-28,"meteogalicia",16.51,15.06,18.46,99,13.6,1,1,1,1,1
+2023-10-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-29,"meteogalicia",14.31,12.12,16.87,94,3.9,1,1,1,1,1
+2023-10-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-30,"meteogalicia",14.08,11.09,17.91,98,10.5,1,1,1,1,1
+2023-10-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-10-31,"meteogalicia",16.11,13.92,19.08,93,14.9,1,1,1,1,1
+2023-11-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-01,"meteogalicia",15.59,13.12,18.45,98,13.5,1,1,1,1,5
+2023-11-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-02,"meteogalicia",13.72,10.7,16.76,90,15.1,1,1,1,1,5
+2023-11-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-03,"meteogalicia",14.69,12.71,16.98,96,8.1,1,1,1,1,5
+2023-11-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-04,"meteogalicia",15.17,13.17,17.57,97,23.2,1,1,1,1,5
+2023-11-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-05,"meteogalicia",12.97,10.97,14.99,100,24.9,1,1,1,1,5
+2023-11-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-06,"meteogalicia",12.27,10.23,14.99,90,5.2,1,1,1,1,5
+2023-11-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-07,"meteogalicia",13.39,11.59,14.55,95,6.2,1,1,1,1,5
+2023-11-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-08,"meteogalicia",14.59,12.76,18.7,99,8.1,1,1,1,1,1
+2023-11-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-09,"meteogalicia",13.79,12.51,16.5,99,1.1,1,1,1,1,1
+2023-11-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-10,"meteogalicia",14.92,13.32,17.44,100,10.1,1,1,1,1,1
+2023-11-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-11,"meteogalicia",17.74,16.35,20.48,100,6,1,1,1,1,1
+2023-11-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-12,"meteogalicia",18.96,16.52,21.41,92,0,1,1,1,1,1
+2023-11-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-13,"meteogalicia",19.17,17.72,20.69,100,39.9,1,1,1,1,1
+2023-11-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-14,"meteogalicia",17.18,15.83,19.56,100,11.7,1,1,1,1,1
+2023-11-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-15,"meteogalicia",17.61,13.53,21.02,98,0.9,1,1,1,1,1
+2023-11-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-16,"meteogalicia",16.14,13.17,19.92,97,1.7,1,1,1,1,1
+2023-11-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-17,"meteogalicia",14.61,10.79,19,94,0,1,1,1,1,1
+2023-11-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-18,"meteogalicia",18.11,16.19,22.37,95,0,1,1,1,1,1
+2023-11-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-19,"meteogalicia",16.7,15.75,18.75,100,0.7,1,1,1,1,1
+2023-11-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-20,"meteogalicia",14.82,13.58,15.86,92,0,1,1,1,1,1
+2023-11-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-21,"meteogalicia",13.66,12.52,14.51,81,0.3,1,1,1,1,1
+2023-11-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-22,"meteogalicia",13.69,12.13,15.74,90,0,1,1,1,1,1
+2023-11-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-23,"meteogalicia",14.1,10.47,16.96,81,0,1,1,1,1,1
+2023-11-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-24,"meteogalicia",12.1,8.77,16.53,93,0,1,1,1,1,1
+2023-11-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-25,"meteogalicia",11.32,7.4,15.96,96,0,1,1,1,1,1
+2023-11-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-26,"meteogalicia",11.69,8.45,15.07,100,0,1,1,1,1,1
+2023-11-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-27,"meteogalicia",14.31,13.46,15.35,100,4.6,1,1,1,1,1
+2023-11-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-28,"meteogalicia",14.4,12.57,15.78,100,6,1,1,1,1,1
+2023-11-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-29,"meteogalicia",15.83,13.73,18.25,100,6.7,1,1,1,1,1
+2023-11-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-11-30,"meteogalicia",11.42,9.75,13.66,88,6,1,1,1,1,1
+2023-12-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-01,"meteogalicia",11.94,10.04,13.79,91,7.8,1,1,1,1,1
+2023-12-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-02,"meteogalicia",10.54,8.51,14.41,96,3.8,1,1,1,1,1
+2023-12-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-03,"meteogalicia",12.19,9.72,14.16,93,9.2,1,1,1,1,1
+2023-12-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-04,"meteogalicia",12.91,10.41,14.42,88,3.7,1,1,1,1,1
+2023-12-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-05,"meteogalicia",9.25,7.32,12.78,97,0,1,1,1,1,1
+2023-12-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-06,"meteogalicia",10.06,6.45,13.98,79,1.4,1,1,1,1,1
+2023-12-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-07,"meteogalicia",14.42,11.09,17.26,99,15.2,1,1,1,1,1
+2023-12-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-08,"meteogalicia",13.58,11.47,16.07,96,4,1,1,1,1,1
+2023-12-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-09,"meteogalicia",16.77,14.69,19.17,99,7.5,1,1,1,1,1
+2023-12-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-10,"meteogalicia",18.51,15.91,20.31,97,0,1,1,1,1,1
+2023-12-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-11,"meteogalicia",18.32,15.9,19.64,91,6.5,1,1,1,1,1
+2023-12-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-12,"meteogalicia",14.61,12.82,16.1,99,4.3,1,1,1,1,1
+2023-12-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-13,"meteogalicia",12.88,11.35,13.89,95,6.5,1,1,1,1,1
+2023-12-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-14,"meteogalicia",12.51,10.08,14.65,96,0,1,1,1,1,1
+2023-12-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-15,"meteogalicia",12.87,10.55,16.18,99,0,1,1,1,1,1
+2023-12-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-16,"meteogalicia",10.56,7.52,16.07,96,0,1,1,1,1,1
+2023-12-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-17,"meteogalicia",9.24,4.94,16.05,93,0,1,1,1,1,1
+2023-12-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-18,"meteogalicia",8.33,4.34,15.14,97,0,1,1,1,1,1
+2023-12-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-19,"meteogalicia",10.61,7.09,15.18,98,13.4,1,1,1,1,1
+2023-12-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-20,"meteogalicia",12.15,11.34,13.21,97,2.1,1,1,1,1,1
+2023-12-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-21,"meteogalicia",13.25,12.04,14.01,99,1.1,1,1,1,1,1
+2023-12-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-22,"meteogalicia",13,12.21,14.71,96,0,1,1,1,1,1
+2023-12-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-23,"meteogalicia",11.63,9.52,14.52,100,0,1,1,1,1,1
+2023-12-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-24,"meteogalicia",9.92,6.78,16.14,98,0,1,1,1,1,1
+2023-12-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-25,"meteogalicia",10.05,6.25,15.62,97,0,1,1,1,1,1
+2023-12-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-26,"meteogalicia",13.19,10.25,14.99,96,0,1,1,1,1,1
+2023-12-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-27,"meteogalicia",13.84,11.33,16.18,93,40.8,1,1,1,1,1
+2023-12-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-28,"meteogalicia",12.42,11.45,13.87,100,20.3,1,1,1,1,1
+2023-12-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-29,"meteogalicia",12.63,9.61,16.59,89,0,1,1,1,1,1
+2023-12-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-30,"meteogalicia",12.07,8.92,15.59,89,5.8,1,1,1,1,1
+2023-12-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2023-12-31,"meteogalicia",11.65,9.65,13.4,80,7.6,1,1,1,1,1
+2024-01-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-01,"meteogalicia",12.59,10.6,14.44,77,0,1,1,1,1,1
+2024-01-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-02,"meteogalicia",15.1,13.45,17,91,10.6,1,1,1,1,1
+2024-01-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-03,"meteogalicia",14.04,12.52,15.95,82,0,1,1,1,1,1
+2024-01-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-04,"meteogalicia",12.52,10.59,14.43,89,16.4,1,1,1,1,1
+2024-01-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-05,"meteogalicia",11.49,9.85,12.66,79,4.1,1,1,1,1,1
+2024-01-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-06,"meteogalicia",9.9,7.47,14.51,89,0.5,1,1,1,1,1
+2024-01-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-07,"meteogalicia",8.8,6.36,12.43,82,0,1,1,1,1,1
+2024-01-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-08,"meteogalicia",6.84,4.62,9.85,87,3.5,1,1,1,1,1
+2024-01-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-09,"meteogalicia",8.34,4.96,11.48,93,1.7,1,1,1,1,1
+2024-01-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-10,"meteogalicia",10.52,8.94,11.6,94,16.5,1,1,1,1,1
+2024-01-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-11,"meteogalicia",8.22,6.3,10.29,85,0.3,1,1,1,1,1
+2024-01-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-12,"meteogalicia",8.11,4.69,12.15,68,0,1,1,1,1,1
+2024-01-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-13,"meteogalicia",12.72,8.8,15.2,74,2.6,1,1,1,1,1
+2024-01-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-14,"meteogalicia",15.13,12.93,19.76,96,8.7,1,1,1,1,1
+2024-01-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-15,"meteogalicia",15.19,13.75,16.38,100,3.8,1,1,1,1,1
+2024-01-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-16,"meteogalicia",15.98,13.2,18.28,92,6.2,1,1,1,1,1
+2024-01-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-17,"meteogalicia",15.22,13.66,17.97,89,3.7,1,1,1,1,1
+2024-01-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-18,"meteogalicia",11.39,9.25,15.11,91,5.5,1,1,1,1,1
+2024-01-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-19,"meteogalicia",9.75,6.65,12.11,71,0,1,1,1,1,1
+2024-01-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-20,"meteogalicia",8.53,1.98,15.05,66,0,1,1,1,1,1
+2024-01-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-21,"meteogalicia",13.41,10.59,16.02,87,0,1,1,1,1,1
+2024-01-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-22,"meteogalicia",15.9,14.62,17.19,95,5.6,1,1,1,1,1
+2024-01-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-23,"meteogalicia",16.03,14.2,17.64,97,0,1,1,1,1,1
+2024-01-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-24,"meteogalicia",14.53,12.14,16.29,96,0,1,1,1,1,1
+2024-01-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-25,"meteogalicia",14.44,12.53,18,95,0,1,1,1,1,1
+2024-01-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-26,"meteogalicia",13.2,11.14,15.84,99,0,1,1,1,1,1
+2024-01-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-27,"meteogalicia",15.27,11.29,22.62,71,0,1,1,1,1,1
+2024-01-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-28,"meteogalicia",16.04,12.73,19.11,66,0,1,1,1,1,1
+2024-01-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-29,"meteogalicia",15.93,12.89,19.49,74,0,1,1,1,1,1
+2024-01-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-30,"meteogalicia",14.8,12.45,19.59,94,0,1,1,1,1,1
+2024-01-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-01-31,"meteogalicia",13.49,11.07,17.85,94,0,1,1,1,1,1
+2024-02-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-01,"meteogalicia",11.88,9.46,16.05,99,0,1,1,1,1,1
+2024-02-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-02,"meteogalicia",12.32,8.43,16.88,94,0,1,1,1,1,1
+2024-02-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-03,"meteogalicia",12.98,8.98,19.69,85,0,1,1,1,1,1
+2024-02-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-04,"meteogalicia",12.6,9.69,16.36,93,0,1,1,1,1,1
+2024-02-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-05,"meteogalicia",12.15,9.17,15.92,98,0,1,1,1,1,1
+2024-02-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-06,"meteogalicia",12.78,9.11,17.13,89,0,1,1,1,1,1
+2024-02-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-07,"meteogalicia",16.69,13.25,19.18,79,0,1,1,1,1,1
+2024-02-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-08,"meteogalicia",15.08,13.32,17.19,89,7.5,1,1,1,1,1
+2024-02-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-09,"meteogalicia",13.28,11.55,15.12,93,16.4,1,1,1,1,1
+2024-02-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-10,"meteogalicia",11.29,8.81,12.92,82,4,1,1,1,1,1
+2024-02-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-11,"meteogalicia",11.92,9.22,15.1,93,1.8,1,1,1,1,1
+2024-02-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-12,"meteogalicia",13.44,11.38,15.19,88,0.3,1,1,1,1,1
+2024-02-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-13,"meteogalicia",16.63,13.79,20.75,86,0,1,1,1,1,1
+2024-02-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-14,"meteogalicia",19.16,16.21,23.59,86,0,1,1,1,1,1
+2024-02-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-15,"meteogalicia",15.83,12.89,20.13,92,12.4,1,1,1,1,1
+2024-02-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-16,"meteogalicia",13.93,10.47,18.24,93,0.5,1,1,1,1,1
+2024-02-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-17,"meteogalicia",13.87,10.78,17.31,95,0,1,1,1,1,1
+2024-02-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-18,"meteogalicia",14.74,13.05,17.52,100,1.6,1,1,1,1,1
+2024-02-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-19,"meteogalicia",14.12,11.16,16.89,96,0,1,1,1,1,1
+2024-02-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-20,"meteogalicia",13.21,7.7,22.49,90,0,1,1,1,1,1
+2024-02-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-21,"meteogalicia",14.85,11.89,17.2,84,0,1,1,1,1,1
+2024-02-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-22,"meteogalicia",13.12,8.94,16.43,82,7.8,1,1,1,1,1
+2024-02-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-23,"meteogalicia",10.79,9.11,12.95,81,5.8,1,1,1,1,1
+2024-02-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-24,"meteogalicia",11.6,8.62,14.02,87,15.3,1,1,1,1,1
+2024-02-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-25,"meteogalicia",13.62,11.46,14.66,95,17.2,1,1,1,1,1
+2024-02-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-26,"meteogalicia",11.05,8.93,12.3,77,7.5,1,1,1,1,1
+2024-02-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-27,"meteogalicia",11.81,10.57,13.37,65,0,1,1,1,1,1
+2024-02-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-28,"meteogalicia",12.68,9.71,16.48,89,0.8,1,1,1,1,1
+2024-02-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-02-29,"meteogalicia",11.5,9.93,12.81,82,10.1,1,1,1,1,1
+2024-03-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-01,"meteogalicia",11.89,10.16,14.14,95,19.1,1,1,1,1,1
+2024-03-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-02,"meteogalicia",10.05,8.2,11.31,87,18.2,1,1,1,1,1
+2024-03-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-03,"meteogalicia",11.16,7.91,13.8,81,2.8,1,1,1,1,1
+2024-03-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-04,"meteogalicia",11.85,8.7,14.92,82,6.8,1,1,1,1,1
+2024-03-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-05,"meteogalicia",11.46,7.98,15.96,76,0.4,1,1,1,1,1
+2024-03-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-06,"meteogalicia",13.19,9.82,17.78,69,0,1,1,1,1,1
+2024-03-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-07,"meteogalicia",12.45,9.09,16.11,64,0.3,1,1,1,1,1
+2024-03-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-08,"meteogalicia",9.9,8.42,13.17,83,16.4,1,1,1,1,1
+2024-03-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-09,"meteogalicia",9.2,6.75,12.14,90,16.7,1,1,1,1,1
+2024-03-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-10,"meteogalicia",12.28,10.17,14.34,86,10.2,1,1,1,1,1
+2024-03-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-11,"meteogalicia",13.55,11.49,16.25,80,0,1,1,1,1,1
+2024-03-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-12,"meteogalicia",13.96,11.16,18.45,83,0,1,1,1,1,1
+2024-03-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-13,"meteogalicia",14.76,9.55,23.32,71,0,1,1,1,1,1
+2024-03-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-14,"meteogalicia",15.76,13.41,19.47,80,1.2,1,1,1,1,1
+2024-03-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-15,"meteogalicia",15.67,13.53,18.84,82,0,1,1,1,1,1
+2024-03-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-16,"meteogalicia",16.07,12.95,19.5,83,4.6,1,1,1,1,1
+2024-03-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-17,"meteogalicia",16.07,13.57,19.8,94,3.1,1,1,1,1,1
+2024-03-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-18,"meteogalicia",13.81,11.61,15.88,100,0,1,1,1,1,1
+2024-03-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-19,"meteogalicia",12.32,9.38,15.85,95,0,1,1,1,1,1
+2024-03-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-20,"meteogalicia",12,10.16,14.87,96,1.1,1,1,1,1,1
+2024-03-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-21,"meteogalicia",14.99,11.7,19.33,88,0,1,1,1,1,1
+2024-03-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-22,"meteogalicia",14.08,11.81,17.43,94,0,1,1,1,1,1
+2024-03-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-23,"meteogalicia",13,11.17,16.14,76,0,1,1,1,1,1
+2024-03-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-24,"meteogalicia",12.42,10.46,15.98,72,0,1,1,1,1,1
+2024-03-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-25,"meteogalicia",10.39,6.78,12.16,79,3.7,1,1,1,1,1
+2024-03-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-26,"meteogalicia",8.39,6.37,11.54,86,9.2,1,1,1,1,1
+2024-03-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-27,"meteogalicia",9.61,6.63,12.08,85,12.3,1,1,1,1,1
+2024-03-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-28,"meteogalicia",9.37,7.11,12.55,86,11.7,1,1,1,1,1
+2024-03-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-29,"meteogalicia",11.07,8.35,15.43,79,2.1,1,1,1,1,1
+2024-03-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-30,"meteogalicia",9.78,7.86,12.95,83,2,1,1,1,1,1
+2024-03-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-03-31,"meteogalicia",10.2,6.94,14.62,81,6.2,1,1,1,1,1
+2024-04-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-01,"meteogalicia",12.17,8.79,15.73,72,3.9,1,1,1,1,1
+2024-04-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-02,"meteogalicia",14.27,12.68,15.4,85,8.3,1,1,1,1,1
+2024-04-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-03,"meteogalicia",16.56,14.33,19.77,74,0,1,1,1,1,1
+2024-04-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-04,"meteogalicia",16.31,14.48,18.58,71,1.1,1,1,1,1,1
+2024-04-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-05,"meteogalicia",20.09,14.39,27.29,65,7.7,1,1,1,1,1
+2024-04-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-06,"meteogalicia",15.99,12.76,19.85,74,5.3,1,1,1,1,1
+2024-04-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-07,"meteogalicia",16.24,12.38,21.41,60,0,1,1,1,1,1
+2024-04-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-08,"meteogalicia",12.5,10.76,14.62,81,6.6,1,1,1,1,1
+2024-04-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-09,"meteogalicia",13.63,11.47,17.45,68,0,1,1,1,1,1
+2024-04-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-10,"meteogalicia",13.31,8.93,17.62,76,0,1,1,1,1,1
+2024-04-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-11,"meteogalicia",16.11,10.61,22.75,77,0,1,1,1,1,1
+2024-04-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-12,"meteogalicia",18.84,13.8,24.28,76,0,1,1,1,1,1
+2024-04-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-13,"meteogalicia",18.14,15.17,24.38,86,0,1,1,1,1,1
+2024-04-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-14,"meteogalicia",14.52,13.28,16.1,100,0,1,1,1,1,1
+2024-04-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-15,"meteogalicia",14.02,12.91,15.56,85,0,1,1,1,1,1
+2024-04-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-16,"meteogalicia",13.39,12.54,14.71,73,0,1,1,1,1,1
+2024-04-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-17,"meteogalicia",13.25,11.33,16.41,79,0,1,1,1,1,1
+2024-04-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-18,"meteogalicia",14.17,11.73,17.66,67,0,1,1,1,1,1
+2024-04-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-19,"meteogalicia",15.52,11.38,20.03,70,0,1,1,1,1,1
+2024-04-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-20,"meteogalicia",15.81,10.93,21.64,61,0,1,1,1,1,1
+2024-04-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-21,"meteogalicia",15.17,11.27,19.87,60,0,1,1,1,1,1
+2024-04-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-22,"meteogalicia",13.97,10.87,18.62,51,0,1,1,1,1,1
+2024-04-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-23,"meteogalicia",12.41,9.88,15.62,73,0,1,1,1,1,1
+2024-04-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-24,"meteogalicia",12.73,9.7,15.38,77,0,1,1,1,1,1
+2024-04-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-25,"meteogalicia",13.27,11.43,17.95,92,2.6,1,1,1,1,1
+2024-04-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-26,"meteogalicia",11.33,9.51,14.02,99,25.9,1,1,1,1,1
+2024-04-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-27,"meteogalicia",11.56,9,16.68,87,27,1,1,1,1,1
+2024-04-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-28,"meteogalicia",12.15,8.31,15.35,76,4.2,1,1,1,1,1
+2024-04-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-29,"meteogalicia",13.15,7.93,16.91,72,0,1,1,1,1,1
+2024-04-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-04-30,"meteogalicia",12.89,8.94,15.42,80,8.2,1,1,1,1,1
+2024-05-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-01,"meteogalicia",11.99,8.41,16.12,78,5.2,1,1,1,1,1
+2024-05-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-02,"meteogalicia",11.93,9.46,15.63,86,9.4,1,1,1,1,1
+2024-05-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-03,"meteogalicia",14.17,11.07,16.71,95,17,1,1,1,1,1
+2024-05-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-04,"meteogalicia",16.61,15.57,18.74,93,12.3,1,1,1,1,1
+2024-05-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-05,"meteogalicia",14.31,11.73,17.7,88,14.8,1,1,1,1,1
+2024-05-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-06,"meteogalicia",14.67,11.38,18.66,85,0,1,1,1,1,1
+2024-05-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-07,"meteogalicia",14.86,12.07,17.15,87,0,1,1,1,1,1
+2024-05-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-08,"meteogalicia",16.73,12.3,20.3,78,0,1,1,1,1,1
+2024-05-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-09,"meteogalicia",18.93,14.57,27.34,76,0,1,1,1,1,1
+2024-05-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-10,"meteogalicia",17.87,14.29,25.08,85,0,1,1,1,1,1
+2024-05-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-11,"meteogalicia",15.03,13.34,18.51,94,0,1,1,1,1,1
+2024-05-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-12,"meteogalicia",17.04,14.2,19.91,85,0,1,1,1,1,1
+2024-05-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-13,"meteogalicia",15.7,13.18,18.05,92,12.6,1,1,1,1,1
+2024-05-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-14,"meteogalicia",13.79,11.64,16.94,90,15.5,1,1,1,1,1
+2024-05-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-15,"meteogalicia",13.16,11.38,16,89,9.4,1,1,1,1,1
+2024-05-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-16,"meteogalicia",12.84,10.9,15.77,92,5,1,1,1,1,1
+2024-05-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-17,"meteogalicia",14.67,12.27,18,95,12.1,1,1,1,1,1
+2024-05-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-18,"meteogalicia",14.55,12.63,16.96,96,21.2,1,1,1,1,1
+2024-05-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-19,"meteogalicia",14.88,13.3,16.93,97,4,1,1,1,1,1
+2024-05-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-20,"meteogalicia",16.04,13.68,19.7,87,0,1,1,1,1,1
+2024-05-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-21,"meteogalicia",15.66,13.24,18.87,88,6,1,1,1,1,1
+2024-05-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-22,"meteogalicia",14.83,13.35,17.55,89,7.1,1,1,1,1,1
+2024-05-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-23,"meteogalicia",14.31,12.27,17.04,89,5.7,1,1,1,1,1
+2024-05-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-24,"meteogalicia",15.79,11.31,19.39,88,0,1,1,1,1,1
+2024-05-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-25,"meteogalicia",17.28,14.16,23.84,80,0,1,1,1,1,1
+2024-05-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-26,"meteogalicia",15.7,13.88,18.31,88,0.7,1,1,1,1,1
+2024-05-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-27,"meteogalicia",15.16,11.27,18.18,80,0,1,1,1,1,1
+2024-05-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-28,"meteogalicia",15.66,11.35,18.84,88,0,1,1,1,1,1
+2024-05-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-29,"meteogalicia",17.12,14.43,21.54,95,0.3,1,1,1,1,1
+2024-05-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-30,"meteogalicia",16.45,15.02,18.83,85,0.4,1,1,1,1,1
+2024-05-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-05-31,"meteogalicia",16.77,14.14,20.02,65,0,1,1,1,1,1
+2024-06-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-01,"meteogalicia",17.54,14.65,21.56,63,0,1,1,1,1,1
+2024-06-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-02,"meteogalicia",17.76,15.34,21.01,66,0,1,1,1,1,1
+2024-06-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-03,"meteogalicia",18.57,15.38,21.45,70,0,1,1,1,1,1
+2024-06-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-04,"meteogalicia",18.07,14.97,22.26,81,0,1,1,1,1,1
+2024-06-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-05,"meteogalicia",15.71,13.38,19.15,93,0,1,1,1,1,1
+2024-06-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-06,"meteogalicia",16.98,15.23,19.94,90,0,1,1,1,1,1
+2024-06-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-07,"meteogalicia",18,16.06,20.77,81,0,1,1,1,1,1
+2024-06-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-08,"meteogalicia",15.49,14.76,17.15,95,5.7,1,1,1,1,1
+2024-06-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-09,"meteogalicia",15.41,14.45,16.76,81,0,1,1,1,1,1
+2024-06-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-10,"meteogalicia",15.46,14.08,17.66,79,0,1,1,1,1,1
+2024-06-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-11,"meteogalicia",15.3,14.28,17.21,85,0,1,1,1,1,1
+2024-06-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-12,"meteogalicia",15.6,13.03,18.36,76,0,1,1,1,1,1
+2024-06-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-13,"meteogalicia",16.98,12.15,20.84,78,0.7,1,1,1,1,1
+2024-06-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-14,"meteogalicia",16.66,14.64,19.01,83,2.4,1,1,1,1,1
+2024-06-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-15,"meteogalicia",17.11,14.56,20.33,75,0,1,1,1,1,1
+2024-06-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-16,"meteogalicia",18.95,16.41,22.08,82,0.3,1,1,1,1,1
+2024-06-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-17,"meteogalicia",19.44,17.06,22.19,79,4.5,1,1,1,1,1
+2024-06-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-18,"meteogalicia",16.53,14.51,19.65,98,2.9,1,1,1,1,1
+2024-06-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-19,"meteogalicia",15.5,14.5,16.81,97,18.7,1,1,1,1,1
+2024-06-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-20,"meteogalicia",15.72,14.5,17.68,95,3.4,1,1,1,1,1
+2024-06-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-21,"meteogalicia",17.25,14.71,20.1,76,0,1,1,1,1,1
+2024-06-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-22,"meteogalicia",18.28,16.42,21.52,90,0.4,1,1,1,1,1
+2024-06-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-23,"meteogalicia",17.53,16.55,19.75,100,0,1,1,1,1,1
+2024-06-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-24,"meteogalicia",18.45,16.28,21.98,94,0,1,1,1,1,1
+2024-06-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-25,"meteogalicia",17.28,16.02,19.57,100,0,1,1,1,1,1
+2024-06-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-26,"meteogalicia",17.59,15.9,19.57,100,0,1,1,1,1,1
+2024-06-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-27,"meteogalicia",17.47,16.37,18.82,95,0,1,1,1,1,1
+2024-06-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-28,"meteogalicia",17.02,15.89,18.74,92,0,1,1,1,1,1
+2024-06-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-29,"meteogalicia",17.6,15.47,20.48,85,0.9,1,1,1,1,1
+2024-06-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-06-30,"meteogalicia",17.87,16.32,20.81,95,1.1,1,1,1,1,1
+2024-07-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-01,"meteogalicia",17.77,15.6,20.45,89,0,1,1,1,1,1
+2024-07-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-02,"meteogalicia",17.37,15.42,19.43,83,0,1,1,1,1,1
+2024-07-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-03,"meteogalicia",17.86,15.04,20.52,82,0,1,1,1,1,1
+2024-07-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-04,"meteogalicia",17.7,16.67,19.02,93,0,1,1,1,1,1
+2024-07-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-05,"meteogalicia",18.11,15.31,21.35,90,0,1,1,1,1,1
+2024-07-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-06,"meteogalicia",17.5,15.11,20.35,78,3.1,1,1,1,1,1
+2024-07-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-07,"meteogalicia",17.56,13.35,21.76,70,0,1,1,1,1,1
+2024-07-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-08,"meteogalicia",19.49,16.83,23.52,72,10.3,1,1,1,1,1
+2024-07-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-09,"meteogalicia",19.28,17.7,21.73,92,3.5,1,1,1,1,1
+2024-07-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-10,"meteogalicia",20.29,18.41,24.21,94,2.2,1,1,1,1,1
+2024-07-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-11,"meteogalicia",19.98,17.07,23.32,95,2.3,1,1,1,1,1
+2024-07-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-12,"meteogalicia",17.67,16.32,19.51,77,0,1,1,1,1,1
+2024-07-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-13,"meteogalicia",18.89,15.89,22.3,75,0,1,1,1,1,1
+2024-07-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-14,"meteogalicia",20.67,16.92,25.09,74,14.1,1,1,1,1,1
+2024-07-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-15,"meteogalicia",19.45,15.34,23.58,75,0,1,1,1,1,1
+2024-07-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-16,"meteogalicia",19.16,17.36,21.83,81,0,1,1,1,1,1
+2024-07-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-17,"meteogalicia",19.55,15.77,24.45,82,0,1,1,1,1,1
+2024-07-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-18,"meteogalicia",19.72,16.65,23.18,88,0,1,1,1,1,1
+2024-07-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-19,"meteogalicia",20.6,17.27,24.14,87,0,1,1,1,1,1
+2024-07-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-20,"meteogalicia",19.81,17.57,22.38,91,2.5,1,1,1,1,1
+2024-07-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-21,"meteogalicia",18.54,16.94,20.94,69,0,1,1,1,1,1
+2024-07-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-22,"meteogalicia",19.43,14.98,24.31,81,0,1,1,1,1,1
+2024-07-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-23,"meteogalicia",20.17,17.56,24.14,87,0,1,1,1,1,1
+2024-07-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-24,"meteogalicia",20.05,18.24,21.71,93,0,1,1,1,1,1
+2024-07-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-25,"meteogalicia",18.93,17.35,20.61,96,0,1,1,1,1,1
+2024-07-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-26,"meteogalicia",19.67,17.43,23.35,95,0,1,1,1,1,1
+2024-07-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-27,"meteogalicia",19.66,18.16,21.95,88,0,1,1,1,1,1
+2024-07-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-28,"meteogalicia",21.15,18.63,25.48,87,0,1,1,1,1,1
+2024-07-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-29,"meteogalicia",20.44,17.67,23.76,92,0,1,1,1,1,1
+2024-07-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-30,"meteogalicia",21.46,17.51,29.87,86,0,1,1,1,1,1
+2024-07-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-07-31,"meteogalicia",19.22,16.98,22.4,96,0,1,1,1,1,1
+2024-08-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-01,"meteogalicia",19.37,17.95,22.08,97,1.3,1,1,1,1,1
+2024-08-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-02,"meteogalicia",19.15,16.71,22.96,90,0,1,1,1,1,1
+2024-08-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-03,"meteogalicia",19.66,15.78,24.38,86,0,1,1,1,1,1
+2024-08-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-04,"meteogalicia",20.32,17.18,24.1,91,0,1,1,1,1,1
+2024-08-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-05,"meteogalicia",21.88,18.36,25.26,84,0,1,1,1,1,1
+2024-08-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-06,"meteogalicia",20.02,18.02,22.65,93,1.1,1,1,1,1,1
+2024-08-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-07,"meteogalicia",19.72,18.74,21.31,78,0,1,1,1,1,1
+2024-08-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-08,"meteogalicia",19.39,16.89,21.38,94,0,1,1,1,1,1
+2024-08-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-09,"meteogalicia",19.66,17.18,22.73,96,0,1,1,1,1,1
+2024-08-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-10,"meteogalicia",21.93,17.15,27.77,83,0,1,1,1,1,1
+2024-08-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-11,"meteogalicia",22.26,18.89,26.92,86,0,1,1,1,1,1
+2024-08-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-12,"meteogalicia",20.78,18.33,23.92,92,0.5,1,1,1,1,1
+2024-08-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-13,"meteogalicia",19.43,17.19,23.56,88,2.2,1,1,1,1,1
+2024-08-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-14,"meteogalicia",19.14,17.01,22.51,82,0,1,1,1,1,1
+2024-08-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-15,"meteogalicia",19.07,14.84,23.53,83,0,1,1,1,1,1
+2024-08-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-16,"meteogalicia",20.37,16.51,24.27,89,0.3,1,1,1,1,1
+2024-08-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-17,"meteogalicia",21.92,19.93,24.73,96,2.3,1,1,1,1,1
+2024-08-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-18,"meteogalicia",20.25,18.91,22.15,96,1.4,1,1,1,1,1
+2024-08-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-19,"meteogalicia",20.68,16.45,25.26,85,0,1,1,1,1,1
+2024-08-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-20,"meteogalicia",20.48,18.64,22.43,93,1.4,1,1,1,1,1
+2024-08-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-21,"meteogalicia",20.21,17.6,23.65,78,0,1,1,1,1,1
+2024-08-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-22,"meteogalicia",20.89,16.98,24.22,83,0,1,1,1,1,1
+2024-08-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-23,"meteogalicia",21.89,19.36,25.67,86,0,1,1,1,1,1
+2024-08-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-24,"meteogalicia",19.95,17.06,23.68,81,9.4,1,1,1,1,1
+2024-08-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-25,"meteogalicia",18.12,14.5,21.17,72,0,1,1,1,1,1
+2024-08-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-26,"meteogalicia",19.96,17.23,23.25,74,0,1,1,1,1,1
+2024-08-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-27,"meteogalicia",20.13,16.05,25.39,86,0,1,1,1,1,1
+2024-08-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-28,"meteogalicia",19.09,16.53,23.52,91,0,1,1,1,1,1
+2024-08-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-29,"meteogalicia",19.25,18.24,20.99,87,0,1,1,1,1,1
+2024-08-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-30,"meteogalicia",18.81,17.7,20.85,95,0,1,1,1,1,1
+2024-08-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-08-31,"meteogalicia",18.26,17.71,19.38,100,0,1,1,1,1,1
+2024-09-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-01,"meteogalicia",20.43,18.1,22.96,87,5.3,1,1,1,1,1
+2024-09-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-02,"meteogalicia",17.84,16.18,20.29,86,6.9,1,1,1,1,1
+2024-09-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-03,"meteogalicia",17.62,15.79,19.7,77,0,1,1,1,1,1
+2024-09-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-04,"meteogalicia",17.43,15.08,20.04,83,0,1,1,1,1,1
+2024-09-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-05,"meteogalicia",16.76,13.78,20.42,76,6.1,1,1,1,1,1
+2024-09-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-06,"meteogalicia",16.3,13.87,21.18,87,3.1,1,1,1,1,1
+2024-09-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-07,"meteogalicia",17.78,13.64,22.74,80,0,1,1,1,1,1
+2024-09-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-08,"meteogalicia",17.85,13.83,22.8,80,0,1,1,1,1,1
+2024-09-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-09,"meteogalicia",18.39,16.81,21.13,87,0,1,1,1,1,1
+2024-09-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-10,"meteogalicia",17.43,16.35,19.34,76,0,1,1,1,1,1
+2024-09-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-11,"meteogalicia",18.69,15.53,22.96,85,1.5,1,1,1,1,1
+2024-09-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-12,"meteogalicia",18.15,16.21,20.94,92,1,1,1,1,1,1
+2024-09-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-13,"meteogalicia",17.14,14.81,20.61,69,0,1,1,1,1,1
+2024-09-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-14,"meteogalicia",17.25,13.36,21.96,66,0,1,1,1,1,1
+2024-09-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-15,"meteogalicia",18.46,14.38,23.73,63,0,1,1,1,1,1
+2024-09-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-16,"meteogalicia",18.94,13.79,24.11,55,0,1,1,1,1,1
+2024-09-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-17,"meteogalicia",19.32,16.35,22.78,56,0,1,1,1,1,1
+2024-09-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-18,"meteogalicia",19.39,15.69,24.55,63,0,1,1,1,1,1
+2024-09-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-19,"meteogalicia",16.98,15.08,20.7,81,0,1,1,1,1,1
+2024-09-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-20,"meteogalicia",16.72,14.67,20.22,86,0,1,1,1,1,1
+2024-09-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-21,"meteogalicia",17.37,14.92,20.86,92,0,1,1,1,1,1
+2024-09-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-22,"meteogalicia",17.25,14.51,21.56,88,0,1,1,1,1,1
+2024-09-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-23,"meteogalicia",18,14.62,21.44,76,1.7,1,1,1,1,1
+2024-09-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-24,"meteogalicia",18.7,16.14,22.44,81,0,1,1,1,1,1
+2024-09-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-25,"meteogalicia",20.74,18.39,25.11,83,14.5,1,1,1,1,1
+2024-09-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-26,"meteogalicia",18.27,15.12,20.72,80,10,1,1,1,1,1
+2024-09-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-27,"meteogalicia",15.65,12.93,19.5,79,7.9,1,1,1,1,1
+2024-09-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-28,"meteogalicia",14.78,10.7,17.73,81,0,1,1,1,1,1
+2024-09-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-29,"meteogalicia",18.79,16.27,23.95,66,2.5,1,1,1,1,1
+2024-09-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-09-30,"meteogalicia",18.8,16.64,22.23,93,0.8,1,1,1,1,1
+2024-10-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-01,"meteogalicia",20.44,19.03,22.28,95,18.2,1,1,1,1,1
+2024-10-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-02,"meteogalicia",18.61,15.91,20.42,100,30.6,1,1,1,1,1
+2024-10-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-03,"meteogalicia",16.59,15.79,17.83,100,0.3,1,1,1,1,1
+2024-10-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-04,"meteogalicia",18.01,16.13,21.6,94,0.4,1,1,1,1,1
+2024-10-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-05,"meteogalicia",20.88,18.95,24.47,89,11,1,1,1,1,1
+2024-10-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-06,"meteogalicia",18.7,16.66,21.33,93,13,1,1,1,1,1
+2024-10-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-07,"meteogalicia",17.74,14.62,21.78,76,5.3,1,1,1,1,1
+2024-10-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-08,"meteogalicia",18.57,16.62,21.26,82,17.1,1,1,1,1,1
+2024-10-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-09,"meteogalicia",17.89,14.79,22.48,94,22.3,1,1,1,1,1
+2024-10-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-10,"meteogalicia",16.67,14.23,20.33,84,0.4,1,1,1,1,1
+2024-10-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-11,"meteogalicia",17.02,12.87,20.89,78,2.2,1,1,1,1,1
+2024-10-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-12,"meteogalicia",19.73,16.84,24.72,75,0,1,1,1,1,1
+2024-10-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-13,"meteogalicia",19.62,16.06,24.72,76,0,1,1,1,1,1
+2024-10-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-14,"meteogalicia",20.37,18.06,23.36,77,0,1,1,1,1,1
+2024-10-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-15,"meteogalicia",18.64,17.95,19.96,92,20,1,1,1,1,1
+2024-10-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-16,"meteogalicia",17.82,14.9,20.17,94,11.2,1,1,1,1,1
+2024-10-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-17,"meteogalicia",16.4,14.68,18.78,82,6.5,1,1,1,1,1
+2024-10-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-18,"meteogalicia",17.82,14.25,20.39,81,0,1,1,1,1,1
+2024-10-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-19,"meteogalicia",17.82,14.78,20.09,91,9,1,1,1,1,1
+2024-10-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-20,"meteogalicia",21.13,19.48,24.65,71,0,1,1,1,1,1
+2024-10-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-21,"meteogalicia",17.33,14.45,20.04,85,14.3,1,1,1,1,1
+2024-10-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-22,"meteogalicia",15.58,13.2,18.18,82,0,1,1,1,1,1
+2024-10-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-23,"meteogalicia",17.18,12.93,24.85,75,0,1,1,1,1,1
+2024-10-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-24,"meteogalicia",17.49,13.7,22.08,77,2.1,1,1,1,1,1
+2024-10-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-25,"meteogalicia",12.5,10.66,15.4,85,23.1,1,1,1,1,1
+2024-10-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-26,"meteogalicia",13.35,11.03,15.31,93,21,1,1,1,1,1
+2024-10-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-27,"meteogalicia",15.42,13.33,17.36,86,0,1,1,1,1,1
+2024-10-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-28,"meteogalicia",16.36,14.74,18.72,81,0.3,1,1,1,1,1
+2024-10-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-29,"meteogalicia",16.27,12.56,19.85,76,0,1,1,1,1,1
+2024-10-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-30,"meteogalicia",17.94,15.46,20.75,74,0,1,1,1,1,1
+2024-10-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-10-31,"meteogalicia",17.23,15.07,21.16,77,0,1,1,1,1,1
+2024-11-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-01,"meteogalicia",17.5,15.7,20.63,74,0,1,1,1,1,1
+2024-11-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-02,"meteogalicia",16.43,13.81,21.57,85,0,1,1,1,1,1
+2024-11-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-03,"meteogalicia",17.93,13.96,25.08,73,0,1,1,1,1,1
+2024-11-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-04,"meteogalicia",17.87,15.57,21.95,68,2.1,1,1,1,1,1
+2024-11-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-05,"meteogalicia",18.89,15.92,22.33,75,0,1,1,1,1,1
+2024-11-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-06,"meteogalicia",18.25,15.59,24.37,79,0,1,1,1,1,1
+2024-11-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-07,"meteogalicia",18.74,14.47,25.29,73,0,1,1,1,1,1
+2024-11-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-08,"meteogalicia",17.23,14.44,22.84,80,3.2,1,1,1,1,1
+2024-11-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-09,"meteogalicia",16.03,14.33,17.34,86,12.5,1,1,1,1,1
+2024-11-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-10,"meteogalicia",16.77,15.73,17.36,100,7.7,1,1,1,1,1
+2024-11-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-11,"meteogalicia",16.07,14.04,19.09,84,0,1,1,1,1,1
+2024-11-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-12,"meteogalicia",14.95,12.63,17.3,65,0,1,1,1,1,1
+2024-11-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-13,"meteogalicia",13.09,10.89,15.08,65,1.1,1,1,1,1,1
+2024-11-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-14,"meteogalicia",14.89,12.93,17.17,68,0,1,1,1,1,1
+2024-11-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-15,"meteogalicia",14.69,12.9,18.81,82,0.5,1,1,1,1,1
+2024-11-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-16,"meteogalicia",16.77,14.2,21.58,73,0,1,1,1,1,1
+2024-11-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-17,"meteogalicia",15.12,12.66,19.14,81,0,1,1,1,1,1
+2024-11-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-18,"meteogalicia",13.75,10.72,17.08,86,0,1,1,1,1,1
+2024-11-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-19,"meteogalicia",14.46,12.9,16.84,78,0,1,1,1,1,1
+2024-11-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-20,"meteogalicia",15.08,14.15,16.05,85,1.6,1,1,1,1,1
+2024-11-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-21,"meteogalicia",14.2,10.44,16.42,90,33.2,1,1,1,1,1
+2024-11-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-22,"meteogalicia",11.68,8.55,14.16,64,0,1,1,1,1,1
+2024-11-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-23,"meteogalicia",18.68,13.61,21.82,58,0,1,1,1,1,1
+2024-11-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-24,"meteogalicia",18.99,11.35,24.11,61,38.1,1,1,1,1,1
+2024-11-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-25,"meteogalicia",12.91,10.73,15.68,77,3.4,1,1,1,1,1
+2024-11-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-26,"meteogalicia",14.38,12.54,16.92,73,0,1,1,1,1,1
+2024-11-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-27,"meteogalicia",15.95,14.38,18.65,63,0,1,1,1,1,1
+2024-11-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-28,"meteogalicia",16.83,11.4,21.8,46,0,1,1,1,1,1
+2024-11-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-29,"meteogalicia",18.35,15.98,21.5,64,0,1,1,1,1,1
+2024-11-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-11-30,"meteogalicia",17.3,15.44,19.93,81,25.8,1,1,1,1,1
+2024-12-01,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-01,"meteogalicia",15.62,13.87,16.9,97,7.4,1,1,1,1,1
+2024-12-02,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-02,"meteogalicia",13.65,11.37,16.94,87,1.2,1,1,1,1,1
+2024-12-03,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-03,"meteogalicia",12.4,9.39,15.63,89,2.6,1,1,1,1,1
+2024-12-04,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-04,"meteogalicia",14.24,12.91,15.59,87,0.6,1,1,1,1,1
+2024-12-05,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-05,"meteogalicia",16,13.91,17.59,80,0,1,1,1,1,1
+2024-12-06,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-06,"meteogalicia",16.83,15.87,19.07,76,0,1,1,1,1,1
+2024-12-07,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-07,"meteogalicia",14.04,12.09,16.57,65,7.1,1,1,1,1,1
+2024-12-08,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-08,"meteogalicia",12.36,11.11,13.33,62,1.3,1,1,1,1,1
+2024-12-09,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-09,"meteogalicia",11.53,10.04,13.47,71,5.9,1,1,1,1,1
+2024-12-10,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-10,"meteogalicia",10.09,8.59,12,81,0.7,1,1,1,1,1
+2024-12-11,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-11,"meteogalicia",9.27,7.16,12.28,73,0,1,1,1,1,1
+2024-12-12,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-12,"meteogalicia",9.64,6.68,14.3,63,0,1,1,1,1,1
+2024-12-13,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-13,"meteogalicia",9.48,6.45,15.23,60,0,1,1,1,1,1
+2024-12-14,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-14,"meteogalicia",9.1,5.38,14.24,70,0,1,1,1,1,1
+2024-12-15,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-15,"meteogalicia",9.77,6.23,14.34,70,0,1,1,1,1,1
+2024-12-16,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-16,"meteogalicia",12.45,7.66,17.36,52,0,1,1,1,1,1
+2024-12-17,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-17,"meteogalicia",16.34,13.49,20.65,48,0,1,1,1,1,1
+2024-12-18,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-18,"meteogalicia",16.93,14.34,19.26,78,6,1,1,1,1,1
+2024-12-19,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-19,"meteogalicia",13.13,9.41,16.46,68,1.7,1,1,1,1,1
+2024-12-20,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-20,"meteogalicia",10.52,7.88,13.12,76,0,1,1,1,1,1
+2024-12-21,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-21,"meteogalicia",13.05,10.57,15.16,89,1.9,1,1,1,1,1
+2024-12-22,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-22,"meteogalicia",13.69,12.11,14.85,87,2.2,1,1,1,1,1
+2024-12-23,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-23,"meteogalicia",12.07,10.13,13.91,74,0.3,1,1,1,1,1
+2024-12-24,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-24,"meteogalicia",11.62,8.55,15.13,82,0,1,1,1,1,1
+2024-12-25,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-25,"meteogalicia",12.43,9.78,17.21,78,0,1,1,1,1,1
+2024-12-26,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-26,"meteogalicia",11.39,8.26,15.98,84,0,1,1,1,1,1
+2024-12-27,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-27,"meteogalicia",10.78,6.91,14.68,86,0,1,1,1,1,1
+2024-12-28,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-28,"meteogalicia",11.68,9.34,13.27,81,0,1,1,1,1,1
+2024-12-29,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-29,"meteogalicia",11.92,9.15,14.05,76,0,1,1,1,1,1
+2024-12-30,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-30,"meteogalicia",9.92,6.33,14.75,73,0,1,1,1,1,1
+2024-12-31,"10157","Coruña-Torre de Hércules","A CORUÑA","A Coruña",,,,2024-12-31,"meteogalicia",9.74,6.66,15,65,0,1,1,1,1,1

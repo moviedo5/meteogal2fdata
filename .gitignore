@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rcheck/
+meteogal_daily/
+.positai/
+.claude/
+*.tar.gz
+/datos_meteogalicia/

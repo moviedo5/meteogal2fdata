@@ -1,0 +1,152 @@
+---
+title: "Downloading and managing MeteoGalicia observations"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Downloading and managing MeteoGalicia observations}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>")
+```
+
+## Overview
+
+`meteogal2fdata` reads daily meteorological observations from the MeteoGalicia
+station network as ordinary R `data.frame` objects. The workflow is designed to
+keep the original measurements (including missing values) and to convert them
+to functional objects with `fda.usc` only when needed. Daily records retain
+February 29; conversion to annual curves later uses a common 365-day grid.
+
+The package uses **base R** for date handling and data manipulation.
+`jsonlite` is required for native daily JSON online requests. `meteospain`
+is used for station inventory and is an optional legacy backend; `sf`
+reads original spatial `.rda` archives. Data source:
+MeteoGalicia, Xunta de Galicia.
+
+## An offline example
+
+The package includes `meteogal_small.csv`, a six-day extract for station 10157
+(Coruña-Torre de Hércules, January 1-6, 2024). The values reproduce the
+historical data checked during package development; this **small fixture is
+not a complete annual series**.
+
+```{r local-example}
+library(meteogal2fdata)
+f <- system.file("extdata", "meteogal_small.csv", package = "meteogal2fdata")
+mg <- meteogal2df(data_dir = f, vars = c("temp_mean", "prec"))
+head(mg[, c("fecha", "station_id", "temp_mean", "prec")])
+str(mg[, c("fecha", "temp_mean", "prec")])
+```
+
+Station identifiers are strings, so identifiers containing leading zeros are
+not changed. The `fecha` column has class `Date`. Missing values remain `NA`.
+
+## Inventory
+
+The online inventory lists the stations currently returned by the service.
+It does not necessarily include every station that has ever operated.
+
+```{r online-inventory, eval=FALSE}
+inv <- meteogal2inventory(file = "meteogal_inventory.rds")
+head(inv)
+```
+
+An inventory for local archives can be reconstructed without accessing the
+service. `first_date` and `last_date` describe coverage in the available
+files, not official opening and closure dates.
+
+```{r historical-inventory, eval=FALSE}
+inv_old <- meteogal2inventory(data_dir = "../meteogalicia/data")
+head(inv_old)
+```
+
+## Daily downloads and safe resumption
+
+Online requests use the native MeteoGalicia daily JSON endpoint. Large date ranges are
+split into natural calendar months by default; short testing intervals are
+recommended before downloading long historical series.
+
+```{r online-data, eval=FALSE}
+# Most recent 30 days for one station
+recent <- meteogal2df(station_ids = "10157", vars = c("temp_mean", "prec"))
+
+# Store monthly downloads in per-station, per-year .rds files
+log <- meteogal2download("2024-01-01", "2024-12-31",
+                          station_ids = "10157", out_dir = "meteogal_daily")
+print(log)
+```
+
+Successful windows are cached under `meteogal_daily/_tmp_qc/`. If a window fails,
+its corresponding final station-year output is not written. Restarting the same
+request reuses successful windows unless `overwrite = TRUE`.
+
+## Reading historical downloads
+
+The reader accepts the original `meteogalicia_YYYY.rda` files as well as
+station-year `.rds` archives written by `meteogal2download()`.
+
+```{r historical-read, eval=FALSE}
+mg_2024 <- meteogal2df(
+  data_dir = "../meteogalicia/data/meteogalicia_2024.rda",
+  station_ids = "10157", vars = c("temp_mean", "prec"))
+stopifnot(nrow(mg_2024) == 366L)  # 2024 is a leap year
+```
+
+For a larger **real** bundled example, run `data-raw/build-example.R` once
+from the package root. It uses the existing 2023/2024 `.rda` archives,
+selects two adequately observed stations, and writes
+`inst/extdata/meteogal_example.csv` plus a sample-station inventory.
+It does not contact the API.
+
+```{r generated-example}
+full <- system.file("extdata", "meteogal_example.csv", package = "meteogal2fdata")
+if (nzchar(full)) {
+  extended <- meteogal2df(data_dir = full, vars = c("temp_mean", "prec"))
+  print(table(extended$station_id, format(extended$fecha, "%Y")))
+} else {
+  cat("Optional two-station sample not yet generated; run data-raw/build-example.R.\n")
+}
+```
+
+## Data provenance
+
+Data are provided by MeteoGalicia (Xunta de Galicia). Record download dates,
+selected stations, measurement units and the source period in reproducible
+applications. Unobserved dates should never be confused with observations
+whose measurement value is missing.
+
+## Validation status of individual measurements
+
+MeteoGalicia's daily JSON defines validation code `lnCodigoValidacion` for
+each recorded parameter: 0 = not validated, 1 = valid original, 2 = suspect,
+3 = erroneous, 5 = valid interpolated, 9 = not recorded. New downloads
+preserve these codes as `qc_temp_mean`, `qc_prec`, and so on. The numeric
+measurement columns are stored without quality filtering.
+
+```{r qc-offline, eval=TRUE}
+# Small synthetic example: these codes reproduce the official definitions.
+qc_example <- data.frame(fecha = as.Date(c("2024-01-01", "2024-01-02")),
+                         station_id = "10157", temp_mean = c(10, 12),
+                         qc_temp_mean = c(1L, 2L))
+fd <- meteogal2fdata(df = qc_example, var = "temp_mean", quality = 1)
+fd$data[1, 1:2]  # second value masked to NA
+```
+
+When reading locally saved files, `meteogal2df(quality = c(1, 5))` is the
+default, and `quality = 1` admits only original observations. Rejected values
+are `NA`, **but quality columns are never dropped**. `quality = NULL`
+allows suspect and unvalidated measurements but never codes 3 or 9.
+
+The daily service supports selecting `idEst`, `idParam`, `dataIni` and `dataFin`,
+but does not document a server-side filter for the validation code.
+Therefore `meteogal2download(vars=...)` selects variables on the server,
+while the quality criterion is applied locally without losing original data.
+The web form has documented query-volume restrictions, which are **not**
+a documented JSON API quota.
+
+Official source documents:
+
+- <https://www.meteogalicia.gal/datosred/infoweb/meteo/docs/rss/JSON_EstacionsDiarios_es.pdf>
+- <https://www.meteogalicia.gal/datosred/infoweb/meteo/docs/informes/datos_es.pdf>

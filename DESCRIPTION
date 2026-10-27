@@ -1,0 +1,37 @@
+Package: meteogal2fdata
+Type: Package
+Title: Download and Convert MeteoGalicia Observations to Functional Data
+Version: 0.2.0
+Authors@R:
+    person(given = "Manuel", family = "Oviedo de la Fuente",
+           role = c("aut", "cre"), email = "manuel.oviedo@udc.es",
+           comment = c(ORCID = "0000-0001-7360-3249"))
+Description: Downloads daily meteorological observations from the
+    MeteoGalicia station network through its documented daily JSON service,
+    preserving the validation code of every measurement, and reads local
+    historical observations. Provides station inventories, resumable
+    calendar-month downloads to station-year files (with a provenance
+    manifest), and conversion to base R data frames or functional data
+    objects ('fdata' and 'ldata') from 'fda.usc'. Functional curves represent
+    station-year combinations on a common 365-day grid; missing values are
+    preserved, never imputed, and the daily validation codes and dates of each
+    curve are kept in the 'ldata' metadata.
+URL: https://github.com/moviedo5/meteogal2fdata
+BugReports: https://github.com/moviedo5/meteogal2fdata/issues
+License: GPL-3
+Encoding: UTF-8
+Depends:
+    R (>= 3.5.0)
+Imports:
+    fda.usc,
+    jsonlite,
+    tools,
+    utils
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Roxygen: list(markdown = TRUE)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.0

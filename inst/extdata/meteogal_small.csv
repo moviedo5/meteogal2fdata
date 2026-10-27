@@ -1,0 +1,7 @@
+fecha,station_id,station_name,province,altitude,lon,lat,temp_mean,prec
+2024-01-01,10157,Coruña-Torre de Hércules,A Coruña,21,-8.409202,43.38276,12.59,0
+2024-01-02,10157,Coruña-Torre de Hércules,A Coruña,21,-8.409202,43.38276,15.10,10.6
+2024-01-03,10157,Coruña-Torre de Hércules,A Coruña,21,-8.409202,43.38276,14.04,0
+2024-01-04,10157,Coruña-Torre de Hércules,A Coruña,21,-8.409202,43.38276,12.52,16.4
+2024-01-05,10157,Coruña-Torre de Hércules,A Coruña,21,-8.409202,43.38276,11.49,4.1
+2024-01-06,10157,Coruña-Torre de Hércules,A Coruña,21,-8.409202,43.38276,9.90,0.5
